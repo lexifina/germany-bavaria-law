@@ -3,7 +3,7 @@
 Vom 5. August 2010
 (GVBl. S. 410, 528, 764)
 BayRS 2033-1-1-F
-Bayerisches Beamtenversorgungsgesetz (BayBeamtVG) vom 5. August 2010 (GVBl. S. 410, 528, 764, BayRS 2033-1-1-F), das zuletzt durch § 73 des Gesetzes vom 26. März 2026 (GVBl. S. 75) geändert worden ist
+Bayerisches Beamtenversorgungsgesetz (BayBeamtVG) vom 5. August 2010 (GVBl. S. 410, 528, 764, BayRS 2033-1-1-F), das zuletzt durch die §§ 7, 8, 9 und 10 des Gesetzes vom 9. November 2026 (GVBl. S. 642) geändert worden ist
 Änderungen
 1. § 1 ÄndG vom 8.12.2011 (GVBl. S. 622)
 2. § 32 G zur Anpassung an das Neue Dienstrecht vom 20.12.2011 (GVBl. S. 689)
@@ -39,3 +39,4 @@ Bayerisches Beamtenversorgungsgesetz (BayBeamtVG) vom 5. August 2010 (GVBl. S. 4
 32. §§ 8, 9 Erstes ModernisierungsG Bayern vom 23.12.2024 (GVBl. S. 605)
 33. §§ 7, 8, 9 Gesetz zur Änderung dienstrechtlicher Vorschriften vom 23.12.2025 (GVBl. S. 643)
 34. § 73 Viertes Modernisierungsgesetz Bayern vom 26.3.2026 (GVBl. S. 75)
+35. §§ 7, 8, 9, 10 Gesetz zur Anpassung der Bezüge 2026/2027/2028 vom 9.11.2026 (GVBl. S. 642)
