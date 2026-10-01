@@ -3,7 +3,7 @@
 Vom 5. August 2010
 (GVBl. S. 410, 764)
 BayRS 2032-1-1-F
-Bayerisches Besoldungsgesetz (BayBesG) vom 5. August 2010 (GVBl. S. 410, 764, BayRS 2032-1-1-F), das zuletzt durch die Art. 10, 11, 12, 13 und 14 des Gesetzes vom 8. Mai 2026 (GVBl. S. 208) geändert worden ist
+Bayerisches Besoldungsgesetz (BayBesG) vom 5. August 2010 (GVBl. S. 410, 764, BayRS 2032-1-1-F), das zuletzt durch § 61 des Gesetzes vom 26. März 2026 (GVBl. S. 75), dieses wiederum geändert durch § 11 des Gesetzes vom 9. November 2026 (GVBl. S. 642), durch die Art. 10, 11, 12, 13 und 14 des Gesetzes vom 8. Mai 2026 (GVBl. S. 208) sowie durch die §§ 1, 2, 3, 4, 5 und 6 des Gesetzes vom 9. November 2026 (GVBl. S. 642) geändert worden ist
 Änderungen
 1. Art. 15 HaushaltsG 2011/2012 vom 14.4.2011 (GVBl. S. 150)
 2. § 2 ÄndG vom 20.7.2011 (GVBl. S. 307)
@@ -53,5 +53,6 @@ Bayerisches Besoldungsgesetz (BayBesG) vom 5. August 2010 (GVBl. S. 410, 764, Ba
 46. §§ 1, 2, 3, 4, 5 BezügeanpassungsG 2024/2025 vom 8.7.2024 (GVBl. S. 170)
 47. § 2 Nachtragshaushaltsgesetz 2025 vom 28.4.2025 (GVBl. S. 107)
 48. §§ 3, 4, 5 Gesetz zur Änderung dienstrechtlicher Vorschriften vom 23.12.2025 (GVBl. S. 643)
-49. § 61 Viertes Modernisierungsgesetz Bayern vom 26.3.2026 (GVBl. S. 75)
+49. § 61 Viertes Modernisierungsgesetz Bayern vom 26.3.2026 (GVBl. S. 75, geänd. durch G v. 9.11.2026, GVBl. S. 642)
 50. Art. 11, 12, 13, 14 Haushaltsgesetz 2026/2027 vom 8.5.2026 (GVBl. S. 208)
+51. 1 , 2, 3, 4, 5, 6 Gesetz zur Anpassung der Bezüge 2026/2027/2028 vom 9.11.2026 (GVBl. S. 642)

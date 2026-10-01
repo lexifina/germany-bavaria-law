@@ -1,0 +1,5 @@
+# Art. 60b Zuschlag zur Gewinnung von Personal für den öffentlichen Gesundheitsdienst
+(1) Beamten und Beamtinnen des Landesamts für Gesundheit und Lebensmittelsicherheit, die Gesundheitsaufgaben nach Art. 4 Abs. 1 des Gesundheitsdienstgesetzes erfüllen, sowie der Gesundheitsämter und des gerichtsärztlichen Dienstes und Beamten und Beamtinnen der Fachlaufbahnen Gesundheit, fachlicher Schwerpunkt Gesundheitsdienst und Humanmedizin, sowie Verwaltung und Finanzen, fachlicher Schwerpunkt Sozialwissenschaften an den Regierungen kann ein Zuschlag (Gesundheitsdienstzuschlag) gewährt werden, wenn ein bestimmter Dienstposten andernfalls insbesondere im Hinblick auf die fachliche Qualifikation sowie die Bedarfs- und Bewerberlage nicht anforderungsgerecht besetzt werden kann und die Deckung des Personalbedarfs dies im konkreten Fall erfordert.
+(2) Der Zuschlag beträgt monatlich bis zu 500 €. Art. 60a Abs. 2 Satz 2 bis 8 gilt entsprechend.
+(3) Der Gesundheitsdienstzuschlag wird nicht neben einem Zuschlag nach Art. 60 gewährt. Art. 60a Abs. 3 Satz 2 gilt entsprechend.
+(4) Art. 60a Abs. 5 gilt entsprechend.

@@ -1,13 +1,13 @@
 # Anlage 7 Stellenzulagen
 (Monatsbeträge)
-Gültig ab 1. Februar 2025
+Gültig ab 1. Oktober 2026
 Rechtsgrundlage Art. 51 Abs. 1 | Höhe Art. 51 Abs. 2
  | Höchstbetrag (Betrag in Euro)
-Nrn. 1, 4 | bis zu 136,81
-Nr. 2 | bis zu 102,61
-Nr. 5 | bis zu 51,30
- | Vomhundertsatz
-Nrn. 3, 7 Die Zulage beträgt in den Besoldungsgruppen | 4,7 v. H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe
+Nrn. 1, 4 | bis zu 140,67
+Nr. 2 | bis zu 105,50
+Nr. 5 | bis zu 52,75
+ | Prozentsatz
+Nrn. 3, 7 Die Zulage beträgt in den Besoldungsgruppen | 4,7 % des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe
 A 3 bis A 5 | A 5
 A 6 bis A 9 | A 9
 A 10 bis A 13 | A 13
