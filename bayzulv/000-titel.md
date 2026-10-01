@@ -3,7 +3,7 @@
 Vom 16. November 2010
 (GVBl. S. 747)
 BayRS 2032-2-11-F
-Bayerische Zulagenverordnung (BayZulV) vom 16. November 2010 (GVBl. S. 747, BayRS 2032-2-11-F), die zuletzt durch die §§ 1, 2, 3 und 4 der Verordnung vom 10. Dezember 2024 (GVBl. S. 646) geändert worden ist
+Bayerische Zulagenverordnung (BayZulV) vom 16. November 2010 (GVBl. S. 747, BayRS 2032-2-11-F), die zuletzt durch die §§ 15, 16 und 17 des Gesetzes vom 9. November 2026 (GVBl. S. 642) geändert worden ist
 Änderungen
 1. §§ 8 und 9 G zur Anpassung der Bezüge 2012 vom 30.3.2012 (GVBl. S. 94)
 2. §§ 5 und 6 G zur Anpassung der Bezüge 2013/2014 vom 8.7.2013 (GVBl. S. 405)
@@ -20,3 +20,4 @@ Bayerische Zulagenverordnung (BayZulV) vom 16. November 2010 (GVBl. S. 747, BayR
 13. V zur Änderung der Bayerischen Zulagenverordnung vom 5.9.2023 (GVBl. S. 562)
 14. §§ 15, 16 BezügeanpassungsG 2024/2025 vom 8.7.2024 (GVBl. S. 170)
 15. §§ 1, 2, 3 und 4 V zur Änd. der Bayerischen ZulagenV vom 10.12.2024 (GVBl. S. 646)
+16. §§ 15, 16, 17 Gesetz zur Anpassung der Bezüge 2026/2027/2028 vom 9.11.2026 (GVBl. S. 642)

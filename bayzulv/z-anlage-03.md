@@ -1,8 +1,8 @@
 # Anlage 3 Luftfahrtgeräteprüferzulage, Steuerprüferzulage und Justizwachtmeisterzulage
 (Monatsbeträge in Euro)
-Gültig ab 1. Februar 2025
+Gültig ab 1. Oktober 2026
 Rechtsgrundlage | 
-§ 6 |  | 136,81
-§ 7 | A 6 bis A 8 | 22,82
-A 9 bis A 13 | 51,30
-§ 7a |  | 88,42
+§ 6 |  | 140,67
+§ 7 | A 6 bis A 8 | 23,46
+A 9 bis A 13 | 52,75
+§ 7a |  | 90,91
