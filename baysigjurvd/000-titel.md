@@ -3,7 +3,7 @@
 Vom 27. Dezember 1999
 (GVBl. S. 529)
 BayRS 302-1-J
-Gesetz zur Sicherung des juristischen Vorbereitungsdienstes (SiGjurVD) vom 27. Dezember 1999 (GVBl. S. 529, BayRS 302-1-J), das zuletzt durch die §§ 11 und 12 des Gesetzes vom 8. Juli 2024 (GVBl. S. 170) geändert worden ist
+Gesetz zur Sicherung des juristischen Vorbereitungsdienstes (SiGjurVD) vom 27. Dezember 1999 (GVBl. S. 529, BayRS 302-1-J), das zuletzt durch die §§ 12, 13 und 14 des Gesetzes vom 9. November 2026 (GVBl. S. 642) geändert worden ist
 Änderungen
 1. § 21 G zur Stärkung elektronischer Verwaltungstätigkeiten vom 24.12.2002 (GVBl. S. 962)
 2. § 1 ÄndG vom 7.12.2004 (GVBl. S. 498)
@@ -19,4 +19,5 @@ Gesetz zur Sicherung des juristischen Vorbereitungsdienstes (SiGjurVD) vom 27. D
 12. §§ 8, 9 BezügeanpassungsG 2019/2020/2021 vom 24.7.2019 (GVBl. S. 347)
 13. § 7 BezügeanpassungsG 2022 vom 23.6.2022 (GVBl. S. 254)
 14. § 6 G zur Neuausrichtung orts- und familienbezogener Besoldungsbestandteile vom 10.3.2023 (GVBl. S. 80)
-15. § 11, § 12 BezügeanpassungsG 2024/2025 vom 8.7.2024 (GVBl. S. 170)
+15. §§ 11, 12 BezügeanpassungsG 2024/2025 vom 8.7.2024 (GVBl. S. 170)
+16. §§ 12, 13, 14 Gesetz zur Anpassung der Bezüge 2026/2027/2028 vom 9.11.2026 (GVBl. S. 642)
