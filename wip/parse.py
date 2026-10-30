@@ -173,6 +173,7 @@ def parse_xml(raw: bytes, dokid: str) -> dict:
     zitat = norm(inline(rumpf.find('normzitat'))) if rumpf.find('normzitat') is not None else ''
     if zitat:
         head.append(zitat)
+    amend: list[str] = []
     av = rumpf.find('aenderungsverlauf')
     if av is not None:
         for x in av:
@@ -183,6 +184,7 @@ def parse_xml(raw: bytes, dokid: str) -> dict:
             txt = norm(' '.join(inline(c) for c in li if c.tag != 'symbol'))
             if txt or sym:
                 head.append(f'{sym} {txt}'.strip())
+                amend.append(txt)
     units['000-titel'] = {'label': 'Titel', 'kind': 'title', 'text': '\n'.join(head) + '\n'}
     seen.add('000-titel')
     pending: list[str] = []
@@ -228,6 +230,19 @@ def parse_xml(raw: bytes, dokid: str) -> dict:
                 pending.clear()
                 units[key] = {'label': label, 'kind': kind, 'text': text}
                 order.append(key)
+            elif ch.tag == 'annex':
+                nr = norm(' '.join(lines(ch.find('annex.nummer')))) if ch.find('annex.nummer') is not None else ''
+                ti = norm(' '.join(lines(ch.find('annex.titel')))) if ch.find('annex.titel') is not None else ''
+                key, kind = unit_key(nr or ti or 'Anlage', seen, pad)
+                body = []
+                for x in ch:
+                    if x.tag not in ('annex.nummer', 'annex.titel'):
+                        body += lines(x)
+                heading = '# ' + ' '.join(x for x in (nr, ti) if x)
+                units[key] = {'label': nr or ti or 'Anlage', 'kind': 'annex',
+                              'text': '\n'.join(pending + [heading] + body) + '\n'}
+                pending.clear()
+                order.append(key)
             elif ch.tag in ('jurAbsatz', 'p', 'ul', 'table'):  # loose text outside any Einzelnorm
                 key, kind = unit_key('text', seen, pad)
                 units[key] = {'label': 'Text', 'kind': 'other', 'text': '\n'.join(pending + lines(ch)) + '\n'}
@@ -239,7 +254,7 @@ def parse_xml(raw: bytes, dokid: str) -> dict:
     if pending and order:
         units[order[-1]]['text'] += '\n'.join(pending) + '\n'
     return {'dokid': dokid, 'inkraft': inkraft, 'ausfertigung': ausf, 'title': title_lines[0], 'title_lines': title_lines,
-            'abk': abk, 'units': units, 'order': order,
+            'abk': abk, 'units': units, 'order': order, 'amend': amend,
             'bayrs': norm(va.findtext('gliederungsNr.BayRS') or '')}
 
 
@@ -247,6 +262,23 @@ def read_zip(path: Path) -> tuple[bytes, str]:
     with zipfile.ZipFile(path) as z:
         names = [n for n in z.namelist() if n.endswith('.xml') and not n.startswith('META-INF')]
         return z.read(names[0]), names[0]
+
+
+def amending_laws(amend: list[str]) -> dict:
+    """The amending acts the portal lists, as law records keyed by their place in the GVBl (year and first page)."""
+    laws = {}
+    for t in amend:
+        m = re.search(r'vom (\d{1,2})\.(\d{1,2})\.(\d{4})\s*\(GVBl\.?\s*(\d{4})?\s*S\.\s*(\d+)', t)
+        if not m:
+            continue
+        d, mo, y, gy, page = m.groups()
+        gy = gy or y
+        key = f'gvbl-{gy}-{int(page):04d}'
+        laws[key] = {'label': f'Gesetz vom {int(d)}.{int(mo)}.{y} (GVBl. {gy} S. {int(page)})',
+                     'title': None, 'kind': 'law', 'enacted': f'{y}-{int(mo):02d}-{int(d):02d}', 'published': None,
+                     'url': None, 'temporary_until': None, 'restores': None,
+                     'note': 'Listed by BAYERN.RECHT among the acts that amended this act; its text is not in this record.'}
+    return laws
 
 
 def act_of(dokid: str) -> tuple[dict, dict]:
@@ -257,7 +289,7 @@ def act_of(dokid: str) -> tuple[dict, dict]:
     slug = re.sub(r'[^a-z0-9]+', '-', dokid.lower()).strip('-')
     act = {
         'slug': slug, 'short': p['abk'], 'title': p['title'], 'url': f'{BASE}/Content/Document/{dokid}',
-        'first_law': None, 'earlier_laws': [],
+        'first_law': None, 'earlier_laws': sorted(amending_laws(p['amend'])),
         'versions': [{
             'from': day, 'source_url': f'{BASE}/Content/Document/{dokid}',
             'sha256': hashlib.sha256(raw).hexdigest(),
@@ -269,14 +301,15 @@ def act_of(dokid: str) -> tuple[dict, dict]:
 
 
 def part(name: str, ids: list[str], country: bool) -> None:
-    acts, decisions = [], []
+    acts, decisions, laws = [], [], {}
     for i in ids:
         a, p = act_of(i)
         if not a['versions'][0]['from']:
             print('no date, left out:', i, file=sys.stderr)
             continue
         acts.append(a)
-    out = {'acts': acts, 'laws': {}, 'applies': [],
+        laws.update(amending_laws(p['amend']))
+    out = {'acts': acts, 'laws': dict(sorted(laws.items())), 'applies': [],
            'sources': [{'name': 'Bürgerservice BAYERN.RECHT (Bayerische Staatskanzlei), XML download of each act',
                         'url': BASE, 'retrieved': RETRIEVED,
                         'licence': 'BAYERN.RECHT "Rechtliche Hinweise und Nutzungsbedingungen": the Vorschriften may '
