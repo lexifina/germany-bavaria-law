@@ -281,7 +281,7 @@ def amending_laws(amend: list[str]) -> dict:
         gy = gy or y
         key = f'gvbl-{gy}-{int(page):04d}'
         laws[key] = {'label': f'Gesetz vom {int(d)}.{int(mo)}.{y} (GVBl. {gy} S. {int(page)})',
-                     'title': norm(t[:m.start()]) or None, 'kind': 'law', 'enacted': f'{y}-{int(mo):02d}-{int(d):02d}', 'published': None,
+                     'title': norm(re.sub(r'^(?:Art\.|§§?)\s*[\d\w]+(?:\s*(?:Abs\.|Nr\.|Satz)\s*\d+\w*)*\s*', '', t[:m.start()])) or None, 'kind': 'law', 'enacted': f'{y}-{int(mo):02d}-{int(d):02d}', 'published': None,
                      'url': None, 'temporary_until': None, 'restores': None,
                      'note': 'Listed by BAYERN.RECHT among the acts that amended this act; its text is not in this record.'}
     return laws
