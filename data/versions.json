@@ -1,0 +1,3379 @@
+{
+ "country": "DE-BY",
+ "acts": [
+  {
+   "slug": "bayverf",
+   "short": "BayVerf",
+   "title": "Verfassung des Freistaates Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVerf",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 196,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVerf",
+     "sha256": "ffc71af8f7f60cdb18a66d4839b69a13d06c46e2fb09e6c3924f7b91fefc0aa7"
+    }
+   ]
+  },
+  {
+   "slug": "bayabmg",
+   "short": "AbmG",
+   "title": "Gesetz über die Abmarkung der Grundstücke",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAbmG",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 29,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAbmG",
+     "sha256": "e5d02bdd21c94ba7f489382f3f69b302dc266d98e7f2c4e61f7ed06cfe66c720"
+    }
+   ]
+  },
+  {
+   "slug": "bayalmg",
+   "short": "Almgesetz",
+   "title": "Gesetz über den Schutz der Almen und die Förderung der Almwirtschaft",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAlmG",
+   "versions": [
+    {
+     "from": "1983-01-01",
+     "units": 11,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAlmG",
+     "sha256": "227a663d148d8368fc573cd14dd62c8714c1d1aa13619c52317756c3645532d3"
+    }
+   ]
+  },
+  {
+   "slug": "bayasylaufng",
+   "short": "AufnG",
+   "title": "Gesetz über die Aufnahme und Unterbringung der Leistungsberechtigten nach dem Asylbewerberleistungsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAsylAufnG",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 14,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAsylAufnG",
+     "sha256": "77498eb1a2ed66d88fa6bc3ef6de658812b6ecb55eccf4e2e63a08e6bd7d1491"
+    }
+   ]
+  },
+  {
+   "slug": "bay-2251-3-2-s",
+   "short": "AGStVRundfGeb",
+   "title": "Gesetz zur Ausführung des Staatsvertrags über die Regelung des Rundfunkgebührenwesens",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BAY_2251_3_2_S",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 5,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BAY_2251_3_2_S",
+     "sha256": "5f6ab4a39d311c0e6440fe1ad3dffe398eb9039983c22736a340a01751b4a8af"
+    }
+   ]
+  },
+  {
+   "slug": "bayagbdg",
+   "short": "AGBDG",
+   "title": "Gesetz zur Ausführung des Bundesdisziplinargesetzes",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGBDG",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 7,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGBDG",
+     "sha256": "031eba8f9c3f8803b0b229fa792755e5796c4f116d7048203bc02d427b3ba071"
+    }
+   ]
+  },
+  {
+   "slug": "bayagg-10",
+   "short": "AGG 10",
+   "title": "Gesetz über die Aufgaben der G10-Kommission im Bayerischen Landtag und zur Ausführung des Art. 10-Gesetzes – G 10",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGG_10",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 8,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGG_10",
+     "sha256": "6c311b4c5fe1cfd7237f1774d179cf2e6fa86fbef995e674b811b4d6b1a6bf19"
+    }
+   ]
+  },
+  {
+   "slug": "baymediend-stvag",
+   "short": "AGM",
+   "title": "Gesetz zur Ausführung medienrechtlicher Staatsverträge und des Digitale-Dienste-Gesetzes",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayMediend_StVAG",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 11,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayMediend_StVAG",
+     "sha256": "8c3abc8f7b52a14748a1a16860941d7eb49d8c78a059a81f9bba35e1ae22d48e"
+    }
+   ]
+  },
+  {
+   "slug": "bayzgausland",
+   "short": "AGAufenthG",
+   "title": "Gesetz zur Ausführung des Aufenthaltsgesetzes und ausländerrechtlicher Bestimmungen in anderen Gesetzen",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayZGAusland",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 9,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayZGAusland",
+     "sha256": "39fd0ade85a4d03ef8d30c6be2e743e86f6b8880d55cc73aa9300af45b22cfb4"
+    }
+   ]
+  },
+  {
+   "slug": "baybaukag",
+   "short": "BauKaG",
+   "title": "Gesetz über die Bayerische Architektenkammer und die Bayerische Ingenieurekammer-Bau",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayBauKaG",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 39,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayBauKaG",
+     "sha256": "cce0ba027dbfdad94a71a0380e6b3422a4c57d1a0c229f05429c93e773e73efc"
+    }
+   ]
+  },
+  {
+   "slug": "baybo",
+   "short": "BayBO",
+   "title": "Bayerische Bauordnung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayBO",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 98,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayBO",
+     "sha256": "fa567818a6dedb0fc380c28ab69680941383cdf4f4ae2e7a4b257fed1c377ea7"
+    }
+   ]
+  },
+  {
+   "slug": "bayho",
+   "short": "BayHO",
+   "title": "Haushaltsordnung des Freistaates Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayHO",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 119,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayHO",
+     "sha256": "1cee9a3d0cb5866bc2abd8fb0a87727f21e14b937e3e982c2e4c9bc4d592eb3e"
+    }
+   ]
+  },
+  {
+   "slug": "bayabgg",
+   "short": "BayAbgG",
+   "title": "Gesetz über die Rechtsverhältnisse der Mitglieder des Bayerischen Landtags",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAbgG",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 69,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAbgG",
+     "sha256": "42571f58a65c804dab87c1068e6b3451b605d4f203f5c5e11678797c63a1aa89"
+    }
+   ]
+  },
+  {
+   "slug": "bayabfalg",
+   "short": "BayAbfG",
+   "title": "Gesetz zur Vermeidung, Verwertung und sonstigen Bewirtschaftung von Abfällen in Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAbfAlG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 31,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAbfAlG",
+     "sha256": "9ee19450624e0f4383033d34b7910cd2006c9228ef448cb4d54e366122dd05aa"
+    }
+   ]
+  },
+  {
+   "slug": "bayabgrg",
+   "short": "BayAbgrG",
+   "title": "Bayerisches Abgrabungsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAbgrG",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 12,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAbgrG",
+     "sha256": "9f8017cb0bfad457ce4b84c65720795b78d2c56c0be7503b31db783ce93b8f2b"
+    }
+   ]
+  },
+  {
+   "slug": "bayafoeg",
+   "short": "BayAföG",
+   "title": "Gesetz zur Ergänzung des Bundesgesetzes über individuelle Förderung der Ausbildung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAfoeG",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 9,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAfoeG",
+     "sha256": "71199ba304cee50af92b6ec50939108cc4be0064f67b7b908da1b5828e8f139b"
+    }
+   ]
+  },
+  {
+   "slug": "bayagbafoeg",
+   "short": "BayAGBAföG",
+   "title": "Gesetz zur Ausführung des Bundesgesetzes über individuelle Förderung der Ausbildung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGBAfoeG",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 7,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGBAfoeG",
+     "sha256": "081568b6c1bdd09efe2c97cb66bebe2e183702b8c34e45a358b4fb6f8a5d3529"
+    }
+   ]
+  },
+  {
+   "slug": "baybqfg",
+   "short": "BayBQFG",
+   "title": "Bayerisches Gesetz über die Feststellung der Gleichwertigkeit ausländischer Berufsqualifikationen",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayBQFG",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 22,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayBQFG",
+     "sha256": "34d1de8da48600018b153befcd5482a9889c682d8fbc2c6c9fc13c60b1dd21cc"
+    }
+   ]
+  },
+  {
+   "slug": "baybodschg",
+   "short": "BayBodSchG",
+   "title": "Bayerisches Gesetz zur Ausführung des Bundes-Bodenschutzgesetzes",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayBodSchG",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 18,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayBodSchG",
+     "sha256": "cd1764bce684f1e02331bf87428dcb23a3f4e2f72cfafdcdd0a47dfa6c5423c8"
+    }
+   ]
+  },
+  {
+   "slug": "bayarchivg",
+   "short": "BayArchivG",
+   "title": "Bayerisches Archivgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayArchivG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 20,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayArchivG",
+     "sha256": "2cebdfac58378be3b253eae9ced0eddf5d4f5f53578ce7718bb616fdf10dad21"
+    }
+   ]
+  },
+  {
+   "slug": "bayarbzustg",
+   "short": "BayArbZustG",
+   "title": "Bayerisches Gesetz über die Zuständigkeit zum Vollzug von Vorschriften auf dem Gebiet des Arbeitsschutzes, der Anlagen- und Produktsicherheit und des Chemikalienrechts",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayArbZustG",
+   "versions": [
+    {
+     "from": "2013-06-01",
+     "units": 7,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayArbZustG",
+     "sha256": "ba710b48e4a84f965ff61e78cf6ba1beb31ee7346a7396b529120d5b9e10b682"
+    }
+   ]
+  },
+  {
+   "slug": "baybeamtvg",
+   "short": "BayBeamtVG",
+   "title": "Bayerisches Beamtenversorgungsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayBeamtVG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 130,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayBeamtVG",
+     "sha256": "5b7e57f6f4717fcb4e88999746c9bdf9e855e87b9256d84ec27330482d877f82"
+    }
+   ]
+  },
+  {
+   "slug": "baybeauftrg",
+   "short": "BayBeauftrG",
+   "title": "Gesetz über die Beauftragten der Bayerischen Staatsregierung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayBeauftrG",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 8,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayBeauftrG",
+     "sha256": "59b21f879595f85ff8498bca0a092adbb61a8e4d1d4ee415ccbe1e0007633689"
+    }
+   ]
+  },
+  {
+   "slug": "baybesg",
+   "short": "BayBesG",
+   "title": "Bayerisches Besoldungsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayBesG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 129,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayBesG",
+     "sha256": "fc4899118c7320ad12ebbbb5d633d4a365e322f01596dff71fd448ae87b7772c"
+    }
+   ]
+  },
+  {
+   "slug": "baybg",
+   "short": "BayBG",
+   "title": "Bayerisches Beamtengesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayBG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 133,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayBG",
+     "sha256": "8d517d12f15506ed6e8ca5f98e00035eaa4b1c3570261a427fec1cf219cc135d"
+    }
+   ]
+  },
+  {
+   "slug": "baybgg",
+   "short": "BayBGG",
+   "title": "Bayerisches Behindertengleichstellungsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayBGG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 21,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayBGG",
+     "sha256": "6ece427b04b9ffad6685564c6da5d61667d92406e89f8d8385b590627b864c01"
+    }
+   ]
+  },
+  {
+   "slug": "bayblindg",
+   "short": "BayBlindG",
+   "title": "Bayerisches Blindengeldgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayBlindG",
+   "versions": [
+    {
+     "from": "2018-02-01",
+     "units": 12,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayBlindG",
+     "sha256": "0044d53c9dc9fb529ec9795e3829e54ac9c97b0ee481fa21625f5db485d7e1f1"
+    }
+   ]
+  },
+  {
+   "slug": "bayeg",
+   "short": "BayEG",
+   "title": "Bayerisches Gesetz über die entschädigungspflichtige Enteignung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayEG",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 56,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayEG",
+     "sha256": "5cbf0a8d1444003c83935a9d6a8f1f6ec113a04c8f346c7983441521c6b0a3ba"
+    }
+   ]
+  },
+  {
+   "slug": "bayebg",
+   "short": "BayESG",
+   "title": "Gesetz über die Rechtsverhältnisse der nichtbundeseigenen Eisenbahnen und der Seilbahnen in Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayEBG",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 35,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayEBG",
+     "sha256": "acc442d6c85a3d3e296c7723c80065c01b6277dbd3c0deffa70d756a50595b4e"
+    }
+   ]
+  },
+  {
+   "slug": "bayebfoeg",
+   "short": "BayEbFöG",
+   "title": "Bayerisches Gesetz zur Förderung der Erwachsenenbildung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayEbFoeG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 19,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayEbFoeG",
+     "sha256": "162761189302712c75b58cfd5fde0ab249dfc7c0cd1f681a6e4b52b0f877f1f9"
+    }
+   ]
+  },
+  {
+   "slug": "bayefg",
+   "short": "BayEFG",
+   "title": "Bayerisches Eliteförderungsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayEFG",
+   "versions": [
+    {
+     "from": "2013-04-30",
+     "units": 14,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayEFG",
+     "sha256": "021589bc4625f9b6261a269ba689caab8aa3466df0ea62c52a9867fe81664bed"
+    }
+   ]
+  },
+  {
+   "slug": "bayeug",
+   "short": "BayEUG",
+   "title": "Bayerisches Gesetz über das Erziehungs- und Unterrichtswesen",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayEUG",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 138,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayEUG",
+     "sha256": "6f7d170138e8b10bc72bd42ecf75c254db53588afc7f15ee35336609f4fd3748"
+    }
+   ]
+  },
+  {
+   "slug": "bayezg2021",
+   "short": "BayEzG",
+   "title": "Gesetz über die Ehrenzeichen des Bayerischen Ministerpräsidenten",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayEzG2021",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 11,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayEzG2021",
+     "sha256": "619eb456d453ad7040bd6c770d32589009327005af4ec8c71c96f4b45ca6a562"
+    }
+   ]
+  },
+  {
+   "slug": "baydig",
+   "short": "BayDiG",
+   "title": "Gesetz über die Digitalisierung im Freistaat Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayDiG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 66,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayDiG",
+     "sha256": "e46f3356d809a88a1cf1f856b3ce155bd392efb76ce2812c5d63ae6efe5d4178"
+    }
+   ]
+  },
+  {
+   "slug": "baydsg",
+   "short": "BayDSG",
+   "title": "Bayerisches Datenschutzgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayDSG",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 45,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayDSG",
+     "sha256": "0de18c3923f06604bb52713439c0a81e9a0f10a20c662796c4b3b5f13b7ee0a6"
+    }
+   ]
+  },
+  {
+   "slug": "baydschg",
+   "short": "BayDSchG",
+   "title": "Gesetz zum Schutz und zur Pflege der Denkmäler",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayDSchG",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 26,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayDSchG",
+     "sha256": "e367e9be566c239439d8ea4f74e4c3825dea69499290a6a3d4c0078fd9a61ec0"
+    }
+   ]
+  },
+  {
+   "slug": "baydg",
+   "short": "BayDG",
+   "title": "Bayerisches Disziplinargesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayDG",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 80,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayDG",
+     "sha256": "4bea56959bed5b5ac15686251ac22ac7178cf9d0d6ff57cc3a7d705dcd52e251"
+    }
+   ]
+  },
+  {
+   "slug": "bayeag",
+   "short": "BayEAG",
+   "title": "Gesetz über die Zuständigkeit für die Aufgaben des Einheitlichen Ansprechpartners im Freistaat Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayEAG",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 9,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayEAG",
+     "sha256": "cf0d66203a7fffd013b13e6c9413b21d76b6130f41460eacfada5856a041a3d9"
+    }
+   ]
+  },
+  {
+   "slug": "bayfag",
+   "short": "BayFAG",
+   "title": "Bayerisches Gesetz über den Finanzausgleich zwischen Staat, Gemeinden und Gemeindeverbänden",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayFAG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 40,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayFAG",
+     "sha256": "7b3eb2ec6a1a3f8afd55f6779fb7e981b0bf9c56182a192fc14fc45ebf0e3dea"
+    }
+   ]
+  },
+  {
+   "slug": "bayagbmg",
+   "short": "BayGMPP",
+   "title": "Bayerisches Gesetz zum Melde-, Pass- und Personalausweiswesen",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGBMG",
+   "versions": [
+    {
+     "from": "2023-03-18",
+     "units": 17,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGBMG",
+     "sha256": "7ea6c7ab2c6b7fa51de859516a6a4c2a91b62a1eb99743f971241dabde87a779"
+    }
+   ]
+  },
+  {
+   "slug": "bayagbtg",
+   "short": "BayAGBtG",
+   "title": "Bayerisches Gesetz zur Ausführung betreuungsrechtlicher Vorschriften",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGBtG",
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "units": 10,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGBtG",
+     "sha256": "2de76cb9c5b1e3285d2ab0d17a24c6fac1dc246f8961b6a84d729c7db16b405d"
+    }
+   ]
+  },
+  {
+   "slug": "bayagrarwig",
+   "short": "BayAgrarWiG",
+   "title": "Bayerisches Gesetz zur nachhaltigen Entwicklung der Agrarwirtschaft und des ländlichen Raumes",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAgrarWiG",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 15,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAgrarWiG",
+     "sha256": "92c64a216961caa8c18633c855eead269d03c87f6b55a011fd39c8b35e3f1d69"
+    }
+   ]
+  },
+  {
+   "slug": "bayagsgg",
+   "short": "AGSGG",
+   "title": "Gesetz zur Ausführung des Sozialgerichtsgesetzes in Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGSGG",
+   "versions": [
+    {
+     "from": "2020-07-15",
+     "units": 6,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGSGG",
+     "sha256": "bd4e65fb1a2ec6d91f9abea5d5b0a5403761c50feb2ed956804fa90ee691cc08"
+    }
+   ]
+  },
+  {
+   "slug": "bayagrg",
+   "short": "BayAgrG",
+   "title": "Bayerisches Gesetz zur Sicherung der bäuerlichen Agrarstruktur",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAgrG",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 8,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAgrG",
+     "sha256": "8a6a98b79135e4b9130dac4efc01ffa497d0dc53bb22ec613832e92f02283299"
+    }
+   ]
+  },
+  {
+   "slug": "bayagwvg",
+   "short": "BayAGWVG",
+   "title": "Bayerisches Gesetz zur Ausführung des Wasserverbandsgesetzes",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGWVG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 8,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGWVG",
+     "sha256": "99553557d94c3dd4433454e79074be4428fd1b0ac138d037f32755513ed04f5c"
+    }
+   ]
+  },
+  {
+   "slug": "bayfamgg",
+   "short": "BayFamGG",
+   "title": "Bayerisches Familiengeldgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayFamGG",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 11,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayFamGG",
+     "sha256": "9b0a5f25dac21a3a857daab2162f322f13552666ab5ff707d174e014d765e49d"
+    }
+   ]
+  },
+  {
+   "slug": "bayhintg",
+   "short": "BayHintG",
+   "title": "Bayerisches Hinterlegungsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayHintG",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 33,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayHintG",
+     "sha256": "ef34a3df5c10b7b5d59303e89caa9a95d269a181dd0cf7dcc07e260a8f4c414c"
+    }
+   ]
+  },
+  {
+   "slug": "bayhzg",
+   "short": "BayHZG",
+   "title": "Gesetz über die Hochschulzulassung in Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayHZG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 17,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayHZG",
+     "sha256": "e50713e789308603563a3ec0e5242d97dd022e292d65b224fa36b612cfc7db97"
+    }
+   ]
+  },
+  {
+   "slug": "baypsychkhg",
+   "short": "BayPsychKHG",
+   "title": "Bayerisches Psychisch-Kranken-Hilfe-Gesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayPsychKHG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 53,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayPsychKHG",
+     "sha256": "51b3e7d82be1c50a6760b234628f3d73e91d9756bf83c78d44af237675e2ef9f"
+    }
+   ]
+  },
+  {
+   "slug": "bayprg",
+   "short": "BayPrG",
+   "title": "Bayerisches Pressegesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayPrG",
+   "versions": [
+    {
+     "from": "2018-05-25",
+     "units": 20,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayPrG",
+     "sha256": "95b996da5296d91fa6c47447cdb7ded72d40feb0d9dcaefe87b11f3669cfcc3e"
+    }
+   ]
+  },
+  {
+   "slug": "baygrstg",
+   "short": "BayGrStG",
+   "title": "Bayerisches Grundsteuergesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayGrStG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayGrStG",
+     "sha256": "447c8b85222966b434c8d1080be861156f6cd8c2ec20e5a0c91af781dd4a9d48"
+    }
+   ]
+  },
+  {
+   "slug": "bayhig",
+   "short": "BayHIG",
+   "title": "Bayerisches Hochschulinnovationsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayHIG",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 142,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayHIG",
+     "sha256": "e77be66e80b3edc8786681044db06fdc4b91df841992c4efff121b29ea707d24"
+    }
+   ]
+  },
+  {
+   "slug": "baykrg",
+   "short": "BayKrG",
+   "title": "Bayerisches Krankenhausgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayKrG",
+   "versions": [
+    {
+     "from": "2025-05-01",
+     "units": 32,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayKrG",
+     "sha256": "b34d5ad577f4fb917f9bce217d5a886c33344ae52edeb2723362761dcad17b38"
+    }
+   ]
+  },
+  {
+   "slug": "baykregg",
+   "short": "BayKRegG",
+   "title": "Bayerisches Krebsregistergesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayKRegG",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 21,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayKRegG",
+     "sha256": "7d522d1d43a1aaa92e0c8451af13c52bc9c8b88559c3663b94bcc7c2043fe5b5"
+    }
+   ]
+  },
+  {
+   "slug": "baymg",
+   "short": "BayMG",
+   "title": "Gesetz über die Entwicklung, Förderung und Veranstaltung privater Rundfunkangebote und anderer Telemedien in Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayMG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 40,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayMG",
+     "sha256": "eaf22492b1a40474d23c672859b071e1d7d57d383df1378a8905c8604ab0a9cc"
+    }
+   ]
+  },
+  {
+   "slug": "baymrvg",
+   "short": "BayMRVG",
+   "title": "Gesetz über den Vollzug der Maßregeln der Besserung und Sicherung sowie der einstweiligen Unterbringung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayMRVG",
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "units": 59,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayMRVG",
+     "sha256": "aa59c7359121d8346e49400ea5abe66d671e8ffad02c14b626d93d29d1768987"
+    }
+   ]
+  },
+  {
+   "slug": "baymog",
+   "short": "BayMoG",
+   "title": "Gesetz zur Einführung von Modellregionen und zur Deregulierung – Bayerisches Modellregionengesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayMoG",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 8,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayMoG",
+     "sha256": "5d722d47a864389e01040a54ef3e4d0dfaa76339dca0ddc0fe2b3b66407f29f0"
+    }
+   ]
+  },
+  {
+   "slug": "baynatschg",
+   "short": "BayNatSchG",
+   "title": "Gesetz über den Schutz der Natur, die Pflege der Landschaft und die Erholung in der freien Natur",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayNatSchG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 75,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayNatSchG",
+     "sha256": "c7ea345b78dbb01dd63bb0878ff5b55ade6219c4bcd55a42fca6d3ec35f4740c"
+    }
+   ]
+  },
+  {
+   "slug": "baysichpruefg",
+   "short": "BaySÜG",
+   "title": "Bayerisches Sicherheitsüberprüfungsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BaySichPruefG",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 45,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BaySichPruefG",
+     "sha256": "497042122ecc6fa9567d387a095bec5d3b8a895c0e3e272e63bf3e352af3140f"
+    }
+   ]
+  },
+  {
+   "slug": "bayschwberg",
+   "short": "BaySchwBerG",
+   "title": "Gesetz über die Schwangerenberatung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BaySchwBerG",
+   "versions": [
+    {
+     "from": "2013-04-30",
+     "units": 26,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BaySchwBerG",
+     "sha256": "8ba34c48312f898a52c604a55e6c93fdf368cc2a3eb15641959174b4291ab21f"
+    }
+   ]
+  },
+  {
+   "slug": "bayseng-2023",
+   "short": "BaySenG",
+   "title": "Bayerisches Seniorenmitwirkungsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BaySenG_2023",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 14,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BaySenG_2023",
+     "sha256": "39c7f5dfb0838a32a9442682e89f27fa0398a500ec163479788ec62b9ea432f6"
+    }
+   ]
+  },
+  {
+   "slug": "bayorggag",
+   "short": "ArbGOrgG",
+   "title": "Gesetz über die Organisation der Gerichte für Arbeitssachen im Freistaat Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayOrgGAG",
+   "versions": [
+    {
+     "from": "2018-01-17",
+     "units": 4,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayOrgGAG",
+     "sha256": "a689f37971ad730d745af3ba33e9956f23dba3c9c6f54bd12e8117636cba2e3c"
+    }
+   ]
+  },
+  {
+   "slug": "baypflevg",
+   "short": "BayPfleG",
+   "title": "Bayerisches Gesetz über die Berufsausübung und die Berufsvertretung der Angehörigen der Pflegeberufe",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayPfleVG",
+   "versions": [
+    {
+     "from": "2025-06-01",
+     "units": 12,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayPfleVG",
+     "sha256": "6b8eafbb58c1d03acd2db10899387b3566087f2cf90f5e3af9fb2be15556f6a2"
+    }
+   ]
+  },
+  {
+   "slug": "baypetg",
+   "short": "BayPetG",
+   "title": "Gesetz über die Behandlung von Eingaben und Beschwerden an den Bayerischen Landtag nach Art. 115 der Verfassung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayPetG",
+   "versions": [
+    {
+     "from": "2006-08-01",
+     "units": 11,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayPetG",
+     "sha256": "245c4e66557be9110d14d2d41623ed40020932e4eeae94df9b12d8f4a6d7fd6b"
+    }
+   ]
+  },
+  {
+   "slug": "bayristag",
+   "short": "BayRiStAG",
+   "title": "Bayerisches Richter- und Staatsanwaltsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayRiStAG",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 77,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayRiStAG",
+     "sha256": "feead731c5bbf27807f2aec478a32ee4769618aa2f46f23763b4a0135845e710"
+    }
+   ]
+  },
+  {
+   "slug": "bayrkg",
+   "short": "BayRKG",
+   "title": "Bayerisches Gesetz über die Reisekostenvergütung der Beamten und Richter",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayRKG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 31,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayRKG",
+     "sha256": "a2efd9b5c1f25fad0cedaef983550ba4267155503683c77d5e4a26cca7c33e81"
+    }
+   ]
+  },
+  {
+   "slug": "bayrsg",
+   "short": "BayRSG",
+   "title": "Gesetz über die Sammlung des bayerischen Landesrechts",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayRSG",
+   "versions": [
+    {
+     "from": "1983-12-01",
+     "units": 13,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayRSG",
+     "sha256": "06103cddb7ff5422e965ae40e171f28c23fb13413551cc72f54899085a2dd307"
+    }
+   ]
+  },
+  {
+   "slug": "bayrohrlenteigg",
+   "short": "BayRohrlEnteigG",
+   "title": "Gesetz über die Enteignung für die Errichtung und den Betrieb einer Rohrleitungsanlage zwischen Münchsmünster und der Landesgrenze zu Baden-Württemberg bei Nördlingen",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayRohrlEnteigG",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 8,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayRohrlEnteigG",
+     "sha256": "395acf2746a7954f2dc84d673f7a617c51f496ed27f21fe6943cc18945430398"
+    }
+   ]
+  },
+  {
+   "slug": "bayrufug",
+   "short": "BayRG",
+   "title": "Gesetz über die Errichtung und die Aufgaben einer Anstalt des öffentlichen Rechts „Der Bayerische Rundfunk“",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayRuFuG",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 28,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayRuFuG",
+     "sha256": "f5bf02865e2803fa1650892a07d25abbc81f6bc74b74f2f24a4792a641ea97ab"
+    }
+   ]
+  },
+  {
+   "slug": "bayschfg",
+   "short": "BaySchFG",
+   "title": "Bayerisches Schulfinanzierungsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BaySchFG",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 65,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BaySchFG",
+     "sha256": "950adc2365e3d1c90e18dfd847a11279666f3c60281cf8dcb3bc7ec209959df4"
+    }
+   ]
+  },
+  {
+   "slug": "bayschlg",
+   "short": "BaySchlG",
+   "title": "Bayerisches Gesetz zur obligatorischen außergerichtlichen Streitschlichtung in Zivilsachen",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BaySchlG",
+   "versions": [
+    {
+     "from": "2013-04-30",
+     "units": 25,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BaySchlG",
+     "sha256": "0050f92fad00198b338fc5d23cad75f9c8c5ddcfce4ba1dd60990aa03cffe6e4"
+    }
+   ]
+  },
+  {
+   "slug": "bayuig",
+   "short": "BayUIG",
+   "title": "Bayerisches Umweltinformationsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayUIG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 17,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayUIG",
+     "sha256": "7e19cc5fea99db8d30c8abc4a00d2ffb1594aa9a2f6f7c449351ca7006469dcc"
+    }
+   ]
+  },
+  {
+   "slug": "bayunikling",
+   "short": "BayUniKlinG",
+   "title": "Gesetz über die Universitätsklinika des Freistaates Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayUniKlinG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 36,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayUniKlinG",
+     "sha256": "1a04b443c1573d285b753d6ae1873852e7712a242452323f774a6cbd90d07565"
+    }
+   ]
+  },
+  {
+   "slug": "bayuvollzg",
+   "short": "BayUVollzG",
+   "title": "Gesetz über den Vollzug der Untersuchungshaft",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayUVollzG",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 44,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayUVollzG",
+     "sha256": "123d06d4197af5405261443cba199e1137947b090083b3a8a34c6650a5e4d95e"
+    }
+   ]
+  },
+  {
+   "slug": "bayukg",
+   "short": "BayUKG",
+   "title": "Bayerisches Gesetz über die Umzugskostenvergütung der Beamten und Richter",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayUKG",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 19,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayUKG",
+     "sha256": "442941e086021d145961db21e4619cddc09664f83a2cd2ee64e291dab8af6849"
+    }
+   ]
+  },
+  {
+   "slug": "baysozkipaedg",
+   "short": "BaySozBAG",
+   "title": "Bayerisches Sozialberufe-Anerkennungsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BaySozKiPaedG",
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "units": 10,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BaySozKiPaedG",
+     "sha256": "e2d4a37c05bf4c4329a97ec6233bf137fc73490cf02a37fcd6697b324a4b9a22"
+    }
+   ]
+  },
+  {
+   "slug": "baysportg",
+   "short": "BaySportG",
+   "title": "Bayerisches Sportgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BaySportG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 16,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BaySportG",
+     "sha256": "d4578a00752337d3e59aedff08e6a0261daf3e0fda7ea3cf1f92d6e0e5443e57"
+    }
+   ]
+  },
+  {
+   "slug": "baystaatsrrvg",
+   "short": "BayMinG",
+   "title": "Gesetz über die Rechtsverhältnisse der Mitglieder der Staatsregierung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayStaatsRRVG",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 40,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayStaatsRRVG",
+     "sha256": "4a15a79e156bc06c062d5bcd01217f08db7c9c52a3e13c5ff2411554a0737b87"
+    }
+   ]
+  },
+  {
+   "slug": "baystatg",
+   "short": "BayStatG",
+   "title": "Bayerisches Statistikgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayStatG",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 39,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayStatG",
+     "sha256": "fd8429a2e493bd8c745838b8edf4ea5ec6059b48759e79623c482fc9f9e3777c"
+    }
+   ]
+  },
+  {
+   "slug": "baystg",
+   "short": "BayStG",
+   "title": "Bayerisches Stiftungsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayStG",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 30,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayStG",
+     "sha256": "b7f1a6f5ea0e49adaab8bbfa08e773d6a6aaac56e7a34483fe51793b6eae4214"
+    }
+   ]
+  },
+  {
+   "slug": "baystrwg",
+   "short": "BayStrWG",
+   "title": "Bayerisches Straßen- und Wegegesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayStrWG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 82,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayStrWG",
+     "sha256": "72ec0da44634b189946b63ee1d6dfc3286a7bde29072280f9bb1e3b174bf3f81"
+    }
+   ]
+  },
+  {
+   "slug": "baystrag",
+   "short": "BayStrAG",
+   "title": "Bayerisches Gesetz zur Ausführung und Ergänzung strafrechtlicher Vorschriften",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayStrAG",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 7,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayStrAG",
+     "sha256": "e8cac5c0ef61681f99c1bda0ab13701894adb43880124757288c9d895607cba6"
+    }
+   ]
+  },
+  {
+   "slug": "baystvollzg",
+   "short": "BayStVollzG",
+   "title": "Gesetz über den Vollzug der Freiheitsstrafe und der Jugendstrafe",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayStVollzG",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 217,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayStVollzG",
+     "sha256": "c8c2929d31de58b95d134084a282f430bca2b953a57b4b25e63d2a0581daab1b"
+    }
+   ]
+  },
+  {
+   "slug": "baysvvollzg",
+   "short": "BaySvVollzG",
+   "title": "Gesetz über den Vollzug der Sicherungsverwahrung und der Therapieunterbringung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BaySvVollzG",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 107,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BaySvVollzG",
+     "sha256": "6d6b19cb45e17fc6eb892d6452ef6e23968a978512e19b0d6992b3b062142f0f"
+    }
+   ]
+  },
+  {
+   "slug": "bayfwg",
+   "short": "BayFwG",
+   "title": "Bayerisches Feuerwehrgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayFwG",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 34,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayFwG",
+     "sha256": "ddd877e3189f2641e0d5b8755834c4ac6d3525291e46e18c6fa7a8e705c1bea8"
+    }
+   ]
+  },
+  {
+   "slug": "bayintg",
+   "short": "BayIntG",
+   "title": "Bayerisches Integrationsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayIntG",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 22,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayIntG",
+     "sha256": "004f2cc4cf6494443316a9a37e05fc6c4749371f385875e450b579192554b80b"
+    }
+   ]
+  },
+  {
+   "slug": "bayimschg",
+   "short": "BayImSchG",
+   "title": "Bayerisches Immissionsschutzgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayImSchG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 16,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayImSchG",
+     "sha256": "be1a7985d148c8fb882c9f17a33483566c2c3aa6bc973c515b6c23fac8a55f4f"
+    }
+   ]
+  },
+  {
+   "slug": "bayingg2016",
+   "short": "BayIngG",
+   "title": "Bayerisches Gesetz zum Schutz der Berufsbezeichnung Ingenieurin und Ingenieur",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayIngG2016",
+   "versions": [
+    {
+     "from": "2016-07-20",
+     "units": 12,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayIngG2016",
+     "sha256": "2bb376da9b3afbaca6fc59aa180833da83fa25dccde6dc73390def01b922e3bc"
+    }
+   ]
+  },
+  {
+   "slug": "baylbg",
+   "short": "BayLBG",
+   "title": "Bayerisches Lehrerbildungsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayLBG",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 33,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayLBG",
+     "sha256": "297a6036ff2491a0e85d80388408a7493fc1cea704cbf36ccef703e5e90c389a"
+    }
+   ]
+  },
+  {
+   "slug": "baylarztg",
+   "short": "BayLArztG",
+   "title": "Bayerisches Land- und Amtsarztgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayLArztG",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 9,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayLArztG",
+     "sha256": "af438dd76ec3ff324bd7497466d89497f0bf4fbc2058ed45047b517f9def6f5e"
+    }
+   ]
+  },
+  {
+   "slug": "bayversg08",
+   "short": "BayVersG",
+   "title": "Bayerisches Versammlungsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVersG08",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 31,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVersG08",
+     "sha256": "b4af33db0e5a78346a94fa75fe4da7b8153c820a1fb663ae8c2866f8599ca897"
+    }
+   ]
+  },
+  {
+   "slug": "bayverwschulg",
+   "short": "BayVwSG",
+   "title": "Gesetz über die Bayerische Verwaltungsschule",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVerwSchulG",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 17,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVerwSchulG",
+     "sha256": "62d0ad4913777a00661ec42c648e4c11a0ae55ae76498a362c560d2aaa8710c2"
+    }
+   ]
+  },
+  {
+   "slug": "bayvsg",
+   "short": "BayVSG",
+   "title": "Bayerisches Verfassungsschutzgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVSG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 41,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVSG",
+     "sha256": "f690b1336a5dd84b00a0cce302cb86bad7c87632282588ede8707ea9a55978a6"
+    }
+   ]
+  },
+  {
+   "slug": "baypvg",
+   "short": "BayPVG",
+   "title": "Bayerisches Personalvertretungsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayPVG",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 104,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayPVG",
+     "sha256": "59f3dd415d4b99012f3ea96a8b5ef6e4e7fe44c0996517e3db252db26cfe0ac7"
+    }
+   ]
+  },
+  {
+   "slug": "bayrdg",
+   "short": "BayRDG",
+   "title": "Bayerisches Rettungsdienstgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayRDG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 65,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayRDG",
+     "sha256": "8f20d93472ddd168caded67913e7380206a1ba16113338e6c560c818da323715"
+    }
+   ]
+  },
+  {
+   "slug": "bayradg",
+   "short": "BayRadG",
+   "title": "Gesetz zur Stärkung des Radverkehrs in Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayRadG",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 18,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayRadG",
+     "sha256": "a599ebd8ae9ccd3d286b288a92b8c9585f7b3a96dc8397d83a04ffeb978ed691"
+    }
+   ]
+  },
+  {
+   "slug": "bayfraktg",
+   "short": "BayFraktG",
+   "title": "Gesetz zur Rechtsstellung und Finanzierung der Fraktionen im Bayerischen Landtag",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayFraktG",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 15,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayFraktG",
+     "sha256": "99bf17f63c3ce507c193cb47a207823d23206e61783739caa976e76fc76434df"
+    }
+   ]
+  },
+  {
+   "slug": "bayfischg",
+   "short": "BayFiG",
+   "title": "Bayerisches Fischereigesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayFischG",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 70,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayFischG",
+     "sha256": "d912dac77641e6981cace8945464e1641d15106abaa4b7ba9339297d3e911b60"
+    }
+   ]
+  },
+  {
+   "slug": "bayglg",
+   "short": "BayGlG",
+   "title": "Bayerisches Gesetz zur Gleichstellung von Frauen und Männern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayGlG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 25,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayGlG",
+     "sha256": "d0cbc4998676e1f96c83a0c919eef9d78a2d24365dbccd4aa3cc2feefb8cdc7d"
+    }
+   ]
+  },
+  {
+   "slug": "baylplg",
+   "short": "BayLplG",
+   "title": "Bayerisches Landesplanungsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayLplG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 39,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayLplG",
+     "sha256": "0a60a02d50444f18073e023f4415a5965545900dc3ef8a917e38713b607ed1f1"
+    }
+   ]
+  },
+  {
+   "slug": "baylobbyrg",
+   "short": "BayLobbyRG",
+   "title": "Bayerisches Lobbyregistergesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayLobbyRG",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 12,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayLobbyRG",
+     "sha256": "261c9bb3f701b8b4324afd9776dae721ec1c28b5e8ea0864454f1ca18e8427c6"
+    }
+   ]
+  },
+  {
+   "slug": "baylpflgg",
+   "short": "BayLPflGG",
+   "title": "Bayerisches Landespflegegeldgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayLPflGG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 8,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayLPflGG",
+     "sha256": "e91e5a7dfade27470cea6d66ff69680c1c53d6d0a4fa34419d5c605b0af3f40a"
+    }
+   ]
+  },
+  {
+   "slug": "baygdig",
+   "short": "BayGDIG",
+   "title": "Bayerisches Geodateninfrastrukturgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayGDIG",
+   "versions": [
+    {
+     "from": "2018-05-25",
+     "units": 12,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayGDIG",
+     "sha256": "def69818c439b10c4af5a123034bc6f682dfc94fddbfc90a2e12a2418fee156f"
+    }
+   ]
+  },
+  {
+   "slug": "baylandesbg",
+   "short": "BayLaBG",
+   "title": "Gesetz über die Bayerische Landesbank",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayLandesBG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 32,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayLandesBG",
+     "sha256": "cce16430a04f97b0bc097907d30f67bd5d40f7c0d41fbd8fd237151126cf6716"
+    }
+   ]
+  },
+  {
+   "slug": "bayladschlg",
+   "short": "BayLadSchlG",
+   "title": "Bayerisches Ladenschlussgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayLadSchlG",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 16,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayLadSchlG",
+     "sha256": "814263da47ad6cc31689f4441d3820ba4971d3e4b0364a77bc9a9f97a69caffa"
+    }
+   ]
+  },
+  {
+   "slug": "bayjg",
+   "short": "BayJG",
+   "title": "Bayerisches Jagdgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayJG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 69,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayJG",
+     "sha256": "242002b3e42836761e66a07af218bdcdeac279108b7b0139b90c20d15ce77848"
+    }
+   ]
+  },
+  {
+   "slug": "bayjavollzg",
+   "short": "BayJAVollzG",
+   "title": "Gesetz über den Vollzug des Jugendarrestes",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayJAVollzG",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 43,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayJAVollzG",
+     "sha256": "20857e1edb1472d612f91a055cd0c22504ec35044cb219f9740303ee2ff8cb2c"
+    }
+   ]
+  },
+  {
+   "slug": "baykibig",
+   "short": "BayKiBiG",
+   "title": "Bayerisches Gesetz zur Bildung, Erziehung und Betreuung von Kindern in Kindergärten, anderen Kindertageseinrichtungen und in Tagespflege",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayKiBiG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 41,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayKiBiG",
+     "sha256": "e1531be507113b5eef3135cd0d2127f6d074cfc93e4a6bb304b377c4c85e4a6f"
+    }
+   ]
+  },
+  {
+   "slug": "baykatschutzg",
+   "short": "BayKSG",
+   "title": "Bayerisches Katastrophenschutzgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayKatSchutzG",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 29,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayKatSchutzG",
+     "sha256": "03c494c3cb8eb6febfa78c3dd7e7ce1d06298991ab35365b4868d43b23351b2a"
+    }
+   ]
+  },
+  {
+   "slug": "baykatfortgebg",
+   "short": "BayKatFortGebG",
+   "title": "Gesetz über Gebühren für die Fortführung des Liegenschaftskatasters",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayKatFortGebG",
+   "versions": [
+    {
+     "from": "2018-06-01",
+     "units": 7,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayKatFortGebG",
+     "sha256": "59f2ab58ff3b110a704fd3fe65627b3302709dd6501d6c05e410d500e199b2bf"
+    }
+   ]
+  },
+  {
+   "slug": "baygvfg",
+   "short": "BayGVFG",
+   "title": "Gesetz über Zuwendungen des Freistaates Bayern zur Verbesserung der Verkehrsverhältnisse der Gemeinden",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayGVFG",
+   "versions": [
+    {
+     "from": "2023-03-01",
+     "units": 12,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayGVFG",
+     "sha256": "9f47d1ef80672eb2a990ccf368ea626d01413bc39c6f5216c6dd55463bf68917"
+    }
+   ]
+  },
+  {
+   "slug": "bayklimag",
+   "short": "BayKlimaG",
+   "title": "Bayerisches Klimaschutzgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayKlimaG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 17,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayKlimaG",
+     "sha256": "bb48950c27364026298b8809ab488343c069337526fcb7f14304494a2fc2c8b2"
+    }
+   ]
+  },
+  {
+   "slug": "baykomglg",
+   "short": "KommStaGebG",
+   "title": "Gesetz über die kommunale Gliederung des Staatsgebiets",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayKomGlG",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 4,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayKomGlG",
+     "sha256": "34dbe78b5b0c7ddce82a0328abdafef692621ea8cbb014b56645453f9e136ac0"
+    }
+   ]
+  },
+  {
+   "slug": "baywg",
+   "short": "BayWG",
+   "title": "Bayerisches Wassergesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayWG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 114,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayWG",
+     "sha256": "9574651275a6cb72d62a1fee2352b93a955c9df64b32cff93dbeb5f98243449c"
+    }
+   ]
+  },
+  {
+   "slug": "bayvwvfg",
+   "short": "BayVwVfG",
+   "title": "Bayerisches Verwaltungsverfahrensgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwVfG",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 131,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwVfG",
+     "sha256": "a55d44446dc5f0cfbae979dae45f98705e79ab9da6c0e9912470eaa3ffe12c22"
+    }
+   ]
+  },
+  {
+   "slug": "baywaldg",
+   "short": "BayWaldG",
+   "title": "Bayerisches Waldgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayWaldG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 56,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayWaldG",
+     "sha256": "da170b5c7c4913b36e074146c1d553e43f850c2303cbcae9443ce93a49564c9a"
+    }
+   ]
+  },
+  {
+   "slug": "bayvwzvg",
+   "short": "VwZVG",
+   "title": "Bayerisches Verwaltungszustellungs- und Vollstreckungsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwZVG",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 49,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwZVG",
+     "sha256": "89ad32757d7d4b2afff35598d9e06bf4ea6242311f28dde7c386e681c69f1b7f"
+    }
+   ]
+  },
+  {
+   "slug": "bayweinafoeg",
+   "short": "BayWeinAFöG",
+   "title": "Bayerisches Weinabsatzförderungsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayWeinAFoeG",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 8,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayWeinAFoeG",
+     "sha256": "0ab767fb9ce0727aee3e539e5e3c5c4d70d1b2846736b57401ce697773c3deec"
+    }
+   ]
+  },
+  {
+   "slug": "baywobindg",
+   "short": "BayWoBindG",
+   "title": "Gesetz zur Sicherung der Zweckbestimmung von Sozialwohnungen in Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayWoBindG",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 38,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayWoBindG",
+     "sha256": "63c8ee10f1a8141b30a62fcb44387295d49f80d003007bca0df4c34993ec8579"
+    }
+   ]
+  },
+  {
+   "slug": "baywofg",
+   "short": "BayWoFG",
+   "title": "Gesetz über die Wohnraumförderung in Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayWoFG",
+   "versions": [
+    {
+     "from": "2018-05-01",
+     "units": 28,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayWoFG",
+     "sha256": "94cd7e5dc6b4edf3b3756500d46fa725736ce08876e634a0549eafa8357c3d25"
+    }
+   ]
+  },
+  {
+   "slug": "bayzustwig",
+   "short": "BayWiVG",
+   "title": "Bayerisches Gesetz über wirtschafts-, energiewirtschafts- und vergaberechtliche Vorschriften",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayZustWiG",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 31,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayZustWiG",
+     "sha256": "b17d089a4a5f5a10d2951e05406f62b4a053e20be1e0628ceb45a4b8d822b13f"
+    }
+   ]
+  },
+  {
+   "slug": "bayfog",
+   "short": "BayFoG",
+   "title": "Gesetz über einen BayernFonds und eine Bayerische Finanzagentur",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayFoG",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 20,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayFoG",
+     "sha256": "cc64d7c6009d4ea7831f6fde36085931911da01168bbff4d6c2ca509567679f4"
+    }
+   ]
+  },
+  {
+   "slug": "baybestg",
+   "short": "BestG",
+   "title": "Bestattungsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayBestG",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 25,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayBestG",
+     "sha256": "53b9da08cdfd080f957ab1fc7bcd0493c85f173ce61b18f3cb8a5ca46f19e12f"
+    }
+   ]
+  },
+  {
+   "slug": "baybezo",
+   "short": "BezO",
+   "title": "Bezirksordnung für den Freistaat Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayBezO",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 115,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayBezO",
+     "sha256": "256a3414c253476d380e9325204c0f19fa87da7bd68f4d134213680b3fbfc9dc"
+    }
+   ]
+  },
+  {
+   "slug": "baybezwg",
+   "short": "BezWG",
+   "title": "Gesetz über die Wahl der Bezirkstage",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayBezWG",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "units": 10,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayBezWG",
+     "sha256": "d93bccb1fab3ae9eae657b6a52fae54040200ae6c426501521aa216217abd043"
+    }
+   ]
+  },
+  {
+   "slug": "baycsg",
+   "short": "CSG",
+   "title": "Gesetz über den „Technische Universität München – Campus Straubing für Biotechnologie und Nachhaltigkeit“",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayCSG",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 5,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayCSG",
+     "sha256": "f181353e38e85f9784500006baa50e4477e3969e49a23aa2b7d02388da5abc96"
+    }
+   ]
+  },
+  {
+   "slug": "bayftg",
+   "short": "FTG",
+   "title": "Gesetz über den Schutz der Sonn- und Feiertage",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayFTG",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 11,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayFTG",
+     "sha256": "fcb39bfa63d9a3ef2e8373293c040ed8218918b291a4bb35d4423f5115268c23"
+    }
+   ]
+  },
+  {
+   "slug": "bayfwhoezg",
+   "short": "FwHOEzG",
+   "title": "Feuerwehr- und Hilfsorganisationen-Ehrenzeichengesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayFwHOEzG",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 8,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayFwHOEzG",
+     "sha256": "62f19c777c85a58328947fd5c24c914199defb2e539d6c88c86a4e76d19e8857"
+    }
+   ]
+  },
+  {
+   "slug": "bayfozulg",
+   "short": "FoZulG",
+   "title": "Gesetz über die Zulassung zu den forstlichen Vorbereitungsdiensten in Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayFoZulG",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 12,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayFoZulG",
+     "sha256": "3747b637cbfc96bb0c903c0309c7eb21509db1423e41b5be7833964bee676dc1"
+    }
+   ]
+  },
+  {
+   "slug": "baygedstg",
+   "short": "GedStG",
+   "title": "Gesetz über die Errichtung der „Stiftung Bayerische Gedenkstätten“",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayGedStG",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 24,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayGedStG",
+     "sha256": "4d462b1145ecda44e1bb2e70dde38eb63275fdb8ef3799020c58f050b7bfaea6"
+    }
+   ]
+  },
+  {
+   "slug": "bayglkrwg",
+   "short": "GLKrWG",
+   "title": "Gesetz über die Wahl der Gemeinderäte, der Bürgermeister, der Kreistage und der Landräte",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayGLKrWG",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 64,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayGLKrWG",
+     "sha256": "4de3d05c71bdfb5172e903657f9059bd251f881e5f1bee6810d54ae30ab7b064"
+    }
+   ]
+  },
+  {
+   "slug": "baygo",
+   "short": "GO",
+   "title": "Gemeindeordnung für den Freistaat Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayGO",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 136,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayGO",
+     "sha256": "1eefa4deba0faa404c6637037b01c02c3d2116130b93a55419f7d7222f84f736"
+    }
+   ]
+  },
+  {
+   "slug": "baygerorgg",
+   "short": "GerOrgG",
+   "title": "Gesetz über die Organisation der ordentlichen Gerichte im Freistaat Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayGerOrgG",
+   "versions": [
+    {
+     "from": "2018-09-15",
+     "units": 7,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayGerOrgG",
+     "sha256": "d7bd1345f2a9b62334c035c85419667afed49c6b0ab279c15be7205b1b0234b7"
+    }
+   ]
+  },
+  {
+   "slug": "bayaggvg",
+   "short": "AGGVG",
+   "title": "Gesetz zur Ausführung des Gerichtsverfassungsgesetzes und von Verfahrensgesetzen des Bundes",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGGVG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 70,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGGVG",
+     "sha256": "7cd24ee5cf236ce78bb8eb60e45826c234aab63e83e75a07484447cfbe2e07ed"
+    }
+   ]
+  },
+  {
+   "slug": "bay-2220-3-uk",
+   "short": "AGKStV",
+   "title": "Gesetz zur Ausführung konkordats- und staatskirchenvertraglicher Verpflichtungen Bayerns",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BAY_2220_3_UK",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 5,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BAY_2220_3_UK",
+     "sha256": "88a5823cc32e973f9cead2d41d619d12a9b2671dc0c9cf2898a064fde148dbbb"
+    }
+   ]
+  },
+  {
+   "slug": "bayagbbig",
+   "short": "AGBBiG",
+   "title": "Gesetz zur Ausführung des Berufsbildungsgesetzes und des Berufsqualifikationsfeststellungsgesetzes",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGBBiG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 9,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGBBiG",
+     "sha256": "4ba157d1b428e767d0fcac97124049f9cbc3ca0bc91d3ff3c5d56918537bb156"
+    }
+   ]
+  },
+  {
+   "slug": "baybueg",
+   "short": "BÜG",
+   "title": "Gesetz über die Übernahme von Staatsbürgschaften und Garantien des Freistaates Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayBUEG",
+   "versions": [
+    {
+     "from": "2014-08-30",
+     "units": 10,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayBUEG",
+     "sha256": "0ff75189f12f82f928077de1695d4cca9c13dee6cd8820ad328ee4534ef517fe"
+    }
+   ]
+  },
+  {
+   "slug": "bayagvereinsg",
+   "short": "AGVereinsG",
+   "title": "Gesetz zur Ausführung des Vereinsgesetzes",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGVereinsG",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 6,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGVereinsG",
+     "sha256": "71c4c2e1dd31290dad5f9af468d4938ab447e26f945fec3bfe029eb6e47e8bbf"
+    }
+   ]
+  },
+  {
+   "slug": "bayaugstg",
+   "short": "AugStG",
+   "title": "Gesetz über die Stiftung Staatstheater Augsburg",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAugStG",
+   "versions": [
+    {
+     "from": "2018-09-01",
+     "units": 16,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAugStG",
+     "sha256": "c8e22038026ac433697d035a82581dfbf854eef15af3b07094e4655bed4550e6"
+    }
+   ]
+  },
+  {
+   "slug": "baydarlrueverwg",
+   "short": "BayDarlRueVerwG",
+   "title": "Gesetz über die Verwendung der Rückflüsse aus Darlehen des Freistaates Bayern zur Förderung des Wohnungsbaues",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayDarlRueVerwG",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 4,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayDarlRueVerwG",
+     "sha256": "b01bd20c888b19278bc510c8aa71eb5ce6946c181e684a82a04789d7cc58acdf"
+    }
+   ]
+  },
+  {
+   "slug": "bayagbgb",
+   "short": "AGBGB",
+   "title": "Gesetz zur Ausführung des Bürgerlichen Gesetzbuchs",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGBGB",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 84,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGBGB",
+     "sha256": "cff96e52cfccc1ef5cfbfd52117fa288cc59c7d3a06c8629f830d05d439c569b"
+    }
+   ]
+  },
+  {
+   "slug": "bayaggluestv",
+   "short": "AGGlüStV",
+   "title": "Gesetz zur Ausführung des Staatsvertrages zum Glücksspielwesen in Deutschland",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGGlueStV",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 20,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGGlueStV",
+     "sha256": "3ef88f83cb3ed13520b7d9078e29675aad4acf65f8e9cab33ff19ec85a5eb38e"
+    }
+   ]
+  },
+  {
+   "slug": "bayagflurbg",
+   "short": "AGFlurbG",
+   "title": "Gesetz zur Ausführung des Flurbereinigungsgesetzes",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGFlurbG",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 20,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGFlurbG",
+     "sha256": "cdcff57cb8d192004f73653544a024a37ca15af53e963db76e23880ca24939aa"
+    }
+   ]
+  },
+  {
+   "slug": "bayagihkg",
+   "short": "AGIHKG",
+   "title": "Gesetz zur Ergänzung und Ausführung des Gesetzes zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGIHKG",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 11,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGIHKG",
+     "sha256": "1b267ca542e898477c0ef87b4f6cf2610049fcfec6b506bdef0a5aec82cb3a0b"
+    }
+   ]
+  },
+  {
+   "slug": "bayagfgo",
+   "short": "AGFGO",
+   "title": "Gesetz zur Ausführung der Finanzgerichtsordnung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGFGO",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 10,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGFGO",
+     "sha256": "d6d234855c8fbff72e6d042b0010126f394829ad9d02bc3b90035fea64dd949d"
+    }
+   ]
+  },
+  {
+   "slug": "bayagsg",
+   "short": "AGSG",
+   "title": "Gesetz zur Ausführung der Sozialgesetze",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGSG",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 147,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGSG",
+     "sha256": "45ebb9360eca4a2a7beff7de69bcfa9a0d0e574cb80c7189b46a8fad888d20d2"
+    }
+   ]
+  },
+  {
+   "slug": "bayagpstg",
+   "short": "AGPStG",
+   "title": "Gesetz zur Ausführung des Personenstandsgesetzes",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGPStG",
+   "versions": [
+    {
+     "from": "2018-05-25",
+     "units": 17,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGPStG",
+     "sha256": "a3f2d66e92942058858679562280eef89020889969216301fa4bcba284bbd11a"
+    }
+   ]
+  },
+  {
+   "slug": "bayagtierkbg",
+   "short": "BayAGTierNebG",
+   "title": "Gesetz zur Ausführung des Tierische Nebenprodukte-Beseitigungsgesetzes",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGTierKBG",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 4,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGTierKBG",
+     "sha256": "1aca12807483d7e3d9ac5112f9e24ef94c31548e93cb1e20431cd2b6c9d4450d"
+    }
+   ]
+  },
+  {
+   "slug": "bayagpidv",
+   "short": "BayAGPIDV",
+   "title": "Gesetz zur Ausführung der Präimplantationsdiagnostikverordnung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGPIDV",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 6,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGPIDV",
+     "sha256": "709e02317713016f392f951c8adf56b1eedffab3687cb19ed0d5e7f392c17f87"
+    }
+   ]
+  },
+  {
+   "slug": "bayagvwgo",
+   "short": "AGVwGO",
+   "title": "Gesetz zur Ausführung der Verwaltungsgerichtsordnung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGVwGO",
+   "versions": [
+    {
+     "from": "2022-05-01",
+     "units": 15,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGVwGO",
+     "sha256": "dea855d1cac7d3ce55f717adb64473f69db0f70d8fd0aa1f95c0a1afdd8a34f9"
+    }
+   ]
+  },
+  {
+   "slug": "bayagttg",
+   "short": "AGTPG",
+   "title": "Gesetz zur Ausführung des Transplantationsgesetzes",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAGTTG",
+   "versions": [
+    {
+     "from": "2021-05-01",
+     "units": 10,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAGTTG",
+     "sha256": "9c99b467f115cfec047fe88aa03ef35be485cb776ddd7fad5b73e5b53697abf1"
+    }
+   ]
+  },
+  {
+   "slug": "baysigjurvd",
+   "short": "SiGjurVD",
+   "title": "Gesetz zur Sicherung des juristischen Vorbereitungsdienstes",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BaySiGjurVD",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 8,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BaySiGjurVD",
+     "sha256": "b14af7a73be477733ef5f5da47005a3482d518d9cde8cbcefbfcc8f3ab8506da"
+    }
+   ]
+  },
+  {
+   "slug": "bayselbstvkollegg",
+   "short": "SVwKollegG",
+   "title": "Gesetz über das Bayerische Selbstverwaltungskolleg",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BaySelbstVKollegG",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 8,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BaySelbstVKollegG",
+     "sha256": "d2b94c0bd47f679cba15390cd7c6bf418ca8bf53002d3a82c010c94839487830"
+    }
+   ]
+  },
+  {
+   "slug": "bayoervneuog",
+   "short": "BayOeRVNeuOG",
+   "title": "Gesetz zur Neuordnung der Rechtsverhältnisse der öffentlich-rechtlichen Versicherungsanstalten des Freistaates Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayOeRVNeuOG",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 33,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayOeRVNeuOG",
+     "sha256": "0f5b3be0cf878730e1f18e2ba01ff0d8747f6b193f36a651d3801e0f096462d0"
+    }
+   ]
+  },
+  {
+   "slug": "baypolbilg",
+   "short": "AkadPolBiG",
+   "title": "Gesetz über die Errichtung einer Akademie für Politische Bildung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayPolBilG",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 19,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayPolBilG",
+     "sha256": "81d3bbc8123f9a9d720d6c1e058b6e11edcdfbe8f7f21b074b73d40e16958b08"
+    }
+   ]
+  },
+  {
+   "slug": "baykommzg",
+   "short": "KommZG",
+   "title": "Gesetz über die kommunale Zusammenarbeit",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayKommZG",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 59,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayKommZG",
+     "sha256": "62e0f712b5bbac212571fbe14c2bef366fda98e3abceeca98d97cb8f68279225"
+    }
+   ]
+  },
+  {
+   "slug": "bayreisergg",
+   "short": "BayReiSErgG",
+   "title": "Gesetz zur Ergänzung des Reichssiedlungsgesetzes",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayReiSErgG",
+   "versions": [
+    {
+     "from": "1983-01-01",
+     "units": 10,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayReiSErgG",
+     "sha256": "947ff7eac7a4ced3ea6c6742d245f1d7ff73130cfc419143b0f29fbb7aba68a0"
+    }
+   ]
+  },
+  {
+   "slug": "bayrohranlg94",
+   "short": "BayRohrAnlG94",
+   "title": "Gesetz über die Errichtung und den Betrieb einer Rohrleitungsanlage zwischen Vohburg an der Donau und Waidhaus",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayRohrAnlG94",
+   "versions": [
+    {
+     "from": "1994-05-01",
+     "units": 8,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayRohrAnlG94",
+     "sha256": "ef84e9566a7aa6159a2c0350c12f7f3c0d737ac55de33e55f7195572039ca8ef"
+    }
+   ]
+  },
+  {
+   "slug": "bayrkrechtsstg",
+   "short": "BRK-Gesetz",
+   "title": "Gesetz über die Rechtsstellung des Bayerischen Roten Kreuzes",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayRKRechtsstG",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 8,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayRKRechtsstG",
+     "sha256": "fb397423a1d37b6e2f74d9516ca208857c96ac809dc878f4e75d2ba3b8650707"
+    }
+   ]
+  },
+  {
+   "slug": "baytziwg",
+   "short": "TZiWG",
+   "title": "Gesetz über die Teil- und Zinswaldungen in den Forstamtsbezirken Benediktbeuern, Fall, Jachenau und Walchensee",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayTZiWG",
+   "versions": [
+    {
+     "from": "1969-03-01",
+     "units": 52,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayTZiWG",
+     "sha256": "a8a27f2b23fc7c911ec7f1fe419f2634a0673d7336ac2ead8dfa4b896ef10291"
+    }
+   ]
+  },
+  {
+   "slug": "bayuebertrglkr",
+   "short": "BayUebertrGLKr",
+   "title": "Gesetz zur Übertragung staatlicher Kassengeschäfte auf die Landkreise",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayUebertrGLKr",
+   "versions": [
+    {
+     "from": "1983-01-01",
+     "units": 5,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayUebertrGLKr",
+     "sha256": "84fb47406417fd60b134fc5f9e4c1708535e4b78daa72db7e29b8466023e512d"
+    }
+   ]
+  },
+  {
+   "slug": "bayverfog",
+   "short": "BayVerfOG",
+   "title": "Gesetz über den Bayerischen Verfassungsorden",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVerfOG",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 11,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVerfOG",
+     "sha256": "65e7a421ef2c871f13145e0fbbf865e45d0226b5486c7e3516473ac6d1e187b7"
+    }
+   ]
+  },
+  {
+   "slug": "bayverdog",
+   "short": "BayVerdOG",
+   "title": "Gesetz über den Bayerischen Verdienstorden",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVerdOG",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 10,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVerdOG",
+     "sha256": "09f965f764ce7c520423054606698bd5d9d0502bf4b071c7c39e7c8d0f741907"
+    }
+   ]
+  },
+  {
+   "slug": "baystaatsphilerrg",
+   "short": "BayStaatsphilErrG",
+   "title": "Gesetz zur Errichtung der „Stiftung Bamberger Symphoniker – Bayerische Staatsphilharmonie“",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayStaatsphilErrG",
+   "versions": [
+    {
+     "from": "2014-08-30",
+     "units": 16,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayStaatsphilErrG",
+     "sha256": "b379a7800306d2a17d5fcd4b5ad4d3a23242d6db3790b1de0e9d6f469d34f612"
+    }
+   ]
+  },
+  {
+   "slug": "baystbkvollstrg",
+   "short": "BayStBKVollstrG",
+   "title": "Gesetz über die Vollstreckung von Beitrags- und Gebührenforderungen der Steuerberaterkammern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayStBKVollstrG",
+   "versions": [
+    {
+     "from": "1983-01-01",
+     "units": 3,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayStBKVollstrG",
+     "sha256": "67ea1c086b62024d5c4e030c6d22f683a780aff0788ee6c0e294711516f056cc"
+    }
+   ]
+  },
+  {
+   "slug": "baystthnstif",
+   "short": "BayStthNStif",
+   "title": "Gesetz zur Errichtung der „Stiftung Staatstheater Nürnberg“",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayStthNStif",
+   "versions": [
+    {
+     "from": "2014-08-30",
+     "units": 18,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayStthNStif",
+     "sha256": "28a55f78b40c80e51d21d92dd9cf2f63197b2da12e1d46a65eb90963b314e7f5"
+    }
+   ]
+  },
+  {
+   "slug": "baystopferhg",
+   "short": "BayStOpferhG",
+   "title": "Gesetz über die Errichtung der „Stiftung Opferhilfe Bayern“",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayStOpferhG",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 14,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayStOpferhG",
+     "sha256": "241107c98e648eb24a3220c687e25dc23eb081a422a68428de1879275e0b044d"
+    }
+   ]
+  },
+  {
+   "slug": "baysuddtstg",
+   "short": "SudetStG",
+   "title": "Gesetz über die Sudetendeutsche Stiftung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BaySuddtStG",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 14,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BaySuddtStG",
+     "sha256": "909b157164a3d6575e20aee35ee2d8b0e07f94e8b223d2c0a4c7dc185be49011"
+    }
+   ]
+  },
+  {
+   "slug": "bayltuntg",
+   "short": "BayLTUntG",
+   "title": "Gesetz über die Untersuchungsausschüsse des Bayerischen Landtags",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayLTUntG",
+   "versions": [
+    {
+     "from": "2009-05-01",
+     "units": 23,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayLTUntG",
+     "sha256": "3c64833e356d84ce392056b21abad94245269d4bbabcb8e14114eb3e1abe7e28"
+    }
+   ]
+  },
+  {
+   "slug": "baylstifterrg",
+   "short": "BayLStiftErrG",
+   "title": "Gesetz über die Verwendung des bisherigen Domänengutes und über die Errichtung einer Landesstiftung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayLStiftErrG",
+   "versions": [
+    {
+     "from": "1983-01-01",
+     "units": 9,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayLStiftErrG",
+     "sha256": "48e00b0af106ebfd087140caaf173a14523a11b1adda190cf6aa15e99730e1d9"
+    }
+   ]
+  },
+  {
+   "slug": "bayverswg",
+   "short": "VersoG",
+   "title": "Gesetz über das öffentliche Versorgungswesen",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVerswG",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 60,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVerswG",
+     "sha256": "6d390bd874425c88fd0b960b4442cf5ec855697b6e5f4f1f726b9773f838adae"
+    }
+   ]
+  },
+  {
+   "slug": "bayversrueg",
+   "short": "BayVersRücklG",
+   "title": "Gesetz über die Bildung von Versorgungsrücklagen im Freistaat Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVersRueG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 24,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVersRueG",
+     "sha256": "59a9be2436a3e128386bedaaa8fa4679ddec74d88def871d93187c6fab4733e3"
+    }
+   ]
+  },
+  {
+   "slug": "bayversg",
+   "short": "VersG",
+   "title": "Gesetz über das öffentliche Versicherungswesen",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVersG",
+   "versions": [
+    {
+     "from": "2014-08-30",
+     "units": 78,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVersG",
+     "sha256": "b5595ec3345a78d4f4298922cafe458086ee5b28e38ae8042088c94be7738f8c"
+    }
+   ]
+  },
+  {
+   "slug": "bayvfghg",
+   "short": "VfGHG",
+   "title": "Gesetz über den Bayerischen Verfassungsgerichtshof",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVfGHG",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 60,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVfGHG",
+     "sha256": "146231d017ae642ec530769997a075a6741eebb5a41d6492f7b24ef5c5d9b9ce"
+    }
+   ]
+  },
+  {
+   "slug": "bayvgtiers",
+   "short": "BayAGTierGesG",
+   "title": "Gesetz zur Ausführung des Tiergesundheitsgesetzes",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVGTierS",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 16,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVGTierS",
+     "sha256": "b84cbd225946ca982132d4c4874dfa7fc3c6621e82abbcbc534ec5bfb65df8ab"
+    }
+   ]
+  },
+  {
+   "slug": "bayrealgewerbeg",
+   "short": "BayRealgewerbeG",
+   "title": "Gesetz über Realgewerbeberechtigungen und den Ausschank eigener Erzeugnisse",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayRealgewerbeG",
+   "versions": [
+    {
+     "from": "1983-01-01",
+     "units": 4,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayRealgewerbeG",
+     "sha256": "1ca0774ef38b67bcd297de9606dad04f1af6af5d31f3cbf9debce66530efe0ba"
+    }
+   ]
+  },
+  {
+   "slug": "bayforschstg",
+   "short": "TFoStG",
+   "title": "Gesetz über die Bayerische Transformations- und Forschungsstiftung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayForschStG",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 16,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayForschStG",
+     "sha256": "d6b4024d8c0d2e273e00a7d53d01c00187b5f9341f24f09988abed11902a5011"
+    }
+   ]
+  },
+  {
+   "slug": "bayforg",
+   "short": "FoRG",
+   "title": "Gesetz über die Forstrechte",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayFoRG",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 55,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayFoRG",
+     "sha256": "6a7c20a73045db65ccc4aebde1d19cb6c812f2f38bbf1ca679c4eb7098b0d415"
+    }
+   ]
+  },
+  {
+   "slug": "baylrauszg",
+   "short": "LRAuszG",
+   "title": "Gesetz über staatliche Auszeichnungen für die Rettung von Menschen aus Lebensgefahr",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayLRAuszG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 14,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayLRAuszG",
+     "sha256": "d7ebc65d4157783d01a129e799eb934679235f6bc589846f9b6d283c692126a7"
+    }
+   ]
+  },
+  {
+   "slug": "baygdvg",
+   "short": "GVVG",
+   "title": "Gesetz über den gesundheitlichen Verbraucherschutz und das Veterinärwesen",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayGDVG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 38,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayGDVG",
+     "sha256": "81fe93914a143c52580d6902ad8a52f64c8edc181ad1329396e449c7844a7dea"
+    }
+   ]
+  },
+  {
+   "slug": "baylandstg",
+   "short": "BayLStG",
+   "title": "Gesetz über die Bayerische Landesstiftung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayLandStG",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 16,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayLandStG",
+     "sha256": "e7eeeca4a676640cc988cf42876c3c32d6d9d3711b2c084506bcc8d7f0079c5f"
+    }
+   ]
+  },
+  {
+   "slug": "bayjsog",
+   "short": "JSOG",
+   "title": "Gesetz über die sicherheits- und ordnungsrechtlichen Befugnisse der Justizbediensteten",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayJSOG",
+   "versions": [
+    {
+     "from": "1983-01-01",
+     "units": 4,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayJSOG",
+     "sha256": "86ea8219caef7a0d984eb18b3ca0522d4dadceba7a2a3051d4823dba40aa6b02"
+    }
+   ]
+  },
+  {
+   "slug": "bayoepnvg",
+   "short": "BayÖPNVG",
+   "title": "Gesetz über den öffentlichen Personennahverkehr in Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayOePNVG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 34,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayOePNVG",
+     "sha256": "18dd1fdbb6c582f424bab2e9a0eaf36e8fa870e70070d383bf3e372e96423e8c"
+    }
+   ]
+  },
+  {
+   "slug": "baygutfrkastg",
+   "short": "BayGutfrKastG",
+   "title": "Gesetz über die Gutachterstelle für die freiwillige Kastration und andere Behandlungsmethoden",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayGutfrKastG",
+   "versions": [
+    {
+     "from": "2014-08-30",
+     "units": 9,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayGutfrKastG",
+     "sha256": "3bed4699ac812716fdcb3cc09dfa9431be1a30c8dc1b3ed9d464292de6cb00eb"
+    }
+   ]
+  },
+  {
+   "slug": "baykjg",
+   "short": "KJG",
+   "title": "Gesetz über Anforderungen an den Lärmschutz bei Kinder- und Jugendspieleinrichtungen",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayKJG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 11,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayKJG",
+     "sha256": "ce76a776e0330a556e004d75f7f87d0213cd1f9b0e457c3fdc200cf7d99ecc10"
+    }
+   ]
+  },
+  {
+   "slug": "baykoenigshsvermrg",
+   "short": "BayKoenigshsVermRG",
+   "title": "Gesetz über die vermögensrechtliche Auseinandersetzung des Bayerischen Staates mit dem vormaligen Bayerischen Königshause",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayKoenigshsVermRG",
+   "versions": [
+    {
+     "from": "1983-01-01",
+     "units": 12,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayKoenigshsVermRG",
+     "sha256": "666bde744af03329f06ee478c74a6249af982764674708d1959fdd9bdb4e0647"
+    }
+   ]
+  },
+  {
+   "slug": "baylzpolbig",
+   "short": "LzPolBiG",
+   "title": "Gesetz über die Bayerische Landeszentrale für politische Bildungsarbeit",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayLzPolBiG",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 8,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayLzPolBiG",
+     "sha256": "dbe2d3c72050395381aa036c335681c8d98a567b0c3829f52d40c8e05ae3d2c9"
+    }
+   ]
+  },
+  {
+   "slug": "baymdvfghentschg",
+   "short": "BayMdVfGHEntschG",
+   "title": "Gesetz über die Entschädigung der Mitglieder des Verfassungsgerichtshofs",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayMdVfGHEntschG",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 7,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayMdVfGHEntschG",
+     "sha256": "c6b95c5f0e1334707ff68723dbd65e2de93657b20ff65eb9014c4a6efb3fbd02"
+    }
+   ]
+  },
+  {
+   "slug": "baywpg",
+   "short": "WappenG",
+   "title": "Gesetz über das Wappen des Freistaates Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayWpG",
+   "versions": [
+    {
+     "from": "2013-06-01",
+     "units": 4,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayWpG",
+     "sha256": "e2e99375ba2045927ddde0a1da46e2e9460360c90ba2696f0158520bb45dad9a"
+    }
+   ]
+  },
+  {
+   "slug": "bayzustgverk",
+   "short": "ZustGVerk",
+   "title": "Gesetz über Zuständigkeiten im Verkehrswesen",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayZustGVerk",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 19,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayZustGVerk",
+     "sha256": "fd239aee909489f5302d086e0ce57c7657f1c793dc39ffa650bb15435c44751d"
+    }
+   ]
+  },
+  {
+   "slug": "bayzustgluu",
+   "short": "LfUG",
+   "title": "Gesetz über das Bayerische Landesamt für Umwelt",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayZustGLuU",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 12,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayZustGLuU",
+     "sha256": "7119308afd2f80fc8dd521a0d951c831b770bbb7aa817954e7561bb510107047"
+    }
+   ]
+  },
+  {
+   "slug": "baygdg",
+   "short": "GDG",
+   "title": "Gesetz über den Öffentlichen Gesundheitsdienst",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayGDG",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 39,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayGDG",
+     "sha256": "7d20e0b9f84b512c694f32497f973e0cb6ea81f3dbb0d45874ccb3c130cdaf23"
+    }
+   ]
+  },
+  {
+   "slug": "baygsg",
+   "short": "GSG",
+   "title": "Gesetz zum Schutz der Gesundheit",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayGSG",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 14,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayGSG",
+     "sha256": "b0da5051369ab40685626ecfe37bb32d8ac9fc44e991833c7305cc907c38fee9"
+    }
+   ]
+  },
+  {
+   "slug": "bayhg2019-2020",
+   "short": "HG 2019/2020",
+   "title": "Gesetz über die Feststellung des Haushaltsplans des Freistaates Bayern für die Haushaltsjahre 2019 und 2020",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayHG2019_2020",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 38,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayHG2019_2020",
+     "sha256": "293fcba441785a5f49f55c417aa6f6f62da404023f0c1f1c826ab44451a21297"
+    }
+   ]
+  },
+  {
+   "slug": "bayhg2026-2027",
+   "short": "HG 2026/2027",
+   "title": "Gesetz über die Feststellung des Haushaltsplans des Freistaates Bayern für die Haushaltsjahre 2026 und 2027",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayHG2026_2027",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 41,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayHG2026_2027",
+     "sha256": "079ef610242bb227610b5709f33257b32605aaa9314a73a67063ee601624a768"
+    }
+   ]
+  },
+  {
+   "slug": "bayhg2024-2025",
+   "short": "HG 2024/2025",
+   "title": "Gesetz über die Feststellung des Haushaltsplans des Freistaates Bayern für die Haushaltsjahre 2024 und 2025",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayHG2024_2025",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 33,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayHG2024_2025",
+     "sha256": "727d065cfca978064886157136f852c9f715164a0ceb04200d8988ea0f750634"
+    }
+   ]
+  },
+  {
+   "slug": "bayhg2021",
+   "short": "HG 2021",
+   "title": "Gesetz über die Feststellung des Haushaltsplans des Freistaates Bayern für das Haushaltsjahr 2021",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayHG2021",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 35,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayHG2021",
+     "sha256": "0440f0e1fc3264cb6eeb44ea4396ae53ef67e3cf274a92eeb6b71f55d20acb96"
+    }
+   ]
+  },
+  {
+   "slug": "bayhg2023",
+   "short": "HG 2023",
+   "title": "Gesetz über die Feststellung des Haushaltsplans des Freistaates Bayern für das Haushaltsjahr 2023",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayHG2023",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 33,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayHG2023",
+     "sha256": "e02732b5a3d5b4b1aba51c23ea2996fce89ef44639df24d5036d3e8ed30471f1"
+    }
+   ]
+  },
+  {
+   "slug": "bayhg2022",
+   "short": "HG 2022",
+   "title": "Gesetz über die Feststellung des Haushaltsplans des Freistaates Bayern für das Haushaltsjahr 2022",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayHG2022",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 31,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayHG2022",
+     "sha256": "e1156b1126207161a1fc2d38bc226d4473ab1c22bd6882dbc917604eedd89c62"
+    }
+   ]
+  },
+  {
+   "slug": "bayhkag",
+   "short": "HKaG",
+   "title": "Heilberufe-Kammergesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayHKaG",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 107,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayHKaG",
+     "sha256": "492603fa4d97d86c53c1f2fdd74d52818371d16bdfb136fddf4daa4fc96b7f1d"
+    }
+   ]
+  },
+  {
+   "slug": "bayhfpg",
+   "short": "HfPG",
+   "title": "Gesetz über die Hochschule für Politik München",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayHfPG",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 13,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayHfPG",
+     "sha256": "a65a2ed3dec8bd3716c7beb4e95c85a4dd49efe2b04f698b76b3f0190a3b8025"
+    }
+   ]
+  },
+  {
+   "slug": "baybfhg",
+   "short": "HföDG",
+   "title": "Gesetz über die Hochschule für den öffentlichen Dienst in Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayBFHG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 27,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayBFHG",
+     "sha256": "4308bb44a470e3a5bfbb179cf0f15457b0f01d47070049ae3f25de4b7db90e3c"
+    }
+   ]
+  },
+  {
+   "slug": "bayimbyg",
+   "short": "IMBYG",
+   "title": "Gesetz über die Immobilien Freistaat Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayIMBYG",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 4,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayIMBYG",
+     "sha256": "bfbffe4b09dd7809d804ff81836f2c706605df439a4ccbbfedf9553b732c6281"
+    }
+   ]
+  },
+  {
+   "slug": "bayilsg",
+   "short": "ILSG",
+   "title": "Gesetz über die Errichtung und den Betrieb Integrierter Leitstellen",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayILSG",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 13,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayILSG",
+     "sha256": "fc677a129227869ac71d52eb45f7ee9d08844fea3924f82d7d58d3f30fa0201b"
+    }
+   ]
+  },
+  {
+   "slug": "bayjugarbfreistellg",
+   "short": "JArbFG",
+   "title": "Gesetz zur Freistellung von Arbeitnehmern für Zwecke der Jugendarbeit",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayJugarbFreistellG",
+   "versions": [
+    {
+     "from": "2017-04-01",
+     "units": 8,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayJugarbFreistellG",
+     "sha256": "251c9acfb5f3df6d163b795603779a9c9007f287d115c2c829971ef1b6a72bb8"
+    }
+   ]
+  },
+  {
+   "slug": "baykirchstg",
+   "short": "KirchStG",
+   "title": "Gesetz über die Erhebung von Steuern durch Kirchen, Religions- und weltanschauliche Gemeinschaften",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayKirchStG",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 32,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayKirchStG",
+     "sha256": "1b654ea1ae9d4e35683ff5e02764c4694cd1601355d8cb8d8d32cd4b638f3cb5"
+    }
+   ]
+  },
+  {
+   "slug": "baykwbg",
+   "short": "KWBG",
+   "title": "Gesetz über kommunale Wahlbeamte und Wahlbeamtinnen",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayKWBG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 72,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayKWBG",
+     "sha256": "dc97222a239562aa4c7345679832b131176cb968a74f9984557983dedb09420b"
+    }
+   ]
+  },
+  {
+   "slug": "baykag",
+   "short": "KAG",
+   "title": "Kommunalabgabengesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayKAG",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 25,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayKAG",
+     "sha256": "0704ac7e4be35578d6920475719e877892614862ac82ba3e9a465510c85af1df"
+    }
+   ]
+  },
+  {
+   "slug": "baykg",
+   "short": "KG",
+   "title": "Kostengesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayKG",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 32,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayKG",
+     "sha256": "b8897a022ad3fb4c75a7216012e38a1a82a090c550434dec7c79f649a02eb774"
+    }
+   ]
+  },
+  {
+   "slug": "bay-zuvlfg",
+   "short": "ZuVLFG",
+   "title": "Gesetz über Zuständigkeiten und den Vollzug von Rechtsvorschriften im Bereich der Land- und Forstwirtschaft",
+   "url": "https://www.gesetze-bayern.de/Content/Document/Bay_ZuVLFG",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 22,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/Bay_ZuVLFG",
+     "sha256": "8b58770ce444d0f2dc1aaf1a969ca627eb1fb8115f3064144031ab1dd0c74305"
+    }
+   ]
+  },
+  {
+   "slug": "baylgrg",
+   "short": "LGRG",
+   "title": "Gesetz über den Landesgesundheitsrat",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayLGRG",
+   "versions": [
+    {
+     "from": "2024-07-16",
+     "units": 9,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayLGRG",
+     "sha256": "b4a64d75e91f8790e164e99e0f3ab5a92b1db6f04258aaffaa9bb5fbde7838a7"
+    }
+   ]
+  },
+  {
+   "slug": "bayjvkostg",
+   "short": "LJKostG",
+   "title": "Landesjustizkostengesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayJVKostG",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 12,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayJVKostG",
+     "sha256": "4df77ae6b74aa61729c5d5d3f419f58ff12683fe8fe7610be8a68506fd70b9f0"
+    }
+   ]
+  },
+  {
+   "slug": "baylstvg",
+   "short": "LStVG",
+   "title": "Gesetz über das Landesstrafrecht und das Verordnungsrecht auf dem Gebiet der öffentlichen Sicherheit und Ordnung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayLStVG",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 66,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayLStVG",
+     "sha256": "f283c48d6c945d9c59c02c373b15d3d5c44d7521c85629f10b11494456328972"
+    }
+   ]
+  },
+  {
+   "slug": "baylwg",
+   "short": "LWG",
+   "title": "Gesetz über Landtagswahl, Volksbegehren und Volksentscheid",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayLWG",
+   "versions": [
+    {
+     "from": "2022-06-01",
+     "units": 95,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayLWG",
+     "sha256": "5466165474eb7095b7d399a80ed1ca1e10315d8ea24121d1f86198e2295161d6"
+    }
+   ]
+  },
+  {
+   "slug": "baylkro",
+   "short": "LKrO",
+   "title": "Landkreisordnung für den Freistaat Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayLKrO",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 118,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayLKrO",
+     "sha256": "53f758d07c5a8726056096d074f8e8182408d4226d71f10d35c25a8caec9d321"
+    }
+   ]
+  },
+  {
+   "slug": "bayllbg",
+   "short": "LlbG",
+   "title": "Gesetz über die Leistungslaufbahn und die Fachlaufbahnen der bayerischen Beamten und Beamtinnen",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayLlbG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 79,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayLlbG",
+     "sha256": "7ada44b107e9f61d74a25cb25120f75a53d93dcbca1e543ce378c330b0b9ef9f"
+    }
+   ]
+  },
+  {
+   "slug": "bayaufbaug",
+   "short": "LfAG",
+   "title": "Gesetz über die Bayerische Landesanstalt für Aufbaufinanzierung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayAufbauG",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 22,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayAufbauG",
+     "sha256": "3700b5cca0745644f54d865a70545763387fd08e14bc69e2eecc7b5c8445f744"
+    }
+   ]
+  },
+  {
+   "slug": "baymaxog",
+   "short": "MaxOG",
+   "title": "Gesetz über den Bayerischen Maximiliansorden für Wissenschaft und Kunst",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayMaxOG",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 10,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayMaxOG",
+     "sha256": "da8c4804ade3f4e804bcb58649ed538292c7382b1bf04c26d0e10f170ab19b22"
+    }
+   ]
+  },
+  {
+   "slug": "baymfg2008",
+   "short": "MfG",
+   "title": "Gesetz über die Förderung der mittelständischen Unternehmen sowie der Freien Berufe",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayMfG2008",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 28,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayMfG2008",
+     "sha256": "6f1246dce88b97f41d3ccda313643549b64115452a7dce96f26796299c03d270"
+    }
+   ]
+  },
+  {
+   "slug": "baypkgg",
+   "short": "PKGG",
+   "title": "Gesetz zur parlamentarischen Kontrolle der Staatsregierung hinsichtlich der Tätigkeit des Landesamts für Verfassungsschutz sowie hinsichtlich der Maßnahmen nach Art. 13 Abs. 3 bis 5 des Grundgesetzes",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayPKGG",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 15,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayPKGG",
+     "sha256": "ad1228b7b9bd9dcac31b20b69deaa71989d4af5cac85aaa2f293b9fbc8bc4dd1"
+    }
+   ]
+  },
+  {
+   "slug": "baypbg",
+   "short": "PBG",
+   "title": "Gesetz über die Beteiligung des Landtags durch die Staatsregierung in Angelegenheiten der Europäischen Union gemäß Art. 70 Abs. 4 der Verfassung des Freistaates Bayern sowie in sonstigen Angelegenheiten gemäß Art. 55 Nr. 3 Satz 2 der Verfassung des Freistaates Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayPBG",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 13,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayPBG",
+     "sha256": "ef6195db662d341bfcd95c7c8b5ecc0d48b0ae42a71b754e0dbdaaae5a91b71a"
+    }
+   ]
+  },
+  {
+   "slug": "baypflewoqg",
+   "short": "PfleWoqG",
+   "title": "Gesetz zur Regelung der Pflege-, Betreuungs- und Wohnqualität im Alter und bei Behinderung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayPfleWoqG",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 32,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayPfleWoqG",
+     "sha256": "c723dd16e986f166a2db2dc63f7ac16a38a8bb45cb01c2beb0e1427ec410c6ac"
+    }
+   ]
+  },
+  {
+   "slug": "baypflstg",
+   "short": "PflStG",
+   "title": "Gesetz über die Ablieferung von Pflichtstücken",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayPflStG",
+   "versions": [
+    {
+     "from": "1986-09-01",
+     "units": 8,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayPflStG",
+     "sha256": "dc975238488330cc30f7e1e1d419e1842ae0b92a29072853615144d2c960e1e9"
+    }
+   ]
+  },
+  {
+   "slug": "baypag",
+   "short": "PAG",
+   "title": "Gesetz über die Aufgaben und Befugnisse der Bayerischen Polizei",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayPAG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 111,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayPAG",
+     "sha256": "7d8b9d933c45ed359ff083989c1734135cceb0b56d444588e2a67c9073863c23"
+    }
+   ]
+  },
+  {
+   "slug": "baypog",
+   "short": "POG",
+   "title": "Gesetz über die Organisation der Bayerischen Polizei",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayPOG",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 17,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayPOG",
+     "sha256": "ad201fd845539c9381d7a1e2413bc6ba4497eb80b8056e8354c965cd862e6e70"
+    }
+   ]
+  },
+  {
+   "slug": "baykompruefg",
+   "short": "PrVbG",
+   "title": "Gesetz über den Bayerischen Kommunalen Prüfungsverband",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayKomPruefG",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 8,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayKomPruefG",
+     "sha256": "e843863605f17acb7b2db33a61523c3fde60e6cc5dad65c78097334b683e23fa"
+    }
+   ]
+  },
+  {
+   "slug": "bayrhg",
+   "short": "RHG",
+   "title": "Gesetz über den Bayerischen Obersten Rechnungshof",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayRHG",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "units": 18,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayRHG",
+     "sha256": "ba90efca26f0e14f95ce1e1d2fe88e4debf2377ebed5d894dead675be7405944"
+    }
+   ]
+  },
+  {
+   "slug": "bayreisg",
+   "short": "BayReiSG",
+   "title": "Reichssiedlungsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayReiSG",
+   "versions": [
+    {
+     "from": "1983-01-01",
+     "units": 33,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayReiSG",
+     "sha256": "83e206b1ad4617d2d264f15f010c2e692f9e4043baf24e83219c0d6a0ac05660"
+    }
+   ]
+  },
+  {
+   "slug": "bayrvo",
+   "short": "BayRVO",
+   "title": "Reichsversicherungsordnung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayRVO",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 32,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayRVO",
+     "sha256": "8a620a544312cb22dda05ff0b948ef7e92b1e4aee4033825ce32fd88cf4f320d"
+    }
+   ]
+  },
+  {
+   "slug": "bayschulkostg",
+   "short": "SchKfrG",
+   "title": "Gesetz über die Kostenfreiheit des Schulwegs",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BaySchulKostG",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 8,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BaySchulKostG",
+     "sha256": "a0ff5ad189fc562f734f46c73733232e47a54e15d5c6ef086f1ddc9e77f22dae"
+    }
+   ]
+  },
+  {
+   "slug": "bayswg",
+   "short": "SWG",
+   "title": "Gesetz über die Sicherheitswacht in Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BaySWG",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 20,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BaySWG",
+     "sha256": "52af570493cddb7d406e67e5081a4ea64be03f6382e0ed2dab2bd1b9af452c79"
+    }
+   ]
+  },
+  {
+   "slug": "bayspkg",
+   "short": "SpkG",
+   "title": "Gesetz über die öffentlichen Sparkassen",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BaySpkG",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 33,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BaySpkG",
+     "sha256": "2abaf224cb3d2bc008a1a0a99ebba9bed63274241c1a7a5823cee91f807a6624"
+    }
+   ]
+  },
+  {
+   "slug": "bayspielbg",
+   "short": "SpielbG",
+   "title": "Gesetz über Spielbanken im Freistaat Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BaySpielbG",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 18,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BaySpielbG",
+     "sha256": "7cca52e062c4542612deb951207b347130375786afc759f71aefd8a78aa2ce05"
+    }
+   ]
+  },
+  {
+   "slug": "baystfog",
+   "short": "StFoG",
+   "title": "Gesetz zur Errichtung des Unternehmens „Bayerische Staatsforsten“",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayStFoG",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 24,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayStFoG",
+     "sha256": "c6b10f84529b8dcde9b898747dd579434d85530f04d4350c4ab0ff725a36da58"
+    }
+   ]
+  },
+  {
+   "slug": "baystaatsschuldbg",
+   "short": "Staatsschuldbuchgesetz",
+   "title": "Gesetz über das Staatsschuldbuch des Freistaates Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayStaatsschuldbG",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 6,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayStaatsschuldbG",
+     "sha256": "6671f511c271317076782bc5073ee57a36f16e55a7ab647b6b02085ccaf37c1f"
+    }
+   ]
+  },
+  {
+   "slug": "baytng",
+   "short": "TNG",
+   "title": "Gesetz zur Errichtung der Technischen Universität Nürnberg",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayTNG",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 8,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayTNG",
+     "sha256": "8ec9bd01df6202ada907ef9f11f2b8d2f00cfe962a0d98b57192790dcbe8418a"
+    }
+   ]
+  },
+  {
+   "slug": "bayvermkatg",
+   "short": "VermKatG",
+   "title": "Gesetz über die Landesvermessung und das Liegenschaftskataster",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVermKatG",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 18,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVermKatG",
+     "sha256": "d306c08c8cbec5461f254de8dd02ae84f09770fa2b04aefa2ac05586a71fc664"
+    }
+   ]
+  },
+  {
+   "slug": "bayvgemo",
+   "short": "VGemO",
+   "title": "Verwaltungsgemeinschaftsordnung für den Freistaat Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVGemO",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 13,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVGemO",
+     "sha256": "fcbd10a8089701200edac235506c6e3136834d873848dea4e188fcda51447461"
+    }
+   ]
+  },
+  {
+   "slug": "bayzustg",
+   "short": "ZustG",
+   "title": "Zuständigkeitsgesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayZustG",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 13,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayZustG",
+     "sha256": "f7a4630256bba2fd108fbf24a4d95783c2b0d4fe61ab76fc31a6199dc5a12f2d"
+    }
+   ]
+  },
+  {
+   "slug": "bayzwewg2008",
+   "short": "ZwEWG",
+   "title": "Gesetz über das Verbot der Zweckentfremdung von Wohnraum",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayZwEWG2008",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 10,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayZwEWG2008",
+     "sha256": "bdfa0c8ce0d6cc6b44a9d859951b87fee377a6085be80828c7061664b01b29af"
+    }
+   ]
+  },
+  {
+   "slug": "bayzweckvermg",
+   "short": "ZweckVermG",
+   "title": "Gesetz über die Bildung eines Zweckvermögens durch Übertragung von Treuhandforderungen des Freistaates Bayern in das haftende Eigenkapital der Bayerischen Landesbank Girozentrale",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayZweckVermG",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 7,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayZweckVermG",
+     "sha256": "2ce7495d0a7f8233c60bc55ad95220f45241abe4b9d0c49af0ed2cdf9757f51a"
+    }
+   ]
+  }
+ ]
+}
