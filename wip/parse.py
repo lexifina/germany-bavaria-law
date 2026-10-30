@@ -281,6 +281,8 @@ def amending_laws(amend: list[str]) -> dict:
         d, mo, y, gy, page = m.groups()
         gy = gy or y
         key = f'gvbl-{gy}-{int(page):04d}'
+        if VO_MODE and not (key in KNOWN and f'vom {int(d)}.{int(mo)}.{y} ' in KNOWN[key]):
+            key += f'-{y}{int(mo):02d}{int(d):02d}'  # Verordnungen parts: two acts can start on one GVBl page
         laws[key] = {'label': f'Gesetz vom {int(d)}.{int(mo)}.{y} (GVBl. {gy} S. {int(page)})',
                      'title': norm(re.sub(r'^(?:Art\.|§§?)\s*[\d\w]+(?:\s*(?:Abs\.|Nr\.|Satz)\s*\d+\w*)*\s*', '', t[:m.start()])) or None, 'kind': 'law', 'enacted': f'{y}-{int(mo):02d}-{int(d):02d}', 'published': None,
                      'url': None, 'temporary_until': None, 'restores': None,
@@ -311,6 +313,7 @@ def vo_labels(laws: dict, known: dict) -> dict:
         mg = re.search(r'(?<![\w])(G|\w*G|\w*[Gg]esetz\w*)(?![\w])', t)
         if mv and (not mg or mv.start() < mg.start()):
             lw['label'] = 'Verordnung' + lw['label'][len('Gesetz'):]
+        lw['label'] = known.setdefault(k, lw['label'])  # the first act (list order) that names a key sets its label
     return laws
 
 
@@ -377,6 +380,7 @@ def part(name: str, ids: list[str], country: bool) -> None:
 
 
 KNOWN: dict = {}
+VO_MODE = False
 
 
 def list_ids(sub: str = 'list') -> list[str]:
@@ -401,6 +405,7 @@ if __name__ == '__main__':
     # the Rechtsverordnungen (ordinances wave, 2026-10-30): NORMTYP rv, list order, about 50 acts a part; the last,
     # short part only once the whole list is fetched (.cache/rv-done)
     KNOWN.update(published_labels())
+    VO_MODE = True
     ids = list_ids('list-rv')
     for n in range(0, len(ids), PART_SIZE):
         chunk = ids[n:n + PART_SIZE]

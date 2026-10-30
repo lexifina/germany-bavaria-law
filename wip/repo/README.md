@@ -18,8 +18,9 @@ acts the portal prints.
 | --- | --- | ---: |
 | `bayverf/` | Verfassung des Freistaates Bayern (BayRS 100-1-I) | 1 |
 | other folders | the Bavarian Gesetze listed by BAYERN.RECHT, one folder per act (by its document id, e.g. `baybo/`) | 1 each |
+| other folders | the Bavarian Rechtsverordnungen listed by BAYERN.RECHT (486), one folder per act (by its document id, e.g. `bayabfzustv/`) | 1 each |
 
-Verordnungen, Verwaltungsvorschriften and Staatsverträge are not included yet.
+Verwaltungsvorschriften and Staatsverträge are not included yet.
 
 ## Source
 
