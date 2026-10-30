@@ -1,0 +1,1 @@
+Verified 2026-10-30 (gitlaw-scraper-dell): Bavaria published part by part; only corpus.d parts with their own .PUBLISH go to main (each checked against the BAYERN.RECHT XML, check.py clean, audit clean).
