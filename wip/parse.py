@@ -329,8 +329,8 @@ def part(name: str, ids: list[str], country: bool) -> None:
                'Current text only: BAYERN.RECHT publishes only the consolidated version in force, so each act is one '
                'version ("oldest version available"), credited to the publisher, not to an amending law.',
                'Each version is dated by the day BAYERN.RECHT says the consolidated text applies from ("Text gilt ab"; '
-               'the XML's inkraft date); if it is missing, by the Ausfertigung date. For some acts that day is earlier '
-               'than the date of the last amending act the portal lists; the portal's own date is kept, not guessed '
+               'the inkraft date of the XML); if it is missing, by the Ausfertigung date. For some acts that day is earlier '
+               'than the date of the last amending act the portal lists; the date the portal gives is kept, not guessed '
                'over. Days after the retrieval day go on the zukunft branch.',
                'One file per Artikel or Paragraph (einzelnorm); headings of the Teile and Abschnitte stand above the first '
                'provision under them; "000-titel" holds the title lines, the citation line and the list of amending acts '

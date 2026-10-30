@@ -1012,7 +1012,7 @@
  "laws": {
   "gvbl-1998-0042": {
    "label": "Gesetz vom 20.2.1998 (GVBl. 1998 S. 42)",
-   "title": null,
+   "title": "Art. 1 G zur Abschaffung des Bayerischen Senates",
    "kind": "law",
    "enacted": "1998-02-20",
    "published": null,
@@ -1023,7 +1023,7 @@
   },
   "gvbl-2003-0816": {
    "label": "Gesetz vom 10.11.2003 (GVBl. 2003 S. 816)",
-   "title": null,
+   "title": "§ 1 ÄndG",
    "kind": "law",
    "enacted": "2003-11-10",
    "published": null,
@@ -1034,7 +1034,7 @@
   },
   "gvbl-2003-0817": {
    "label": "Gesetz vom 10.11.2003 (GVBl. 2003 S. 817)",
-   "title": null,
+   "title": "§ 1 ÄndG",
    "kind": "law",
    "enacted": "2003-11-10",
    "published": null,
@@ -1045,7 +1045,7 @@
   },
   "gvbl-2013-0638": {
    "label": "Gesetz vom 11.11.2013 (GVBl. 2013 S. 638)",
-   "title": null,
+   "title": "§ 1 ÄndG",
    "kind": "law",
    "enacted": "2013-11-11",
    "published": null,
@@ -1056,7 +1056,7 @@
   },
   "gvbl-2013-0639": {
    "label": "Gesetz vom 11.11.2013 (GVBl. 2013 S. 639)",
-   "title": null,
+   "title": "§ 1 ÄndG",
    "kind": "law",
    "enacted": "2013-11-11",
    "published": null,
@@ -1067,7 +1067,7 @@
   },
   "gvbl-2013-0640": {
    "label": "Gesetz vom 11.11.2013 (GVBl. 2013 S. 640)",
-   "title": null,
+   "title": "§ 1 ÄndG",
    "kind": "law",
    "enacted": "2013-11-11",
    "published": null,
@@ -1078,7 +1078,7 @@
   },
   "gvbl-2013-0641": {
    "label": "Gesetz vom 11.11.2013 (GVBl. 2013 S. 641)",
-   "title": null,
+   "title": "§ 1 ÄndG",
    "kind": "law",
    "enacted": "2013-11-11",
    "published": null,
@@ -1089,7 +1089,7 @@
   },
   "gvbl-2013-0642": {
    "label": "Gesetz vom 11.11.2013 (GVBl. 2013 S. 642)",
-   "title": null,
+   "title": "§ 1 ÄndG",
    "kind": "law",
    "enacted": "2013-11-11",
    "published": null,
@@ -1111,7 +1111,7 @@
  ],
  "decisions": [
   "Current text only: BAYERN.RECHT publishes only the consolidated version in force, so each act is one version (\"oldest version available\"), credited to the publisher, not to an amending law.",
-  "Each version is dated by the in-force day the XML gives for the consolidated version (angaben.versabh/inkraft); if it is missing, by the Ausfertigung date. Days after the retrieval day go on the zukunft branch.",
+  "Each version is dated by the day BAYERN.RECHT says the consolidated text applies from (\"Text gilt ab\"; the inkraft date of the XML); if it is missing, by the Ausfertigung date. For some acts that day is earlier than the date of the last amending act the portal lists; the date the portal gives is kept, not guessed over. Days after the retrieval day go on the zukunft branch.",
   "One file per Artikel or Paragraph (einzelnorm); headings of the Teile and Abschnitte stand above the first provision under them; \"000-titel\" holds the title lines, the citation line and the list of amending acts the portal prints.",
   "Left out as editorial: footnotes (fn.call) and sentence numbers (satz.nr). Tables are one line per row, cells separated by \" | \"; images are left out."
  ],
@@ -1130,7 +1130,7 @@
    "email": "bayern-recht@gesetze-bayern.de.invalid"
   },
   "default_in_force_rule": {
-   "text": "Verfassung des Freistaates Bayern Art. 76 Abs. 2: \"Jedes Gesetz muß den Tag bestimmen, an dem es in Kraft tritt.\" Each version here is dated by the in-force day BAYERN.RECHT gives for the consolidated text it publishes (the \"inkraft\" date of that version).",
+   "text": "Verfassung des Freistaates Bayern Art. 76 Abs. 2: \"Jedes Gesetz muß den Tag bestimmen, an dem es in Kraft tritt.\" Each version here is dated by the day BAYERN.RECHT says its consolidated text applies from (\"Text gilt ab\", the \"inkraft\" date of the XML).",
    "source": "https://www.gesetze-bayern.de/Content/Document/BayVerf-82"
   },
   "licence_note": "Texts: Bürgerservice BAYERN.RECHT (Bayerische Staatskanzlei; consolidation by Verlag C.H.Beck on behalf of the Free State of Bavaria), www.gesetze-bayern.de. Its terms allow the texts of the Vorschriften to be used, reproduced and distributed without restriction, commercially or not; Gesetze and Verordnungen are not protected by copyright (§ 5 Abs. 1 UrhG). Non-official text: only the Gesetz- und Verordnungsblatt is authoritative."

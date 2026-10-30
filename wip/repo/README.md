@@ -29,8 +29,9 @@ sha256 is recorded with each version in `data/versions.json`.
 
 ## Dates
 
-Each version is dated by the in-force day BAYERN.RECHT gives for the consolidated text (the version's "inkraft"
-date), at noon in Munich. Where it gives none, the Ausfertigung date is used. Versions in force only after the
+Each version is dated by the day BAYERN.RECHT says its consolidated text applies from ("Text gilt ab"), at noon
+in Munich; where it gives none, by the Ausfertigung date. For some acts that day is earlier than the last amending
+act the portal lists; the portal's date is kept as given. Versions in force only after the
 retrieval date (30 October 2026) are on the `zukunft` branch.
 
 ## How it is built

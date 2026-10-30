@@ -21,7 +21,7 @@ def source_text(raw: bytes) -> str:
     s = s[s.index('<rumpf>'):]
     s = re.sub(r'(?s)<aenderungsverlauf>.*?</aenderungsverlauf>|<normzitat>.*?</normzitat>', '', s)
     s = re.sub(r'(?<=</annex\.nummer>)<annex\.nummer[^>]*>[^<]*</annex\.nummer>', '', s)  # a repeated number
-    s = re.sub(r'(?s)<fn\.call>.*?</fn\.call>|<satz\.nr[^>]*>.*?</satz\.nr>|<img[^>]*/?>', '', s)
+    s = re.sub(r'(?s)<fn\.call[^>]*>.*?</fn\.call>|<satz\.nr[^>]*>.*?</satz\.nr>|<img[^>]*/?>', '', s)
     s = re.sub(r'<[^>]+>', ' ', s)
     return s.replace('&lt;', '<').replace('&gt;', '>').replace('&amp;', '&').replace('­', '')
 
