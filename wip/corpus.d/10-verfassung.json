@@ -1,0 +1,1040 @@
+{
+ "acts": [
+  {
+   "slug": "bayverf",
+   "short": "BayVerf",
+   "title": "Verfassung des Freistaates Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVerf",
+   "first_law": null,
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVerf",
+     "sha256": "ffc71af8f7f60cdb18a66d4839b69a13d06c46e2fb09e6c3924f7b91fefc0aa7",
+     "units": {
+      "000-titel": {
+       "label": "Titel",
+       "kind": "title",
+       "text": "# Verfassung des Freistaates Bayern\nin der Fassung der Bekanntmachung vom 15. Dezember 1998\n(GVBl. S. 991, 992)\nBayRS 100-1-I\nVerfassung des Freistaates Bayern in der Fassung der Bekanntmachung vom 15. Dezember 1998 (GVBl. S. 991, 992, BayRS 100-1-I), die zuletzt durch Gesetze vom 11. November 2013 (GVBl. S. 638, 639, 640, 641, 642) geändert worden ist\nÄnderungen\n1. Art. 1 G zur Abschaffung des Bayerischen Senates vom 20.2.1998 (GVBl. S. 42)\n2. § 1 ÄndG vom 10.11.2003 (GVBl. S. 816)\n3. § 1 ÄndG vom 10.11.2003 (GVBl. S. 817)\n4. § 1 ÄndG vom 11.11.2013 (GVBl. S. 638)\n5. § 1 ÄndG vom 11.11.2013 (GVBl. S. 639)\n6. § 1 ÄndG vom 11.11.2013 (GVBl. S. 640)\n7. § 1 ÄndG vom 11.11.2013 (GVBl. S. 641)\n8. § 1 ÄndG vom 11.11.2013 (GVBl. S. 642)\n"
+      },
+      "001-praeambel": {
+       "label": "Präambel",
+       "kind": "preamble",
+       "text": "# [Präambel]\nAngesichts des Trümmerfeldes, zu dem eine Staats- und Gesellschaftsordnung ohne Gott, ohne Gewissen und ohne Achtung vor der Würde des Menschen die Überlebenden des zweiten Weltkrieges geführt hat, in dem festen Entschlusse, den kommenden deutschen Geschlechtern die Segnungen des Friedens, der Menschlichkeit und des Rechtes dauernd zu sichern, gibt sich das Bayerische Volk, eingedenk seiner mehr als tausendjährigen Geschichte, nachstehende demokratische Verfassung\n"
+      },
+      "art-001": {
+       "label": "Art. 1",
+       "kind": "art",
+       "text": "## Erster Hauptteil Aufbau und Aufgaben des Staates\n### 1. Abschnitt Die Grundlagen des Bayerischen Staates\n# Art. 1\n(1) Bayern ist ein Freistaat.\n(2) Die Landesfarben sind Weiß und Blau.\n(3) Das Landeswappen wird durch Gesetz bestimmt.\n"
+      },
+      "art-002": {
+       "label": "Art. 2",
+       "kind": "art",
+       "text": "# Art. 2\n(1) Bayern ist ein Volksstaat. Träger der Staatsgewalt ist das Volk.\n(2) Das Volk tut seinen Willen durch Wahlen und Abstimmung kund. Mehrheit entscheidet.\n"
+      },
+      "art-003": {
+       "label": "Art. 3",
+       "kind": "art",
+       "text": "# Art. 3\n(1) Bayern ist ein Rechts-, Kultur- und Sozialstaat. Er dient dem Gemeinwohl.\n(2) Der Staat schützt die natürlichen Lebensgrundlagen und die kulturelle Überlieferung. Er fördert und sichert gleichwertige Lebensverhältnisse und Arbeitsbedingungen in ganz Bayern, in Stadt und Land.\n"
+      },
+      "art-003a": {
+       "label": "Art. 3a",
+       "kind": "art",
+       "text": "# Art. 3a\nBayern bekennt sich zu einem geeinten Europa, das demokratischen, rechtsstaatlichen, sozialen und föderativen Grundsätzen sowie dem Grundsatz der Subsidiarität verpflichtet ist, die Eigenständigkeit der Regionen wahrt und deren Mitwirkung an europäischen Entscheidungen sichert. Bayern arbeitet mit anderen europäischen Regionen zusammen.\n"
+      },
+      "art-004": {
+       "label": "Art. 4",
+       "kind": "art",
+       "text": "# Art. 4\nDie Staatsgewalt wird ausgeübt durch die stimmberechtigten Staatsbürger selbst, durch die von ihnen gewählte Volksvertretung und durch die mittelbar oder unmittelbar von ihr bestellten Vollzugsbehörden und Richter.\n"
+      },
+      "art-005": {
+       "label": "Art. 5",
+       "kind": "art",
+       "text": "# Art. 5\n(1) Die gesetzgebende Gewalt steht ausschließlich dem Volk und der Volksvertretung zu.\n(2) Die vollziehende Gewalt liegt in den Händen der Staatsregierung und der nachgeordneten Vollzugsbehörden.\n(3) Die richterliche Gewalt wird durch unabhängige Richter ausgeübt.\n"
+      },
+      "art-006": {
+       "label": "Art. 6",
+       "kind": "art",
+       "text": "# Art. 6\n(1) Die Staatsangehörigkeit wird erworben\n1. durch Geburt;\n2. durch Legitimation;\n3. durch Eheschließung;\n4. durch Einbürgerung.\n(2) Die Staatsangehörigkeit kann nicht aberkannt werden.\n(3) Das Nähere regelt ein Gesetz über die Staatsangehörigkeit.\n"
+      },
+      "art-007": {
+       "label": "Art. 7",
+       "kind": "art",
+       "text": "# Art. 7\n(1) Staatsbürger ist ohne Unterschied der Geburt, der Rasse, des Geschlechts, des Glaubens und des Berufs jeder Staatsangehörige, der das 18. Lebensjahr vollendet hat.\n(2) Der Staatsbürger übt seine Rechte aus durch Teilnahme an Wahlen, Bürgerbegehren und Bürgerentscheiden sowie Volksbegehren und Volksentscheiden.\n(3) Die Ausübung dieser Rechte kann von der Dauer eines Aufenthalts bis zu einem Jahr abhängig gemacht werden.\n"
+      },
+      "art-008": {
+       "label": "Art. 8",
+       "kind": "art",
+       "text": "# Art. 8\nAlle deutschen Staatsangehörigen, die in Bayern ihren Wohnsitz haben, besitzen die gleichen Rechte und haben die gleichen Pflichten wie die bayerischen Staatsangehörigen.\n"
+      },
+      "art-009": {
+       "label": "Art. 9",
+       "kind": "art",
+       "text": "# Art. 9\n(1) Das Staatsgebiet gliedert sich in Kreise (Regierungsbezirke); die Abgrenzung erfolgt durch Gesetz.\n(2) Die Kreise sind in Bezirke eingeteilt; die kreisunmittelbaren Städte stehen den Bezirken gleich. Die Einteilung wird durch Rechtsverordnung der Staatsregierung bestimmt; hierzu ist die vorherige Genehmigung des Landtags einzuholen.\n"
+      },
+      "art-010": {
+       "label": "Art. 10",
+       "kind": "art",
+       "text": "# Art. 10\n(1) Für das Gebiet jedes Kreises und jedes Bezirks besteht ein Gemeindeverband als Selbstverwaltungskörper.\n(2) Der eigene Wirkungskreis der Gemeindeverbände wird durch die Gesetzgebung bestimmt.\n(3) Den Gemeindeverbänden können durch Gesetz weitere Aufgaben übertragen werden, die sie namens des Staates zu erfüllen haben. Sie besorgen diese Aufgaben entweder nach den Weisungen der Staatsbehörden oder kraft besonderer Bestimmung selbständig.\n(4) Das wirtschaftliche und kulturelle Eigenleben im Bereich der Gemeindeverbände ist vor Verödung zu schützen.\n"
+      },
+      "art-011": {
+       "label": "Art. 11",
+       "kind": "art",
+       "text": "# Art. 11\n(1) Jeder Teil des Staatsgebiets ist einer Gemeinde zugewiesen. Eine Ausnahme hiervon machen bestimmte unbewohnte Flächen (ausmärkische Gebiete).\n(2) Die Gemeinden sind ursprüngliche Gebietskörperschaften des öffentlichen Rechts. Sie haben das Recht, ihre eigenen Angelegenheiten im Rahmen der Gesetze selbst zu ordnen und zu verwalten, insbesonders ihre Bürgermeister und Vertretungskörper zu wählen.\n(3) Durch Gesetz können den Gemeinden Aufgaben übertragen werden, die sie namens des Staates zu erfüllen haben.\n(4) Die Selbstverwaltung der Gemeinden dient dem Aufbau der Demokratie in Bayern von unten nach oben.\n(5) Für die Selbstverwaltung in der Gemeinde gilt der Grundsatz der Gleichheit der politischen Rechte und Pflichten aller in der Gemeinde wohnenden Staatsbürger.\n"
+      },
+      "art-012": {
+       "label": "Art. 12",
+       "kind": "art",
+       "text": "# Art. 12\n(1) Die Grundsätze für die Wahl zum Landtag gelten auch für die Gemeinden und Gemeindeverbände.\n(2) Das Vermögen der Gemeinden und Gemeindeverbände kann unter keinen Umständen zum Staatsvermögen gezogen werden. Die Vergabung solchen Vermögens ist unzulässig.\n(3) Die Staatsbürger haben das Recht, Angelegenheiten des eigenen Wirkungskreises der Gemeinden und Landkreise durch Bürgerbegehren und Bürgerentscheid zu regeln. Das Nähere regelt ein Gesetz.\n"
+      },
+      "art-013": {
+       "label": "Art. 13",
+       "kind": "art",
+       "text": "### 2. Abschnitt Der Landtag\n# Art. 13\n(1) Der Landtag besteht aus 180 Abgeordneten des bayerischen Volkes.\n(2) Die Abgeordneten sind Vertreter des Volkes, nicht nur einer Partei. Sie sind nur ihrem Gewissen verantwortlich und an Aufträge nicht gebunden.\n"
+      },
+      "art-014": {
+       "label": "Art. 14",
+       "kind": "art",
+       "text": "# Art. 14\n(1) Die Abgeordneten werden in allgemeiner, gleicher, unmittelbarer und geheimer Wahl nach einem verbesserten Verhältniswahlrecht von allen wahlberechtigten Staatsbürgern in Wahlkreisen und Stimmkreisen gewählt. Jeder Regierungsbezirk bildet einen Wahlkreis. Jeder Landkreis und jede kreisfreie Gemeinde bildet einen Stimmkreis. Soweit es der Grundsatz der Wahlgleichheit erfordert, sind räumlich zusammenhängende Stimmkreise abweichend von Satz 3 zu bilden. Je Wahlkreis darf höchstens ein Stimmkreis mehr gebildet werden als Abgeordnete aus der Wahlkreisliste zu wählen sind. Durch Überhang- und Ausgleichsmandate, die in Anwendung dieser Grundsätze zugeteilt werden, kann die Zahl der Abgeordneten nach Art. 13 Abs. 1 überschritten werden.\n(2) Wählbar ist jeder wahlfähige Staatsbürger, der das 18. Lebensjahr vollendet hat.\n(3) Die Wahl findet an einem Sonntag oder öffentlichen Ruhetag statt.\n(4) Wahlvorschläge, auf die im Land nicht mindestens fünf vom Hundert der insgesamt abgegebenen gültigen Stimmen entfallen, erhalten keinen Sitz im Landtag zugeteilt.\n(5) Das Nähere bestimmt das Landeswahlgesetz.\n"
+      },
+      "art-015": {
+       "label": "Art. 15",
+       "kind": "art",
+       "text": "# Art. 15\n(1) Wählergruppen, deren Mitglieder oder Förderer darauf ausgehen, die staatsbürgerlichen Freiheiten zu unterdrücken oder gegen Volk, Staat oder Verfassung Gewalt anzuwenden, dürfen sich an Wahlen und Abstimmungen nicht beteiligen.\n(2) Die Entscheidung darüber, ob diese Voraussetzungen vorliegen, trifft auf Antrag der Staatsregierung oder einer der im Landtag vertretenen politischen Parteien der Bayerische Verfassungsgerichtshof.\n"
+      },
+      "art-016": {
+       "label": "Art. 16",
+       "kind": "art",
+       "text": "# Art. 16\n(1) Der Landtag wird auf fünf Jahre gewählt. Seine Wahlperiode beginnt mit seinem ersten Zusammentritt und endet mit dem Zusammentritt eines neuen Landtags. Die Neuwahl findet frühestens 59 Monate, spätestens 62 Monate nach dem Tag statt, an dem der vorausgegangene Landtag gewählt worden ist.\n(2) Der Landtag tritt spätestens am 22. Tag nach der Wahl zusammen.\n"
+      },
+      "art-016a": {
+       "label": "Art. 16a",
+       "kind": "art",
+       "text": "# Art. 16a\n(1) Parlamentarische Opposition ist ein grundlegender Bestandteil der parlamentarischen Demokratie.\n(2) Die Fraktionen und die Mitglieder des Landtags, welche die Staatsregierung nicht stützen, haben das Recht auf ihrer Stellung entsprechende Wirkungsmöglichkeiten in Parlament und Öffentlichkeit. Sie haben Anspruch auf eine zur Erfüllung ihrer besonderen Aufgaben erforderliche Ausstattung.\n(3) Das Nähere wird durch Gesetz geregelt.\n"
+      },
+      "art-017": {
+       "label": "Art. 17",
+       "kind": "art",
+       "text": "# Art. 17\n(1) Der Landtag tritt jedes Jahr im Herbst am Sitz der Staatsregierung zusammen.\n(2) Der Präsident kann ihn früher einberufen. Er muß ihn einberufen, wenn es die Staatsregierung oder mindestens ein Drittel der Landtagsmitglieder verlangt.\n(3) Der Landtag bestimmt den Schluß der Tagung und den Zeitpunkt des Wiederzusammentritts.\n"
+      },
+      "art-018": {
+       "label": "Art. 18",
+       "kind": "art",
+       "text": "# Art. 18\n(1) Der Landtag kann sich vor Ablauf seiner Wahldauer durch Mehrheitsbeschluß seiner gesetzlichen Mitgliederzahl selbst auflösen.\n(2) Er kann im Falle des Art. 44 Abs. 5 vom Landtagspräsidenten aufgelöst werden.\n(3) Er kann auf Antrag von einer Million wahlberechtigter Staatsbürger durch Volksentscheid abberufen werden.\n(4) Die Neuwahl des Landtags findet spätestens am sechsten Sonntag nach der Auflösung oder Abberufung statt.\n"
+      },
+      "art-019": {
+       "label": "Art. 19",
+       "kind": "art",
+       "text": "# Art. 19\nDie Mitgliedschaft beim Landtag während der Wahldauer geht verloren durch Verzicht, Ungültigkeitserklärung der Wahl, nachträgliche Änderung des Wahlergebnisses und Verlust der Wahlfähigkeit.\n"
+      },
+      "art-020": {
+       "label": "Art. 20",
+       "kind": "art",
+       "text": "# Art. 20\n(1) Der Landtag wählt aus seiner Mitte ein Präsidium, bestehend aus einem Präsidenten, dessen Stellvertretern und den Schriftführern.\n(2) Zwischen zwei Tagungen führt das Präsidium die laufenden Geschäfte des Landtags fort.\n(3) Der Landtag gibt sich eine Geschäftsordnung.\n"
+      },
+      "art-021": {
+       "label": "Art. 21",
+       "kind": "art",
+       "text": "# Art. 21\n(1) Der Präsident übt das Hausrecht und die Polizeigewalt im Landtagsgebäude aus.\n(2) Er führt die Hausverwaltung, verfügt über die Einnahmen und Ausgaben des Hauses und vertritt den Staat in allen Rechtsgeschäften und Rechtsstreitigkeiten dieser Verwaltung.\n"
+      },
+      "art-022": {
+       "label": "Art. 22",
+       "kind": "art",
+       "text": "# Art. 22\n(1) Der Landtag verhandelt öffentlich. Auf Antrag von 50 Mitgliedern oder der Staatsregierung kann mit Zweidrittelmehrheit der anwesenden Mitglieder die Öffentlichkeit für die Behandlung eines bestimmten Gegenstandes ausgeschlossen werden. Sie muß ausgeschlossen werden, wenn und solange es die Staatsregierung zur Begründung ihres Antrages auf Ausschluß der Öffentlichkeit verlangt. Der Landtag entscheidet darüber, ob und in welcher Art die Öffentlichkeit über solche Verhandlungen unterrichtet werden soll.\n(2) Wahrheitsgetreue Berichte über die Verhandlungen in den öffentlichen Sitzungen des Landtags oder seiner Ausschüsse bleiben von jeder Verantwortlichkeit frei, es sei denn, daß es sich um die Wiedergabe von Ehrverletzungen handelt.\n"
+      },
+      "art-023": {
+       "label": "Art. 23",
+       "kind": "art",
+       "text": "# Art. 23\n(1) Der Landtag beschließt mit einfacher Mehrheit der abgegebenen Stimmen, sofern die Verfassung kein anderes Stimmverhältnis vorschreibt.\n(2) Zur Beschlußfähigkeit des Landtags ist die Anwesenheit der Mehrheit seiner Mitglieder erforderlich.\n(3) Die in der Verfassung vorgesehenen Ausnahmen bleiben unberührt.\n"
+      },
+      "art-024": {
+       "label": "Art. 24",
+       "kind": "art",
+       "text": "# Art. 24\n(1) Der Landtag und seine Ausschüsse können das Erscheinen des Ministerpräsidenten und jedes Staatsministers und Staatssekretärs verlangen.\n(2) Die Mitglieder der Staatsregierung und die von ihnen bestellten Beauftragten haben zu allen Sitzungen des Landtags und seiner Ausschüsse Zutritt. Sie müssen während der Beratung jederzeit, auch außerhalb der Tagesordnung, gehört werden.\n"
+      },
+      "art-025": {
+       "label": "Art. 25",
+       "kind": "art",
+       "text": "# Art. 25\n(1) Der Landtag hat das Recht und auf Antrag von einem Fünftel seiner Mitglieder die Pflicht, Untersuchungsausschüsse einzusetzen.\n(2) Bei der Einsetzung jedes neuen Untersuchungsausschusses wechselt der Vorsitz unter den Fraktionen entsprechend ihrem Stärkeverhältnis im Landtag.\n(3) Diese Ausschüsse und die von ihnen ersuchten Behörden können in entsprechender Anwendung der Strafprozeßordnung alle erforderlichen Beweise erheben, auch Zeugen und Sachverständige vorladen, vernehmen, beeidigen und das Zeugniszwangsverfahren gegen sie durchführen. Das Brief-, Post-, Telegraphen- und Fernsprechgeheimnis bleibt jedoch unberührt. Die Gerichts- und Verwaltungsbehörden sind verpflichtet, dem Ersuchen dieser Ausschüsse um Beweiserhebung Folge zu leisten. Die Akten der Behörden sind ihnen auf Verlangen vorzulegen.\n(4) Auf Antrag von einem Fünftel ihrer Mitglieder haben die Ausschüsse zulässigen Anträgen nach Absatz 3 stattzugeben. Hält die Mehrheit der Mitglieder dieses Ausschusses einen Antrag nach Absatz 3 für unzulässig, so entscheidet darüber der Landtag. Gegen dessen Entscheidung kann der Bayerische Verfassungsgerichtshof angerufen werden.\n(5) Die Untersuchungsausschüsse verhandeln öffentlich, doch wird die Öffentlichkeit auf Verlangen einer Zweidrittelmehrheit ausgeschlossen. Art. 22 Abs. 1 Satz 3 und 4 gilt entsprechend.\n"
+      },
+      "art-025a": {
+       "label": "Art. 25a",
+       "kind": "art",
+       "text": "# Art. 25a\nZur Vorbereitung von Entscheidungen über umfangreiche und bedeutsame Angelegenheiten, die in die Zuständigkeit des Freistaates Bayern fallen, kann der Landtag eine Enquete-Kommission einsetzen. Auf Antrag eines Fünftels seiner Mitglieder ist er dazu verpflichtet. Der Antrag muß den Auftrag der Kommission bezeichnen. Das Nähere regelt die Geschäftsordnung des Landtags.\n"
+      },
+      "art-026": {
+       "label": "Art. 26",
+       "kind": "art",
+       "text": "# Art. 26\n(1) Der Landtag bestellt zur Wahrung der Rechte der Volksvertretung gegenüber der Staatsregierung und zur Behandlung dringlicher Staatsangelegenheiten für die Zeit außerhalb der Tagung sowie nach der Auflösung oder der Abberufung des Landtags bis zum Zusammentritt des neuen Landtags einen Zwischenausschuß. Dieser Ausschuß hat die Befugnisse des Landtags, doch kann er nicht Ministeranklage erheben und nicht Gesetze beschließen oder Volksbegehren behandeln.\n(2) Für diesen Ausschuß gelten die Bestimmungen des Art. 25.\n"
+      },
+      "art-027": {
+       "label": "Art. 27",
+       "kind": "art",
+       "text": "# Art. 27\nKein Mitglied des Landtags darf zu irgendeiner Zeit wegen seiner Abstimmung gerichtlich oder dienstlich verfolgt oder sonst außerhalb der Versammlung zur Verantwortung gezogen werden.\n"
+      },
+      "art-028": {
+       "label": "Art. 28",
+       "kind": "art",
+       "text": "# Art. 28\n(1) Kein Mitglied des Landtags kann ohne dessen Genehmigung während der Tagung wegen einer mit Strafe bedrohten Handlung zur Untersuchung gezogen oder verhaftet werden, es sei denn, daß es bei Ausübung der Tat oder spätestens im Laufe des folgenden Tages festgenommen worden ist.\n(2) Die gleiche Genehmigung ist erforderlich, wenn der Abgeordnete anderweitig in seiner persönlichen Freiheit beschränkt und dadurch in der Ausübung seines Abgeordnetenberufes beeinträchtigt wird.\n(3) Jedes Strafverfahren gegen ein Mitglied des Landtags und jede Haft oder sonstige Beschränkung seiner persönlichen Freiheit wird auf Verlangen des Landtags für die Dauer der Tagung aufgehoben. Ein solches Verlangen kann jedoch nicht gestellt werden, wenn der Abgeordnete eines unpolitischen Verbrechens bezichtigt wird. Ob dieser Fall vorliegt, entscheidet der Landtag.\n"
+      },
+      "art-029": {
+       "label": "Art. 29",
+       "kind": "art",
+       "text": "# Art. 29\n(1) Die Mitglieder des Landtags sind berechtigt, über Personen, die ihnen in ihrer Eigenschaft als Abgeordnete Tatsachen anvertrauten oder denen sie in Ausübung ihres Abgeordnetenberufes Tatsachen anvertraut haben, sowie über diese Tatsachen selbst, das Zeugnis zu verweigern. Soweit dieses Zeugnisverweigerungsrecht reicht, ist die Beschlagnahme von Schriftstücken bei ihnen unzulässig.\n(2) Eine Untersuchung oder Beschlagnahme darf in den Räumen des Landtags nur mit Genehmigung des Präsidenten vorgenommen werden.\n"
+      },
+      "art-030": {
+       "label": "Art. 30",
+       "kind": "art",
+       "text": "# Art. 30\nAbgeordnete bedürfen zur Ausübung ihres Amtes als Mitglied des Landtags keines Urlaubs von ihrem Arbeitgeber.\n"
+      },
+      "art-031": {
+       "label": "Art. 31",
+       "kind": "art",
+       "text": "# Art. 31\nDie Mitglieder des Landtags haben das Recht zur freien Fahrt auf allen staatlichen Verkehrseinrichtungen in Bayern sowie auf eine Aufwandsentschädigung.\n"
+      },
+      "art-032": {
+       "label": "Art. 32",
+       "kind": "art",
+       "text": "# Art. 32\n(1) Die Art. 27 mit 31 gelten für das Präsidium des Landtags sowie für die Mitglieder des Zwischenausschusses und ihre ersten Stellvertreter.\n(2) In den Fällen des Art. 28 wird die Mitwirkung des Landtags durch die Mitwirkung des Zwischenausschusses ersetzt.\n"
+      },
+      "art-033": {
+       "label": "Art. 33",
+       "kind": "art",
+       "text": "# Art. 33\nDie Wahlprüfung obliegt dem Landtag. Wird die Gültigkeit einer Wahl bestritten, so entscheidet der Bayerische Verfassungsgerichtshof. Er entscheidet auch über die Frage, ob ein Abgeordneter die Mitgliedschaft beim Landtag verloren hat.\n"
+      },
+      "art-033a": {
+       "label": "Art. 33a",
+       "kind": "art",
+       "text": "# Art. 33a\n(1) Der Landtag wählt auf Vorschlag der Staatsregierung einen Landesbeauftragten für den Datenschutz.\n(2) Der Landesbeauftragte für den Datenschutz kontrolliert nach Maßgabe des Gesetzes bei den öffentlichen Stellen die Einhaltung der Vorschriften über den Datenschutz.\n(3) Der Landesbeauftragte für den Datenschutz ist in Ausübung seines Amts unabhängig und nur dem Gesetz unterworfen. Er untersteht der Dienstaufsicht des Landtagspräsidenten.\n(4) Der Landesbeauftragte für den Datenschutz wird auf sechs Jahre gewählt. Wiederwahl ist zulässig. Er kann ohne seine Zustimmung vor Ablauf seiner Amtszeit nur mit Zweidrittelmehrheit der Mitgliederzahl des Landtags abberufen werden, wenn eine entsprechende Anwendung der Vorschriften über die Amtsenthebung von Richtern auf Lebenszeit dies rechtfertigt.\n(5) Das Nähere wird durch Gesetz geregelt.\n"
+      },
+      "art-034": {
+       "label": "Art. 34",
+       "kind": "art",
+       "text": "### 3. Abschnitt Der Senat\n#### Art. 34–42 (aufgehoben)\n# Art. 34 (aufgehoben)\n"
+      },
+      "art-035": {
+       "label": "Art. 35",
+       "kind": "art",
+       "text": "# Art. 35 (aufgehoben)\n"
+      },
+      "art-036": {
+       "label": "Art. 36",
+       "kind": "art",
+       "text": "# Art. 36 (aufgehoben)\n"
+      },
+      "art-037": {
+       "label": "Art. 37",
+       "kind": "art",
+       "text": "# Art. 37 (aufgehoben)\n"
+      },
+      "art-038": {
+       "label": "Art. 38",
+       "kind": "art",
+       "text": "# Art. 38 (aufgehoben)\n"
+      },
+      "art-039": {
+       "label": "Art. 39",
+       "kind": "art",
+       "text": "# Art. 39 (aufgehoben)\n"
+      },
+      "art-040": {
+       "label": "Art. 40",
+       "kind": "art",
+       "text": "# Art. 40 (aufgehoben)\n"
+      },
+      "art-041": {
+       "label": "Art. 41",
+       "kind": "art",
+       "text": "# Art. 41 (aufgehoben)\n"
+      },
+      "art-042": {
+       "label": "Art. 42",
+       "kind": "art",
+       "text": "# Art. 42 (aufgehoben)\n"
+      },
+      "art-043": {
+       "label": "Art. 43",
+       "kind": "art",
+       "text": "### 4. Abschnitt Die Staatsregierung\n# Art. 43\n(1) Die Staatsregierung ist die oberste leitende und vollziehende Behörde des Staates.\n(2) Sie besteht aus dem Ministerpräsidenten und bis zu 17 Staatsministern und Staatssekretären.\n"
+      },
+      "art-044": {
+       "label": "Art. 44",
+       "kind": "art",
+       "text": "# Art. 44\n(1) Der Ministerpräsident wird von dem neu gewählten Landtag spätestens innerhalb einer Woche nach seinem Zusammentritt auf die Dauer von fünf Jahren gewählt.\n(2) Wählbar ist jeder wahlberechtigte Bayer, der das 40. Lebensjahr vollendet hat.\n(3) Der Ministerpräsident kann jederzeit von seinem Amt zurücktreten. Er muß zurücktreten, wenn die politischen Verhältnisse ein vertrauensvolles Zusammenarbeiten zwischen ihm und dem Landtag unmöglich machen. Der Rücktritt des Ministerpräsidenten hat den Rücktritt der Staatsregierung zur Folge. Bis zur Neuwahl eines Ministerpräsidenten geht die Vertretung Bayerns nach außen auf den Landtagspräsidenten über. Während dieser Zeit kann der Landtagspräsident vom Landtag nicht abberufen werden.\n(4) Bei Rücktritt oder Tod des Ministerpräsidenten während seiner Amtsdauer wird in der nächsten Sitzung des Landtags ein neuer Ministerpräsident für den Rest der laufenden Amtsdauer gewählt.\n(5) Kommt die Neuwahl innerhalb von vier Wochen nicht zustande, muß der Landtagspräsident den Landtag auflösen.\n"
+      },
+      "art-045": {
+       "label": "Art. 45",
+       "kind": "art",
+       "text": "# Art. 45\nDer Ministerpräsident beruft und entläßt mit Zustimmung des Landtags die Staatsminister und die Staatssekretäre.\n"
+      },
+      "art-046": {
+       "label": "Art. 46",
+       "kind": "art",
+       "text": "# Art. 46\nDer Ministerpräsident bestimmt mit Zustimmung des Landtags seinen Stellvertreter aus der Zahl der Staatsminister.\n"
+      },
+      "art-047": {
+       "label": "Art. 47",
+       "kind": "art",
+       "text": "# Art. 47\n(1) Der Ministerpräsident führt in der Staatsregierung den Vorsitz und leitet ihre Geschäfte.\n(2) Er bestimmt die Richtlinien der Politik und trägt dafür die Verantwortung gegenüber dem Landtag.\n(3) Er vertritt Bayern nach außen.\n(4) Er übt in Einzelfällen das Begnadigungsrecht aus.\n(5) Er unterbreitet dem Landtag die Vorlagen der Staatsregierung.\n"
+      },
+      "art-048": {
+       "label": "Art. 48",
+       "kind": "art",
+       "text": "# Art. 48\n(1) Die Staatsregierung kann bei drohender Gefährdung der öffentlichen Sicherheit und Ordnung das Recht der öffentlichen freien Meinungsäußerung (Art. 110), die Pressefreiheit (Art. 111), das Brief-, Post-, Telegraphen- und Fernsprechgeheimnis (Art. 112) und die Versammlungsfreiheit (Art. 113) zunächst auf die Dauer einer Woche einschränken oder aufheben.\n(2) Sie hat gleichzeitig die Einberufung des Landtags zu veranlassen, ihn von allen getroffenen Maßnahmen unverzüglich zu verständigen und diese auf Verlangen des Landtags ganz oder teilweise aufzuheben. Bestätigt der Landtag mit der Mehrheit seiner gesetzlichen Mitgliederzahl die getroffenen Maßnahmen, so wird ihre Geltung um einen Monat verlängert.\n(3) Gegen die getroffenen Maßnahmen ist außerdem Beschwerde zum Bayerischen Verfassungsgerichtshof zulässig; dieser hat innerhalb einer Woche wenigstens eine vorläufige Entscheidung zu treffen.\n"
+      },
+      "art-049": {
+       "label": "Art. 49",
+       "kind": "art",
+       "text": "# Art. 49\nDer Ministerpräsident bestimmt die Zahl und die Abgrenzung der Geschäftsbereiche (Staatsministerien). Dies bedarf der Bestätigung durch Beschluß des Landtags.\n"
+      },
+      "art-050": {
+       "label": "Art. 50",
+       "kind": "art",
+       "text": "# Art. 50\nJedem Staatsminister wird durch den Ministerpräsidenten ein Geschäftsbereich oder eine Sonderaufgabe zugewiesen. Der Ministerpräsident kann sich selbst einen oder mehrere Geschäftsbereiche vorbehalten oder einem Staatsminister mehrere Geschäftsbereiche zuweisen.\n"
+      },
+      "art-051": {
+       "label": "Art. 51",
+       "kind": "art",
+       "text": "# Art. 51\n(1) Gemäß den vom Ministerpräsidenten bestimmten Richtlinien der Politik führt jeder Staatsminister seinen Geschäftsbereich selbständig und unter eigener Verantwortung gegenüber dem Landtag.\n(2) Die Staatssekretäre sind an die Weisungen des Staatsministers, dem sie zugewiesen sind, gebunden. Im Falle der Verhinderung des Staatsministers handeln sie selbständig und unter eigener Verantwortung gegenüber dem Landtag.\n"
+      },
+      "art-052": {
+       "label": "Art. 52",
+       "kind": "art",
+       "text": "# Art. 52\nZur Unterstützung des Ministerpräsidenten und der Staatsregierung in ihren verfassungsmäßigen Aufgaben besteht eine Staatskanzlei.\n"
+      },
+      "art-053": {
+       "label": "Art. 53",
+       "kind": "art",
+       "text": "# Art. 53\nDie Staatsregierung gibt sich eine Geschäftsordnung. In dieser wird die Zuweisung der Geschäfte an die einzelnen Geschäftsbereiche geregelt. Jede Aufgabe der Staatsverwaltung ist einem Geschäftsbereich zuzuteilen.\n"
+      },
+      "art-054": {
+       "label": "Art. 54",
+       "kind": "art",
+       "text": "# Art. 54\nDie Staatsregierung faßt ihre Beschlüsse mit Stimmenmehrheit der Abstimmenden. Bei Stimmengleichheit entscheidet die Stimme des Ministerpräsidenten. Zur Beschlußfähigkeit ist die Anwesenheit der Mehrheit der Mitglieder erforderlich. Kein Mitglied darf sich der Stimme enthalten.\n"
+      },
+      "art-055": {
+       "label": "Art. 55",
+       "kind": "art",
+       "text": "# Art. 55\nFür die Geschäftsführung der Staatsregierung und der einzelnen Staatsministerien gelten folgende Grundsätze:\n1. Die Staatsverwaltung wird nach der Verfassung, den Gesetzen und dem Haushaltsplan geführt.\n2. Der Staatsregierung und den einzelnen Staatsministerien obliegt der Vollzug der Gesetze und Beschlüsse des Landtags. Zu diesem Zwecke können die erforderlichen Ausführungs- und Verwaltungsverordnungen von ihr erlassen werden. Rechtsverordnungen, die über den Rahmen einer Ausführungsverordnung hinausgehen, bedürfen besonderer gesetzlicher Ermächtigung.\n3. Die Staatsregierung beschließt über alle dem Landtag zu unterbreitenden Vorlagen. Die Unterrichtung des Landtags durch die Staatsregierung bleibt einer Vereinbarung zwischen Landtag und Staatsregierung auf gesetzlicher Grundlage vorbehalten.\n4. Die Staatsregierung ernennt die leitenden Beamten der Staatsministerien und die Vorstände der den Ministerien unmittelbar untergeordneten Behörden. Die übrigen Beamten werden durch die zuständigen Staatsminister oder durch die von ihnen beauftragten Behörden ernannt.\n5. Die gesamte Staatsverwaltung ist der Staatsregierung und den zuständigen Staatsministerien untergeordnet. Den Staatsministerien obliegt auch im Rahmen der Gesetze die Aufsicht über die Gemeinden und Gemeindeverbände sowie die sonstigen Körperschaften des öffentlichen Rechts und die öffentlich-rechtlichen Stiftungen.\n6. Jeder Staatsminister übt die Dienstaufsicht über die Behörden und Beamten seines Geschäftsbereichs aus.\n7. Jeder Staatsminister entscheidet über Verwaltungsbeschwerden im Rahmen seines Geschäftsbereichs.\n"
+      },
+      "art-056": {
+       "label": "Art. 56",
+       "kind": "art",
+       "text": "# Art. 56\nSämtliche Mitglieder der Staatsregierung leisten vor ihrem Amtsantritt vor dem Landtag einen Eid auf die Staatsverfassung.\n"
+      },
+      "art-057": {
+       "label": "Art. 57",
+       "kind": "art",
+       "text": "# Art. 57\nDer Ministerpräsident, die Staatsminister und die Staatssekretäre dürfen ein anderes besoldetes Amt, einen Beruf oder ein Gewerbe nicht ausüben; sie dürfen nicht Mitglieder des Aufsichtsrats oder Vorstands einer privaten Erwerbsgesellschaft sein. Eine Ausnahme besteht für Gesellschaften, bei denen der überwiegende Einfluß des Staates sichergestellt ist.\n"
+      },
+      "art-058": {
+       "label": "Art. 58",
+       "kind": "art",
+       "text": "# Art. 58\nGehalt, Ruhegehalt und Hinterbliebenenversorgung der Mitglieder der Staatsregierung werden durch Gesetz geregelt.\n"
+      },
+      "art-059": {
+       "label": "Art. 59",
+       "kind": "art",
+       "text": "# Art. 59\nDer Landtag ist berechtigt, den Ministerpräsidenten, jeden Staatsminister und Staatssekretär vor dem Bayerischen Verfassungsgerichtshof anzuklagen, daß sie vorsätzlich die Verfassung oder ein Gesetz verletzt haben.\n"
+      },
+      "art-060": {
+       "label": "Art. 60",
+       "kind": "art",
+       "text": "### 5. Abschnitt Der Verfassungsgerichtshof\n# Art. 60\nAls oberstes Gericht für staatsrechtliche Fragen besteht der Bayerische Verfassungsgerichtshof.\n"
+      },
+      "art-061": {
+       "label": "Art. 61",
+       "kind": "art",
+       "text": "# Art. 61\n(1) Der Verfassungsgerichtshof entscheidet über Anklagen gegen ein Mitglied der Staatsregierung oder des Landtags.\n(2) Die Anklage gegen ein Mitglied der Staatsregierung ist darauf gerichtet, daß die Verfassung oder ein Gesetz von ihm vorsätzlich verletzt worden ist.\n(3) Die Anklage gegen ein Mitglied des Landtags ist darauf gerichtet, daß es in gewinnsüchtiger Absicht seinen Einfluß oder sein Wissen als Mitglied des Vertretungskörpers in einer das Ansehen der Volksvertretung gröblich gefährdenden Weise mißbraucht hat oder daß es vorsätzlich Mitteilungen, deren Geheimhaltung in einer Sitzung des Landtags oder einer seiner Ausschüsse beschlossen worden ist, in der Voraussicht, daß sie öffentlich bekannt werden, einem anderen zur Kenntnis gebracht hat.\n(4) Die Erhebung der Anklage erfolgt durch den Landtag auf Antrag von einem Drittel der gesetzlichen Mitgliederzahl und bedarf einer Zweidrittelmehrheit dieser Zahl. Jedes Mitglied der Staatsregierung oder des Landtags kann Antrag gegen sich selbst stellen.\n"
+      },
+      "art-062": {
+       "label": "Art. 62",
+       "kind": "art",
+       "text": "# Art. 62\nDer Verfassungsgerichtshof entscheidet über den Ausschluß von Wählergruppen von Wahlen und Abstimmungen (Art. 15 Abs. 2).\n"
+      },
+      "art-063": {
+       "label": "Art. 63",
+       "kind": "art",
+       "text": "# Art. 63\nDer Verfassungsgerichtshof entscheidet über die Gültigkeit der Wahl der Mitglieder des Landtags und den Verlust der Mitgliedschaft zum Landtag (Art. 33).\n"
+      },
+      "art-064": {
+       "label": "Art. 64",
+       "kind": "art",
+       "text": "# Art. 64\nDer Verfassungsgerichtshof entscheidet über Verfassungsstreitigkeiten zwischen den obersten Staatsorganen oder in der Verfassung mit eigenen Rechten ausgestatteten Teilen eines obersten Staatsorgans.\n"
+      },
+      "art-065": {
+       "label": "Art. 65",
+       "kind": "art",
+       "text": "# Art. 65\nDer Verfassungsgerichtshof entscheidet über die Verfassungsmäßigkeit von Gesetzen (Art. 92).\n"
+      },
+      "art-066": {
+       "label": "Art. 66",
+       "kind": "art",
+       "text": "# Art. 66\nDer Verfassungsgerichtshof entscheidet über Beschwerden wegen Verletzung der verfassungsmäßigen Rechte durch eine Behörde (Art. 48 Abs. 3, Art. 120).\n"
+      },
+      "art-067": {
+       "label": "Art. 67",
+       "kind": "art",
+       "text": "# Art. 67\nDer Verfassungsgerichtshof entscheidet ferner in den besonderen ihm durch Gesetz zugewiesenen Fällen.\n"
+      },
+      "art-068": {
+       "label": "Art. 68",
+       "kind": "art",
+       "text": "# Art. 68\n(1) Der Verfassungsgerichtshof wird beim Oberlandesgericht in München gebildet.\n(2) Der Gerichtshof setzt sich zusammen:\na) in den in Art. 61 geregelten Fällen aus einem der Präsidenten der Bayerischen Oberlandesgerichte, acht Berufsrichtern, von denen drei dem Verwaltungsgerichtshof angehören, sowie zehn weiteren Mitgliedern, welche vom Landtag gewählt werden;\nb) in den Fällen des Art. 65 aus dem Präsidenten und acht Berufsrichtern, von denen drei dem Verwaltungsgerichtshof angehören;\nc) in den übrigen Fällen aus dem Präsidenten, drei Berufsrichtern, von denen zwei dem Verwaltungsgerichtshof angehören, und fünf vom Landtag gewählten Mitgliedern.\n(3) Der Präsident und die Berufsrichter werden vom Landtag gewählt. Sie können nicht Mitglieder des Landtags sein.\n"
+      },
+      "art-069": {
+       "label": "Art. 69",
+       "kind": "art",
+       "text": "# Art. 69\nDie weiteren Bestimmungen über die Organisation des Gerichtshofs und über das Verfahren vor ihm sowie über die Vollstreckung seiner Urteile werden durch Gesetz geregelt.\n"
+      },
+      "art-070": {
+       "label": "Art. 70",
+       "kind": "art",
+       "text": "### 6. Abschnitt Die Gesetzgebung\n# Art. 70\n(1) Die für alle verbindlichen Gebote und Verbote bedürfen der Gesetzesform.\n(2) Auch der Staatshaushalt muß vom Landtag durch formelles Gesetz festgestellt werden.\n(3) Das Recht der Gesetzgebung kann vom Landtag nicht übertragen werden, auch nicht auf seine Ausschüsse.\n(4) Über Angelegenheiten der Europäischen Union hat die Staatsregierung den Landtag zu unterrichten. Ist das Recht der Gesetzgebung durch die Übertragung von Hoheitsrechten auf die Europäische Union betroffen, kann die Staatsregierung in ihren verfassungsmäßigen Aufgaben durch Gesetz gebunden werden. Ist das Recht der Gesetzgebung durch ein Vorhaben der Europäischen Union betroffen, hat die Staatsregierung bei ihren verfassungsmäßigen Aufgaben die Stellungnahmen des Landtags maßgeblich zu berücksichtigen. Das Nähere regelt ein Gesetz.\n"
+      },
+      "art-071": {
+       "label": "Art. 71",
+       "kind": "art",
+       "text": "# Art. 71\nDie Gesetzesvorlagen werden vom Ministerpräsidenten namens der Staatsregierung, aus der Mitte des Landtags, oder vom Volk (Volksbegehren) eingebracht.\n"
+      },
+      "art-072": {
+       "label": "Art. 72",
+       "kind": "art",
+       "text": "# Art. 72\n(1) Die Gesetze werden vom Landtag oder vom Volk (Volksentscheid) beschlossen.\n(2) Staatsverträge werden vom Ministerpräsidenten nach vorheriger Zustimmung des Landtags abgeschlossen.\n"
+      },
+      "art-073": {
+       "label": "Art. 73",
+       "kind": "art",
+       "text": "# Art. 73\nÜber den Staatshaushalt findet kein Volksentscheid statt.\n"
+      },
+      "art-074": {
+       "label": "Art. 74",
+       "kind": "art",
+       "text": "# Art. 74\n(1) Ein Volksentscheid ist herbeizuführen, wenn ein Zehntel der stimmberechtigten Staatsbürger das Begehren nach Schaffung eines Gesetzes stellt.\n(2) Dem Volksbegehren muß ein ausgearbeiteter und mit Gründen versehener Gesetzentwurf zugrundeliegen.\n(3) Das Volksbegehren ist vom Ministerpräsidenten namens der Staatsregierung unter Darlegung ihrer Stellungnahme dem Landtag zu unterbreiten.\n(4) Wenn der Landtag das Volksbegehren ablehnt, kann er dem Volk einen eigenen Gesetzentwurf zur Entscheidung mit vorlegen.\n(5) Rechtsgültige Volksbegehren sind von der Volksvertretung binnen drei Monaten nach Unterbreitung zu behandeln und binnen weiterer drei Monate dem Volk zur Entscheidung vorzulegen. Der Ablauf dieser Fristen wird durch die Auflösung des Landtags gehemmt.\n(6) Die Volksentscheide über Volksbegehren finden gewöhnlich im Frühjahr oder Herbst statt.\n(7) Jeder dem Volk zur Entscheidung vorgelegte Gesetzentwurf ist mit einer Weisung der Staatsregierung zu begleiten, die bündig und sachlich sowohl die Begründung der Antragsteller wie die Auffassung der Staatsregierung über den Gegenstand darlegen soll.\n"
+      },
+      "art-075": {
+       "label": "Art. 75",
+       "kind": "art",
+       "text": "# Art. 75\n(1) Die Verfassung kann nur im Wege der Gesetzgebung geändert werden. Anträge auf Verfassungsänderungen, die den demokratischen Grundgedanken der Verfassung widersprechen, sind unzulässig.\n(2) Beschlüsse des Landtags auf Änderung der Verfassung bedürfen einer Zweidrittelmehrheit der Mitgliederzahl. Sie müssen dem Volk zur Entscheidung vorgelegt werden.\n(3) Meinungsverschiedenheiten darüber, ob durch ein Gesetz die Verfassung geändert wird oder ob ein Antrag auf unzulässige Verfassungsänderung vorliegt, entscheidet der Bayerische Verfassungsgerichtshof.\n(4) Änderungen der Verfassung sind im Text der Verfassung oder in einem Anhang aufzunehmen.\n"
+      },
+      "art-076": {
+       "label": "Art. 76",
+       "kind": "art",
+       "text": "# Art. 76\n(1) Die verfassungsmäßig zustandegekommenen Gesetze werden vom Ministerpräsidenten ausgefertigt und auf seine Anordnung binnen Wochenfrist im Bayerischen Gesetz- und Verordnungsblatt bekanntgemacht.\n(2) In jedem Gesetz muß der Tag bestimmt sein, an dem es in Kraft tritt.\n"
+      },
+      "art-077": {
+       "label": "Art. 77",
+       "kind": "art",
+       "text": "### 7. Abschnitt Die Verwaltung\n# Art. 77\n(1) Die Organisation der allgemeinen Staatsverwaltung, die Regelung der Zuständigkeiten und der Art der Bestellung der staatlichen Organe erfolgen durch Gesetz. Die Einrichtung der Behörden im einzelnen obliegt der Staatsregierung und auf Grund der von ihr erteilten Ermächtigung den einzelnen Staatsministerien.\n(2) Für die Organisation der Behörden und die Regelung ihres Verfahrens hat als Richtschnur zu dienen, daß unter Wahrung der notwendigen Einheitlichkeit der Verwaltung alle entbehrliche Zentralisation vermieden, die Entschlußkraft und die Selbstverantwortung der Organe gehoben wird und die Rechte der Einzelperson genügend gewahrt werden.\n"
+      },
+      "art-078": {
+       "label": "Art. 78",
+       "kind": "art",
+       "text": "# Art. 78\n(1) Alle Einnahmen und Ausgaben des Staates müssen für jedes Jahr veranschlagt und in den Haushaltsplan eingestellt werden.\n(2) Ausgaben, die zur Deckung der Kosten bestehender bereits bewilligter Einrichtungen und zur Erfüllung rechtlicher Verpflichtungen des Staates erforderlich sind, müssen in den Haushaltsplan eingestellt werden.\n(3) Der Haushaltsplan wird vor Beginn des Rechnungsjahres durch Gesetz festgestellt.\n(4) Wird der Staatshaushalt im Landtag nicht rechtzeitig verabschiedet, so führt die Staatsregierung den Haushalt zunächst nach dem Haushaltsplan des Vorjahres weiter.\n(5) Beschlüsse des Landtags, welche die im Entwurf des Haushaltsplans eingesetzten Ausgaben erhöhen, sind auf Verlangen der Staatsregierung noch einmal zu beraten. Diese Beratung darf ohne Zustimmung der Staatsregierung nicht vor Ablauf von 14 Tagen stattfinden.\n(6) Die Ausgaben werden in der Regel für ein Jahr, in besonderen Fällen auch für eine längere Dauer bewilligt.\n"
+      },
+      "art-079": {
+       "label": "Art. 79",
+       "kind": "art",
+       "text": "# Art. 79\nEine Angelegenheit, welche Ausgaben verursacht, für die im festgesetzten Haushaltsplan kein entsprechender Betrag eingestellt ist, darf seitens des Landtags nur in Beratung gezogen und beschlossen werden, wenn gleichzeitig für die notwendige Deckung gesorgt wird.\n"
+      },
+      "art-080": {
+       "label": "Art. 80",
+       "kind": "art",
+       "text": "# Art. 80\n(1) Über die Verwendung aller Staatseinnahmen legt der Staatsminister der Finanzen im folgenden Rechnungsjahr zur Entlastung der Staatsregierung dem Landtag Rechnung. Die Rechnungsprüfung erfolgt durch einen mit richterlicher Unabhängigkeit ausgestatteten Rechnungshof.\n(2) Der Landtag wählt auf Vorschlag der Staatsregierung den Präsidenten des Rechnungshofs. Die Wahldauer beträgt 12 Jahre. Wiederwahl ist ausgeschlossen. Er kann ohne seine Zustimmung vor Ablauf seiner Amtszeit nur abberufen werden, wenn eine entsprechende Anwendung der Vorschriften über die Amtsenthebung von Richtern auf Lebenszeit dies rechtfertigt. Die Durchführung eines Amtsenthebungsverfahrens bedarf der Zustimmung des Landtags mit Zweidrittelmehrheit seiner Mitgliederzahl.\n(3) Das Nähere wird durch Gesetz geregelt.\n"
+      },
+      "art-081": {
+       "label": "Art. 81",
+       "kind": "art",
+       "text": "# Art. 81\nDas Grundstockvermögen des Staates darf in seinem Wertbestand nur auf Grund eines Gesetzes verringert werden. Der Erlös aus der Veräußerung von Bestandteilen des Grundstockvermögens ist zu Neuerwerbungen für dieses Vermögen zu verwenden.\n"
+      },
+      "art-082": {
+       "label": "Art. 82",
+       "kind": "art",
+       "text": "# Art. 82\n(1) Der Haushalt ist grundsätzlich ohne Nettokreditaufnahme auszugleichen.\n(2) Bei einer von der Normallage abweichenden konjunkturellen Entwicklung kann von Abs. 1 abgewichen werden. In diesem Fall sind die Auswirkungen auf den Haushalt im Auf- und Abschwung symmetrisch zu berücksichtigen.\n(3) Bei Naturkatastrophen oder außergewöhnlichen Notsituationen, die sich der Kontrolle des Staates entziehen und die staatliche Finanzlage erheblich beeinträchtigen, kann von Abs. 1 abgewichen werden. Hierfür ist eine entsprechende Tilgungsregelung vorzusehen. Die Kredite sind binnen eines angemessenen Zeitraums zurückzuführen.\n(4) Die Aufnahme von Krediten sowie die Übernahme von Bürgschaften, Garantien oder sonstigen Gewährleistungen, die zu Ausgaben in künftigen Rechnungsjahren führen können, bedürfen einer der Höhe nach bestimmten oder bestimmbaren Ermächtigung durch Gesetz.\n(5) Das Nähere bestimmt ein Gesetz.\n"
+      },
+      "art-083": {
+       "label": "Art. 83",
+       "kind": "art",
+       "text": "# Art. 83\n(1) In den eigenen Wirkungskreis der Gemeinden (Art. 11 Abs. 2) fallen insbesonders die Verwaltung des Gemeindevermögens und der Gemeindebetriebe; der örtliche Verkehr nebst Straßen- und Wegebau; die Versorgung der Bevölkerung mit Wasser, Licht, Gas und elektrischer Kraft; Einrichtungen zur Sicherung der Ernährung; Ortsplanung, Wohnungsbau und Wohnungsaufsicht; örtliche Polizei, Feuerschutz; örtliche Kulturpflege; Volks- und Berufsschulwesen und Erwachsenenbildung; Vormundschaftswesen und Wohlfahrtspflege; örtliches Gesundheitswesen; Ehe- und Mütterberatung sowie Säuglingspflege; Schulhygiene und körperliche Ertüchtigung der Jugend; öffentliche Bäder; Totenbestattung; Erhaltung ortsgeschichtlicher Denkmäler und Bauten.\n(2) Die Gemeinden sind verpflichtet, einen Haushaltsplan aufzustellen. Sie haben das Recht, ihren Bedarf durch öffentliche Abgaben zu decken. Der Staat gewährleistet den Gemeinden im Rahmen seiner finanziellen Leistungsfähigkeit eine angemessene Finanzausstattung.\n(3) Überträgt der Staat den Gemeinden Aufgaben, verpflichtet er sie zur Erfüllung von Aufgaben im eigenen Wirkungskreis oder stellt er besondere Anforderungen an die Erfüllung bestehender oder neuer Aufgaben, hat er gleichzeitig Bestimmungen über die Deckung der Kosten zu treffen. Führt die Wahrnehmung dieser Aufgaben zu einer Mehrbelastung der Gemeinden, ist ein entsprechender finanzieller Ausgleich zu schaffen.\n(4) Die Gemeinden unterstehen der Aufsicht der Staatsbehörden. In den Angelegenheiten des eigenen Wirkungskreises der Gemeinden wacht der Staat nur über die Erfüllung der gesetzlichen Pflichten und die Einhaltung der gesetzlichen Vorschriften durch die Gemeinden. In den Angelegenheiten des übertragenen Wirkungskreises sind die Gemeinden überdies an die Weisungen der übergeordneten Staatsbehörden gebunden. Der Staat schützt die Gemeinden bei Durchführung ihrer Aufgaben.\n(5) Verwaltungsstreitigkeiten zwischen den Gemeinden und dem Staate werden von den Verwaltungsgerichten entschieden.\n(6) Die Bestimmungen der Abs. 2 mit 5 gelten auch für die Gemeindeverbände.\n(7) Die kommunalen Spitzenverbände sollen rechtzeitig gehört werden, bevor durch Gesetz oder Rechtsverordnung Angelegenheiten geregelt werden, welche die Gemeinden oder die Gemeindeverbände berühren. Die Staatsregierung vereinbart zur Umsetzung des Konnexitätsprinzips (Abs. 3) ein Konsultationsverfahren mit den kommunalen Spitzenverbänden.\n"
+      },
+      "art-084": {
+       "label": "Art. 84",
+       "kind": "art",
+       "text": "### 8. Abschnitt Die Rechtspflege\n# Art. 84\nDie allgemein anerkannten Grundsätze des Völkerrechts gelten als Bestandteil des einheimischen Rechts.\n"
+      },
+      "art-085": {
+       "label": "Art. 85",
+       "kind": "art",
+       "text": "# Art. 85\nDie Richter sind nur dem Gesetz unterworfen.\n"
+      },
+      "art-086": {
+       "label": "Art. 86",
+       "kind": "art",
+       "text": "# Art. 86\n(1) Ausnahmegerichte sind unstatthaft. Niemand darf seinem gesetzlichen Richter entzogen werden.\n(2) Gerichte für besondere Sachgebiete sind nur kraft gesetzlicher Bestimmung zulässig.\n"
+      },
+      "art-087": {
+       "label": "Art. 87",
+       "kind": "art",
+       "text": "# Art. 87\n(1) Die Richter können gegen ihren Willen nur kraft richterlicher Entscheidung und nur aus Gründen und unter den Formen, die gesetzlich bestimmt sind, dauernd oder zeitweise ihres Amtes enthoben oder an eine andere Stelle oder in den Ruhestand versetzt werden. Die gesetzliche Bestimmung einer Altersgrenze ist zulässig.\n(2) Die Richter der ordentlichen Gerichtsbarkeit werden auf Lebenszeit ernannt.\n"
+      },
+      "art-088": {
+       "label": "Art. 88",
+       "kind": "art",
+       "text": "# Art. 88\nAn der Rechtspflege sollen Männer und Frauen aus dem Volke mitwirken. Ihre Zuziehung und die Art ihrer Auswahl wird durch Gesetz geregelt.\n"
+      },
+      "art-089": {
+       "label": "Art. 89",
+       "kind": "art",
+       "text": "# Art. 89\nDie öffentlichen Ankläger vor den Strafgerichten sind an die Weisungen ihrer vorgesetzten Behörde gebunden.\n"
+      },
+      "art-090": {
+       "label": "Art. 90",
+       "kind": "art",
+       "text": "# Art. 90\nDie Verhandlungen vor allen Gerichten sind öffentlich. Bei Gefährdung der Staatssicherheit oder der öffentlichen Sittlichkeit kann die Öffentlichkeit durch Gerichtsbeschluß ausgeschlossen werden.\n"
+      },
+      "art-091": {
+       "label": "Art. 91",
+       "kind": "art",
+       "text": "# Art. 91\n(1) Vor Gericht hat jedermann Anspruch auf rechtliches Gehör.\n(2) Jeder wegen einer strafbaren Handlung Angeklagte kann sich eines Verteidigers bedienen.\n"
+      },
+      "art-092": {
+       "label": "Art. 92",
+       "kind": "art",
+       "text": "# Art. 92\nHält der Richter ein Gesetz für verfassungswidrig, so hat er die Entscheidung des Verfassungsgerichtshofs herbeizuführen.\n"
+      },
+      "art-093": {
+       "label": "Art. 93",
+       "kind": "art",
+       "text": "# Art. 93\nVerwaltungsrechtliche Streitigkeiten entscheiden die Verwaltungsgerichte.\n"
+      },
+      "art-094": {
+       "label": "Art. 94",
+       "kind": "art",
+       "text": "### 9. Abschnitt Die Beamten\n# Art. 94\n(1) Die Beamten des Staates, der Gemeinden und Gemeindeverbände werden nach Maßgabe der Gesetze vom Volk gewählt oder von den zuständigen Behörden ernannt.\n(2) Die öffentlichen Ämter stehen allen wahlberechtigten Staatsbürgern nach ihrer charakterlichen Eignung, nach ihrer Befähigung und ihren Leistungen offen, die, soweit möglich, durch Prüfungen im Wege des Wettbewerbs festgestellt werden. Für die Beförderung des Beamten gelten dieselben Grundsätze.\n"
+      },
+      "art-095": {
+       "label": "Art. 95",
+       "kind": "art",
+       "text": "# Art. 95\n(1) Die Grundlagen des Beamtenverhältnisses werden durch Gesetz geregelt. Das Berufsbeamtentum wird grundsätzlich aufrechterhalten.\n(2) Den Beamten steht für die Verfolgung ihrer vermögensrechtlichen Ansprüche der ordentliche Rechtsweg offen.\n(3) Gegen jedes dienstliche Straferkenntnis muß der Beschwerdeweg und ein Wiederaufnahmeverfahren offenstehen.\n(4) In die Nachweise über die Person des Beamten dürfen ungünstige Tatsachen erst eingetragen werden, wenn der Beamte Gelegenheit gehabt hat, sich über sie zu äußern. Die Äußerung des Beamten ist in den Personalnachweis mitaufzunehmen.\n(5) Jeder Beamte hat das Recht, seine sämtlichen Personalnachweise jederzeit einzusehen.\n"
+      },
+      "art-096": {
+       "label": "Art. 96",
+       "kind": "art",
+       "text": "# Art. 96\nDie Beamten sind Diener des ganzen Volkes, nicht einer einzelnen Partei. Der Beamte hat sich jederzeit zum demokratisch-konstitutionellen Staat zu bekennen und zu ihm innerhalb und außerhalb des Dienstes zu stehen.\n"
+      },
+      "art-097": {
+       "label": "Art. 97",
+       "kind": "art",
+       "text": "# Art. 97\nVerletzt ein Beamter in Ausübung der ihm anvertrauten öffentlichen Gewalt schuldhaft die ihm einem anderen gegenüber obliegende Amtspflicht, so haftet für die Folgen der Staat oder diejenige öffentliche Körperschaft, in deren Diensten der Beamte steht. Der Rückgriff gegen den Beamten bleibt vorbehalten. Der ordentliche Rechtsweg darf nicht ausgeschlossen werden.\n"
+      },
+      "art-098": {
+       "label": "Art. 98",
+       "kind": "art",
+       "text": "## Zweiter Hauptteil Grundrechte und Grundpflichten\n# Art. 98\nDie durch die Verfassung gewährleisteten Grundrechte dürfen grundsätzlich nicht eingeschränkt werden. Einschränkungen durch Gesetz sind nur zulässig, wenn die öffentliche Sicherheit, Sittlichkeit, Gesundheit und Wohlfahrt es zwingend erfordern. Sonstige Einschränkungen sind nur unter den Voraussetzungen des Art. 48 zulässig. Der Verfassungsgerichtshof hat Gesetze und Verordnungen für nichtig zu erklären, die ein Grundrecht verfassungswidrig einschränken.\n"
+      },
+      "art-099": {
+       "label": "Art. 99",
+       "kind": "art",
+       "text": "# Art. 99\nDie Verfassung dient dem Schutz und dem geistigen und leiblichen Wohl aller Einwohner. Ihr Schutz gegen Angriffe von außen ist gewährleistet durch das Völkerrecht, nach innen durch die Gesetze, die Rechtspflege und die Polizei.\n"
+      },
+      "art-100": {
+       "label": "Art. 100",
+       "kind": "art",
+       "text": "# Art. 100\nDie Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt.\n"
+      },
+      "art-101": {
+       "label": "Art. 101",
+       "kind": "art",
+       "text": "# Art. 101\nJedermann hat die Freiheit, innerhalb der Schranken der Gesetze und der guten Sitten alles zu tun, was anderen nicht schadet.\n"
+      },
+      "art-102": {
+       "label": "Art. 102",
+       "kind": "art",
+       "text": "# Art. 102\n(1) Die Freiheit der Person ist unverletzlich.\n(2) Jeder von der öffentlichen Gewalt Festgenommene ist spätestens am Tage nach der Festnahme dem zuständigen Richter vorzuführen. Dieser hat dem Festgenommenen mitzuteilen, von welcher Behörde und aus welchen Gründen die Festnahme verfügt worden ist, und ihm Gelegenheit zu geben, Einwendungen gegen die Festnahme zu erheben. Er hat gegen den Festgenommenen entweder Haftbefehl zu erlassen oder ihn unverzüglich in Freiheit zu setzen.\n"
+      },
+      "art-103": {
+       "label": "Art. 103",
+       "kind": "art",
+       "text": "# Art. 103\n(1) Eigentumsrecht und Erbrecht werden gewährleistet.\n(2) Eigentumsordnung und Eigentumsgebrauch haben auch dem Gemeinwohl zu dienen.\n"
+      },
+      "art-104": {
+       "label": "Art. 104",
+       "kind": "art",
+       "text": "# Art. 104\n(1) Eine Handlung kann nur dann mit Strafe belegt werden, wenn die Strafbarkeit gesetzlich bestimmt war, bevor die Handlung begangen wurde.\n(2) Niemand darf wegen derselben Tat zweimal gerichtlich bestraft werden.\n"
+      },
+      "art-105": {
+       "label": "Art. 105",
+       "kind": "art",
+       "text": "# Art. 105\nAusländer, die unter Nichtbeachtung der in dieser Verfassung niedergelegten Grundrechte im Ausland verfolgt werden und nach Bayern geflüchtet sind, dürfen nicht ausgeliefert und ausgewiesen werden.\n"
+      },
+      "art-106": {
+       "label": "Art. 106",
+       "kind": "art",
+       "text": "# Art. 106\n(1) Jeder Bewohner Bayerns hat Anspruch auf eine angemessene Wohnung.\n(2) Die Förderung des Baues billiger Volkswohnungen ist Aufgabe des Staates und der Gemeinden.\n(3) Die Wohnung ist für jedermann eine Freistätte und unverletzlich.\n"
+      },
+      "art-107": {
+       "label": "Art. 107",
+       "kind": "art",
+       "text": "# Art. 107\n(1) Die Glaubens- und Gewissensfreiheit ist gewährleistet.\n(2) Die ungestörte Religionsausübung steht unter staatlichem Schutz.\n(3) Durch das religiöse Bekenntnis wird der Genuß der bürgerlichen und staatsbürgerlichen Rechte weder bedingt noch beschränkt. Den staatsbürgerlichen Pflichten darf es keinen Abbruch tun.\n(4) Die Zulassung zu den öffentlichen Ämtern ist von dem religiösen Bekenntnis unabhängig.\n(5) Niemand ist verpflichtet, seine religiöse Überzeugung zu offenbaren. Die Behörden haben nur soweit das Recht, nach der Zugehörigkeit zu einer Religionsgemeinschaft zu fragen, als davon Rechte und Pflichten abhängen oder eine gesetzlich angeordnete statistische Erhebung dies erfordert.\n(6) Niemand darf zu einer kirchlichen Handlung oder zur Teilnahme an religiösen Übungen oder Feierlichkeiten oder zur Benutzung einer religiösen Eidesformel gezwungen werden.\n"
+      },
+      "art-108": {
+       "label": "Art. 108",
+       "kind": "art",
+       "text": "# Art. 108\nDie Kunst, die Wissenschaft und ihre Lehre sind frei.\n"
+      },
+      "art-109": {
+       "label": "Art. 109",
+       "kind": "art",
+       "text": "# Art. 109\n(1) Alle Bewohner Bayerns genießen volle Freizügigkeit. Sie haben das Recht, sich an jedem beliebigen Ort aufzuhalten und niederzulassen, Grundstücke zu erwerben und jeden Erwerbszweig zu betreiben.\n(2) Alle Bewohner Bayerns sind berechtigt, nach außerdeutschen Ländern auszuwandern.\n"
+      },
+      "art-110": {
+       "label": "Art. 110",
+       "kind": "art",
+       "text": "# Art. 110\n(1) Jeder Bewohner Bayerns hat das Recht, seine Meinung durch Wort, Schrift, Druck, Bild oder in sonstiger Weise frei zu äußern. An diesem Recht darf ihn kein Arbeits- und Anstellungsvertrag hindern und niemand darf ihn benachteiligen, wenn er von diesem Recht Gebrauch macht.\n(2) Die Bekämpfung von Schmutz und Schund ist Aufgabe des Staates und der Gemeinden.\n"
+      },
+      "art-111": {
+       "label": "Art. 111",
+       "kind": "art",
+       "text": "# Art. 111\n(1) Die Presse hat die Aufgabe, im Dienst des demokratischen Gedankens über Vorgänge, Zustände und Einrichtungen und Persönlichkeiten des öffentlichen Lebens wahrheitsgemäß zu berichten.\n(2) Vorzensur ist verboten. Gegen polizeiliche Verfügungen, welche die Pressefreiheit berühren, kann gerichtliche Entscheidung verlangt werden.\n"
+      },
+      "art-111a": {
+       "label": "Art. 111a",
+       "kind": "art",
+       "text": "# Art. 111a\n(1) Die Freiheit des Rundfunks wird gewährleistet. Der Rundfunk dient der Information durch wahrheitsgemäße, umfassende und unparteiische Berichterstattung sowie durch die Verbreitung von Meinungen. Er trägt zur Bildung und Unterhaltung bei. Der Rundfunk hat die freiheitliche demokratische Grundordnung, die Menschenwürde, religiöse und weltanschauliche Überzeugungen zu achten. Die Verherrlichung von Gewalt sowie Darbietungen, die das allgemeine Sittlichkeitsgefühl grob verletzen, sind unzulässig. Meinungsfreiheit, Sachlichkeit, gegenseitige Achtung, Schutz vor Verunglimpfung sowie die Ausgewogenheit des Gesamtprogramms sind zu gewährleisten.\n(2) Rundfunk wird in öffentlicher Verantwortung und in öffentlich-rechtlicher Trägerschaft betrieben. An der Kontrolle des Rundfunks sind die in Betracht kommenden bedeutsamen politischen, weltanschaulichen und gesellschaftlichen Gruppen angemessen zu beteiligen. Der Anteil der von der Staatsregierung, dem Landtag und dem Senat in die Kontrollorgane entsandten Vertreter darf ein Drittel nicht übersteigen. Die weltanschaulichen und gesellschaftlichen Gruppen wählen oder berufen ihre Vertreter selbst.\n(3) Das Nähere regelt ein Gesetz.\n"
+      },
+      "art-112": {
+       "label": "Art. 112",
+       "kind": "art",
+       "text": "# Art. 112\n(1) Das Brief-, Post-, Telegraphen- und Fernsprechgeheimnis ist unverletzlich.\n(2) Beschränkungen des Rundfunkempfanges sowie des Bezuges von Druck-Erzeugnissen sind unzulässig.\n"
+      },
+      "art-113": {
+       "label": "Art. 113",
+       "kind": "art",
+       "text": "# Art. 113\nAlle Bewohner Bayerns haben das Recht, sich ohne Anmeldung oder besondere Erlaubnis friedlich und unbewaffnet zu versammeln.\n"
+      },
+      "art-114": {
+       "label": "Art. 114",
+       "kind": "art",
+       "text": "# Art. 114\n(1) Alle Bewohner Bayerns haben das Recht, Vereine und Gesellschaften zu bilden.\n(2) Vereine und Gesellschaften, die rechts- oder sittenwidrige Zwecke verfolgen oder solche Mittel gebrauchen oder die darauf ausgehen, die staatsbürgerlichen Freiheiten zu vernichten oder gegen Volk, Staat oder Verfassung Gewalt anzuwenden, können verboten werden.\n(3) Der Erwerb der Rechtsfähigkeit steht jedem Verein gemäß den Vorschriften des bürgerlichen Rechts frei.\n"
+      },
+      "art-115": {
+       "label": "Art. 115",
+       "kind": "art",
+       "text": "# Art. 115\n(1) Alle Bewohner Bayerns haben das Recht, sich schriftlich mit Bitten oder Beschwerden an die zuständigen Behörden oder an den Landtag zu wenden.\n(2) Die Rechte des Landtags zur Überprüfung von Beschwerden werden durch Gesetz geregelt.\n"
+      },
+      "art-116": {
+       "label": "Art. 116",
+       "kind": "art",
+       "text": "# Art. 116\nAlle Staatsangehörigen ohne Unterschied sind entsprechend ihrer Befähigung und ihren Leistungen zu den öffentlichen Ämtern zuzulassen.\n"
+      },
+      "art-117": {
+       "label": "Art. 117",
+       "kind": "art",
+       "text": "# Art. 117\nDer ungestörte Genuß der Freiheit für jedermann hängt davon ab, daß alle ihre Treuepflicht gegenüber Volk und Verfassung, Staat und Gesetzen erfüllen. Alle haben die Verfassung und die Gesetze zu achten und zu befolgen, an den öffentlichen Angelegenheiten Anteil zu nehmen und ihre körperlichen und geistigen Kräfte so zu betätigen, wie es das Wohl der Gesamtheit erfordert.\n"
+      },
+      "art-118": {
+       "label": "Art. 118",
+       "kind": "art",
+       "text": "# Art. 118\n(1) Vor dem Gesetz sind alle gleich. Die Gesetze verpflichten jeden in gleicher Weise und jeder genießt auf gleiche Weise den Schutz der Gesetze.\n(2) Frauen und Männer sind gleichberechtigt. Der Staat fördert die tatsächliche Durchsetzung der Gleichberechtigung von Frauen und Männern und wirkt auf die Beseitigung bestehender Nachteile hin.\n(3) Alle öffentlich-rechtlichen Vorrechte und Nachteile der Geburt oder des Standes sind aufgehoben. Adelsbezeichnungen gelten nur als Bestandteil des Namens; sie dürfen nicht mehr verliehen und können durch Adoption nicht mehr erworben werden.\n(4) Titel dürfen nur verliehen werden, wenn sie mit einem Amt oder einem Beruf in Verbindung stehen. Sie sollen außerhalb des Amtes oder Berufs nicht geführt werden. Akademische Grade fallen nicht unter dieses Verbot.\n(5) Orden und Ehrenzeichen dürfen vom Staat nur nach Maßgabe der Gesetze verliehen werden.\n"
+      },
+      "art-118a": {
+       "label": "Art. 118a",
+       "kind": "art",
+       "text": "# Art. 118a\nMenschen mit Behinderungen dürfen nicht benachteiligt werden. Der Staat setzt sich für gleichwertige Lebensbedingungen von Menschen mit und ohne Behinderung ein.\n"
+      },
+      "art-119": {
+       "label": "Art. 119",
+       "kind": "art",
+       "text": "# Art. 119\nRassen- und Völkerhaß zu entfachen ist verboten und strafbar.\n"
+      },
+      "art-120": {
+       "label": "Art. 120",
+       "kind": "art",
+       "text": "# Art. 120\nJeder Bewohner Bayerns, der sich durch eine Behörde in seinen verfassungsmäßigen Rechten verletzt fühlt, kann den Schutz des Bayerischen Verfassungsgerichtshofes anrufen.\n"
+      },
+      "art-121": {
+       "label": "Art. 121",
+       "kind": "art",
+       "text": "# Art. 121\nAlle Bewohner Bayerns sind zur Übernahme von Ehrenämtern, insbesondere als Vormund, Waisenrat, Jugendpfleger, Schöffe und Geschworener verpflichtet. Staat und Gemeinden fördern den ehrenamtlichen Einsatz für das Gemeinwohl. Das Nähere bestimmen die Gesetze.\n"
+      },
+      "art-122": {
+       "label": "Art. 122",
+       "kind": "art",
+       "text": "# Art. 122\nBei Unglücksfällen, Notständen und Naturkatastrophen und im nachbarlichen Verkehr sind alle nach Maßgabe der Gesetze zur gegenseitigen Hilfe verpflichtet.\n"
+      },
+      "art-123": {
+       "label": "Art. 123",
+       "kind": "art",
+       "text": "# Art. 123\n(1) Alle sind im Verhältnis ihres Einkommens und Vermögens und unter Berücksichtigung ihrer Unterhaltspflicht zu den öffentlichen Lasten heranzuziehen.\n(2) Verbrauchssteuern und Besitzsteuern müssen zueinander in einem angemessenen Verhältnis stehen.\n(3) Die Erbschaftssteuer dient auch dem Zwecke, die Ansammlung von Riesenvermögen in den Händen einzelner zu verhindern. Sie ist nach dem Verwandtschaftsverhältnis zu staffeln.\n"
+      },
+      "art-124": {
+       "label": "Art. 124",
+       "kind": "art",
+       "text": "## Dritter Hauptteil Das Gemeinschaftsleben\n### 1. Abschnitt Ehe, Familie und Kinder\n# Art. 124\n(1) Ehe und Familie sind die natürliche und sittliche Grundlage der menschlichen Gemeinschaft und stehen unter dem besonderen Schutz des Staates.\n(2) Mann und Frau haben in der Ehe grundsätzlich die gleichen bürgerlichen Rechte und Pflichten.\n"
+      },
+      "art-125": {
+       "label": "Art. 125",
+       "kind": "art",
+       "text": "# Art. 125\n(1) Kinder sind das köstlichste Gut eines Volkes. Sie haben Anspruch auf Entwicklung zu selbstbestimmungsfähigen und verantwortungsfähigen Persönlichkeiten. Jede Mutter hat Anspruch auf den Schutz und die Fürsorge des Staates.\n(2) Die Reinhaltung, Gesundung und soziale Förderung der Familie ist gemeinsame Aufgabe des Staates und der Gemeinden.\n(3) Kinderreiche Familien haben Anspruch auf angemessene Fürsorge, insbesondere auf gesunde Wohnungen.\n"
+      },
+      "art-126": {
+       "label": "Art. 126",
+       "kind": "art",
+       "text": "# Art. 126\n(1) Die Eltern haben das natürliche Recht und die oberste Pflicht, ihre Kinder zur leiblichen, geistigen und seelischen Tüchtigkeit zu erziehen. Sie sind darin durch Staat und Gemeinden zu unterstützen. In persönlichen Erziehungsfragen gibt der Wille der Eltern den Ausschlag.\n(2) Uneheliche Kinder haben den gleichen Anspruch auf Förderung wie eheliche Kinder.\n(3) Kinder und Jugendliche sind durch staatliche und gemeindliche Maßnahmen und Einrichtungen gegen Ausbeutung sowie gegen sittliche, geistige und körperliche Verwahrlosung und gegen Misshandlung zu schützen. Fürsorgeerziehung ist nur auf gesetzlicher Grundlage zulässig.\n"
+      },
+      "art-127": {
+       "label": "Art. 127",
+       "kind": "art",
+       "text": "# Art. 127\nDas eigene Recht der Religionsgemeinschaften und staatlich anerkannten weltanschaulichen Gemeinschaften auf einen angemessenen Einfluß bei der Erziehung der Kinder ihres Bekenntnisses oder ihrer Weltanschauung wird unbeschadet des Erziehungsrechtes der Eltern gewährleistet.\n"
+      },
+      "art-128": {
+       "label": "Art. 128",
+       "kind": "art",
+       "text": "### 2. Abschnitt Bildung und Schule, Schutz der natürlichen Lebensgrundlagen und der kulturellen Überlieferung\n# Art. 128\n(1) Jeder Bewohner Bayerns hat Anspruch darauf, eine seinen erkennbaren Fähigkeiten und seiner inneren Berufung entsprechende Ausbildung zu erhalten.\n(2) Begabten ist der Besuch von Schulen und Hochschulen, nötigenfalls aus öffentlichen Mitteln zu ermöglichen.\n"
+      },
+      "art-129": {
+       "label": "Art. 129",
+       "kind": "art",
+       "text": "# Art. 129\n(1) Alle Kinder sind zum Besuch der Volksschule und der Berufsschule verpflichtet.\n(2) Der Unterricht an diesen Schulen ist unentgeltlich.\n"
+      },
+      "art-130": {
+       "label": "Art. 130",
+       "kind": "art",
+       "text": "# Art. 130\n(1) Das gesamte Schul- und Bildungswesen steht unter der Aufsicht des Staates, er kann daran die Gemeinden beteiligen.\n(2) Die Schulaufsicht wird durch hauptamtlich tätige, fachmännisch vorgebildete Beamte ausgeübt.\n"
+      },
+      "art-131": {
+       "label": "Art. 131",
+       "kind": "art",
+       "text": "# Art. 131\n(1) Die Schulen sollen nicht nur Wissen und Können vermitteln, sondern auch Herz und Charakter bilden.\n(2) Oberste Bildungsziele sind Ehrfurcht vor Gott, Achtung vor religiöser Überzeugung und vor der Würde des Menschen, Selbstbeherrschung, Verantwortungsgefühl und Verantwortungsfreudigkeit, Hilfsbereitschaft, Aufgeschlossenheit für alles Wahre, Gute und Schöne und Verantwortungsbewußtsein für Natur und Umwelt.\n(3) Die Schüler sind im Geiste der Demokratie, in der Liebe zur bayerischen Heimat und zum deutschen Volk und im Sinne der Völkerversöhnung zu erziehen.\n(4) Die Mädchen und Buben sind außerdem in der Säuglingspflege, Kindererziehung und Hauswirtschaft besonders zu unterweisen.\n"
+      },
+      "art-132": {
+       "label": "Art. 132",
+       "kind": "art",
+       "text": "# Art. 132\nFür den Aufbau des Schulwesens ist die Mannigfaltigkeit der Lebensberufe, für die Aufnahme eines Kindes in eine bestimmte Schule sind seine Anlagen, seine Neigung, seine Leistung und seine innere Berufung maßgebend, nicht aber die wirtschaftliche und gesellschaftliche Stellung der Eltern.\n"
+      },
+      "art-133": {
+       "label": "Art. 133",
+       "kind": "art",
+       "text": "# Art. 133\n(1) Für die Bildung der Jugend ist durch öffentliche Anstalten zu sorgen. Bei ihrer Einrichtung wirken Staat und Gemeinde zusammen. Auch die anerkannten Religionsgemeinschaften und weltanschaulichen Gemeinschaften sind Bildungsträger.\n(2) Die Lehrer an öffentlichen Schulen haben grundsätzlich die Rechte und Pflichten der Staatsbeamten.\n"
+      },
+      "art-134": {
+       "label": "Art. 134",
+       "kind": "art",
+       "text": "# Art. 134\n(1) Privatschulen müssen den an die öffentlichen Schulen gestellten Anforderungen entsprechen. Sie können nur mit Genehmigung des Staates errichtet und betrieben werden.\n(2) Die Genehmigung ist zu erteilen, wenn die Schule in ihren Lernzielen (Art. 131) und Einrichtungen sowie in der wissenschaftlichen Ausbildung ihrer Lehrer nicht hinter den gleichartigen öffentlichen Schulen zurücksteht, wenn die wirtschaftliche und rechtliche Stellung der Lehrer genügend gesichert ist und gegen die Person des Schulleiters keine Bedenken bestehen.\n(3) Private Volksschulen dürfen nur unter besonderen Voraussetzungen zugelassen werden. Diese Voraussetzungen liegen insbesonders vor, wenn den Erziehungsberechtigten eine öffentliche Schule ihres Bekenntnisses oder ihrer Weltanschauung nicht zur Verfügung steht.\n"
+      },
+      "art-135": {
+       "label": "Art. 135",
+       "kind": "art",
+       "text": "# Art. 135\nDie öffentlichen Volksschulen sind gemeinsame Schulen für alle volksschulpflichtigen Kinder. In ihnen werden die Schüler nach den Grundsätzen der christlichen Bekenntnisse unterrichtet und erzogen. Das Nähere bestimmt das Volksschulgesetz.\n"
+      },
+      "art-136": {
+       "label": "Art. 136",
+       "kind": "art",
+       "text": "# Art. 136\n(1) An allen Schulen sind beim Unterricht die religiösen Empfindungen aller zu achten.\n(2) Der Religionsunterricht ist ordentliches Lehrfach aller Volksschulen, Berufsschulen, mittleren und höheren Lehranstalten. Er wird erteilt in Übereinstimmung mit den Grundsätzen der betreffenden Religionsgemeinschaft.\n(3) Kein Lehrer kann gezwungen oder gehindert werden, Religionsunterricht zu erteilen.\n(4) Die Lehrer bedürfen der Bevollmächtigung durch die Religionsgemeinschaften zur Erteilung des Religionsunterrichts.\n(5) Die erforderlichen Schulräume sind zur Verfügung zu stellen.\n"
+      },
+      "art-137": {
+       "label": "Art. 137",
+       "kind": "art",
+       "text": "# Art. 137\n(1) Die Teilnahme am Religionsunterricht und an kirchlichen Handlungen und Feierlichkeiten bleibt der Willenserklärung der Erziehungsberechtigten, vom vollendeten 18. Lebensjahr ab der Willenserklärung der Schüler überlassen.\n(2) Für Schüler, die nicht am Religionsunterricht teilnehmen, ist ein Unterricht über die allgemein anerkannten Grundsätze der Sittlichkeit einzurichten.\n"
+      },
+      "art-138": {
+       "label": "Art. 138",
+       "kind": "art",
+       "text": "# Art. 138\n(1) Die Errichtung und Verwaltung der Hochschulen ist Sache des Staates. Eine Ausnahme bilden die kirchlichen Hochschulen (Art. 150 Abs. 1). Weitere Ausnahmen bedürfen staatlicher Genehmigung.\n(2) Die Hochschulen haben das Recht der Selbstverwaltung. Die Studierenden sind daran zu beteiligen, soweit es sich um ihre Angelegenheiten handelt.\n"
+      },
+      "art-139": {
+       "label": "Art. 139",
+       "kind": "art",
+       "text": "# Art. 139\nDie Erwachsenenbildung ist durch Volkshochschulen und sonstige mit öffentlichen Mitteln unterstützte Einrichtungen zu fördern.\n"
+      },
+      "art-140": {
+       "label": "Art. 140",
+       "kind": "art",
+       "text": "# Art. 140\n(1) Kunst und Wissenschaft sind von Staat und Gemeinde zu fördern.\n(2) Sie haben insbesonders Mittel zur Unterstützung schöpferischer Künstler, Gelehrter und Schriftsteller bereitzustellen, die den Nachweis ernster künstlerischer oder kultureller Tätigkeit erbringen.\n(3) Das kulturelle Leben und der Sport sind von Staat und Gemeinden zu fördern.\n"
+      },
+      "art-141": {
+       "label": "Art. 141",
+       "kind": "art",
+       "text": "# Art. 141\n(1) Der Schutz der natürlichen Lebensgrundlagen ist, auch eingedenk der Verantwortung für die kommenden Generationen, der besonderen Fürsorge jedes einzelnen und der staatlichen Gemeinschaft anvertraut. Tiere werden als Lebewesen und Mitgeschöpfe geachtet und geschützt. Mit Naturgütern ist schonend und sparsam umzugehen. Es gehört auch zu den vorrangigen Aufgaben von Staat, Gemeinden und Körperschaften des öffentlichen Rechts,\nBoden, Wasser und Luft als natürliche Lebensgrundlagen zu schützen, eingetretene Schäden möglichst zu beheben oder auszugleichen und auf möglichst sparsamen Umgang mit Energie zu achten,\ndie Leistungsfähigkeit des Naturhaushaltes zu erhalten und dauerhaft zu verbessern,\nden Wald wegen seiner besonderen Bedeutung für den Naturhaushalt zu schützen und eingetretene Schäden möglichst zu beheben oder auszugleichen,\ndie heimischen Tier- und Pflanzenarten und ihre notwendigen Lebensräume sowie kennzeichnende Orts- und Landschaftsbilder zu schonen und zu erhalten.\n(2) Staat, Gemeinden und Körperschaften des öffentlichen Rechts haben die Aufgabe,\ndie Denkmäler der Kunst, der Geschichte und der Natur sowie die Landschaft zu schützen und zu pflegen,\nherabgewürdigte Denkmäler der Kunst und der Geschichte möglichst ihrer früheren Bestimmung wieder zuzuführen,\ndie Abwanderung deutschen Kunstbesitzes ins Ausland zu verhüten.\n(3) Der Genuß der Naturschönheiten und die Erholung in der freien Natur, insbesondere das Betreten von Wald und Bergweide, das Befahren der Gewässer und die Aneignung wildwachsender Waldfrüchte in ortsüblichem Umfang ist jedermann gestattet. Dabei ist jedermann verpflichtet, mit Natur und Landschaft pfleglich umzugehen. Staat und Gemeinde sind berechtigt und verpflichtet, der Allgemeinheit die Zugänge zu Bergen, Seen, Flüssen und sonstigen landschaftlichen Schönheiten freizuhalten und allenfalls durch Einschränkungen des Eigentumsrechtes freizumachen sowie Wanderwege und Erholungsparks anzulegen.\n"
+      },
+      "art-142": {
+       "label": "Art. 142",
+       "kind": "art",
+       "text": "### 3. Abschnitt Religion und Religionsgemeinschaften\n# Art. 142\n(1) Es besteht keine Staatskirche.\n(2) Die Freiheit der Vereinigung zu gemeinsamer Hausandacht, zu öffentlichen Kulthandlungen und Religionsgemeinschaften sowie deren Zusammenschluß innerhalb Bayerns unterliegen im Rahmen der allgemein geltenden Gesetze keinerlei Beschränkung.\n(3) Kirchen und anerkannte Religionsgemeinschaften sowie solche weltanschauliche Gemeinschaften, deren Bestrebungen den allgemein geltenden Gesetzen nicht widersprechen, sind von staatlicher Bevormundung frei. Sie ordnen und verwalten ihre Angelegenheiten innerhalb der Schranken der für alle geltenden Gesetze selbständig. Sie verleihen ihre Ämter ohne Mitwirkung des Staates oder der politischen Gemeinde.\n"
+      },
+      "art-143": {
+       "label": "Art. 143",
+       "kind": "art",
+       "text": "# Art. 143\n(1) Die Religionsgemeinschaften und weltanschaulichen Gemeinschaften erwerben die Rechtsfähigkeit nach den Vorschriften des bürgerlichen Rechts.\n(2) Kirchen und anerkannte Religionsgemeinschaften bleiben Körperschaften des öffentlichen Rechts, soweit sie es bisher waren. Anderen anerkannten Religionsgemeinschaften sowie solchen weltanschaulichen Gemeinschaften, deren Bestrebungen den allgemein geltenden Gesetzen nicht widersprechen, sind nach einer Bestandszeit von fünf Jahren auf Antrag die gleichen Rechte zu gewähren.\n(3) Kirchen und Religionsgemeinschaften sowie weltanschauliche Gemeinschaften, die Körperschaften des öffentlichen Rechts sind, dürfen auf Grund der öffentlichen Steuerlisten Steuern erheben.\n"
+      },
+      "art-144": {
+       "label": "Art. 144",
+       "kind": "art",
+       "text": "# Art. 144\n(1) In der Erfüllung ihrer Amtspflichten genießen die Geistlichen den Schutz des Staates.\n(2) Jede öffentliche Verächtlichmachung der Religion, ihrer Einrichtungen, der Geistlichen und Ordensleute in ihrer Eigenschaft als Religionsdiener ist verboten und strafbar.\n(3) Geistliche können vor Gerichten und anderen Behörden nicht um Auskunft über Tatsachen angehalten werden, die ihnen in ihrer Eigenschaft als Seelsorger anvertraut worden sind.\n"
+      },
+      "art-145": {
+       "label": "Art. 145",
+       "kind": "art",
+       "text": "# Art. 145\n(1) Die auf Gesetz, Vertrag oder anderen Rechtstiteln beruhenden bisherigen Leistungen des Staates oder der politischen Gemeinden an die Religionsgemeinschaften bleiben aufrechterhalten.\n(2) Neue freiwillige Leistungen des Staates, der politischen Gemeinden und Gemeindeverbände an eine Religionsgemeinschaft werden durch Zuschläge zu den Staatssteuern und Umlagen der Angehörigen dieser Religionsgemeinschaft aufgebracht.\n"
+      },
+      "art-146": {
+       "label": "Art. 146",
+       "kind": "art",
+       "text": "# Art. 146\nDas Eigentum und andere Rechte der Religionsgemeinschaften, religiöser Vereine, Orden, Kongregationen, weltanschaulicher Gemeinschaften an ihren für Kultus-, Unterrichts- und Wohltätigkeitszwecke bestimmten Anstalten, Stiftungen und sonstigen Vermögen werden gewährleistet.\n"
+      },
+      "art-147": {
+       "label": "Art. 147",
+       "kind": "art",
+       "text": "# Art. 147\nDie Sonntage und staatlich anerkannten Feiertage bleiben als Tage der seelischen Erhebung und der Arbeitsruhe gesetzlich geschützt.\n"
+      },
+      "art-148": {
+       "label": "Art. 148",
+       "kind": "art",
+       "text": "# Art. 148\nSoweit das Bedürfnis nach Gottesdienst und Seelsorge in Krankenhäusern, Strafanstalten oder sonstigen öffentlichen Anstalten besteht, sind die Religionsgemeinschaften zur Vornahme religiöser Handlungen zuzulassen, wobei jeder Zwang fernzuhalten ist.\n"
+      },
+      "art-149": {
+       "label": "Art. 149",
+       "kind": "art",
+       "text": "# Art. 149\n(1) Die Gemeinden haben dafür zu sorgen, daß jeder Verstorbene schicklich beerdigt werden kann. Über die Mitwirkung der Religionsgemeinschaften haben diese selbst zu bestimmen.\n(2) In Friedhöfen, die nur für einzelne Religionsgemeinschaften bestimmt sind, ist die Beisetzung Andersgläubiger unter den für sie üblichen Formen und ohne räumliche Absonderung zu gestatten, wenn ein anderer geeigneter Begräbnisplatz nicht vorhanden ist.\n(3) Im übrigen bemißt sich der Simultangebrauch der Kirchen und Friedhöfe nach bisherigem Recht, soweit nicht durch Gesetz Abänderungen getroffen werden.\n"
+      },
+      "art-150": {
+       "label": "Art. 150",
+       "kind": "art",
+       "text": "# Art. 150\n(1) Die Kirchen haben das Recht, ihre Geistlichen auf eigenen kirchlichen Hochschulen auszubilden und fortzubilden.\n(2) Die theologischen Fakultäten an den Hochschulen bleiben erhalten.\n"
+      },
+      "art-151": {
+       "label": "Art. 151",
+       "kind": "art",
+       "text": "## Vierter Hauptteil Wirtschaft und Arbeit\n### 1. Abschnitt Die Wirtschaftsordnung\n# Art. 151\n(1) Die gesamte wirtschaftliche Tätigkeit dient dem Gemeinwohl, insbesonders der Gewährleistung eines menschenwürdigen Daseins für alle und der allmählichen Erhöhung der Lebenshaltung aller Volksschichten.\n(2) Innerhalb dieser Zwecke gilt Vertragsfreiheit nach Maßgabe der Gesetze. Die Freiheit der Entwicklung persönlicher Entschlußkraft und die Freiheit der selbständigen Betätigung des einzelnen in der Wirtschaft wird grundsätzlich anerkannt. Die wirtschaftliche Freiheit des einzelnen findet ihre Grenze in der Rücksicht auf den Nächsten und auf die sittlichen Forderungen des Gemeinwohls. Gemeinschädliche und unsittliche Rechtsgeschäfte, insbesonders alle wirtschaftlichen Ausbeutungsverträge sind rechtswidrig und nichtig.\n"
+      },
+      "art-152": {
+       "label": "Art. 152",
+       "kind": "art",
+       "text": "# Art. 152\nDie geordnete Herstellung und Verteilung der wirtschaftlichen Güter zur Deckung des notwendigen Lebensbedarfes der Bevölkerung wird vom Staat überwacht. Ihm obliegt die Sicherstellung der Versorgung des Landes mit elektrischer Kraft.\n"
+      },
+      "art-153": {
+       "label": "Art. 153",
+       "kind": "art",
+       "text": "# Art. 153\nDie selbständigen Kleinbetriebe und Mittelstandsbetriebe in Landwirtschaft, Handwerk, Handel, Gewerbe und Industrie sind in der Gesetzgebung und Verwaltung zu fördern und gegen Überlastung und Aufsaugung zu schützen. Sie sind in ihren Bestrebungen, ihre wirtschaftliche Freiheit und Unabhängigkeit sowie ihre Entwicklung durch genossenschaftliche Selbsthilfe zu sichern, vom Staat zu unterstützen. Der Aufstieg tüchtiger Kräfte aus nichtselbständiger Arbeit zu selbständigen Existenzen ist zu fördern.\n"
+      },
+      "art-154": {
+       "label": "Art. 154",
+       "kind": "art",
+       "text": "# Art. 154\nDie auf demokratischer Grundlage aus den Kreisen der Berufsverbände gewählten Selbstverwaltungsorgane der Wirtschaft nehmen an den wirtschaftlichen Gestaltungsaufgaben teil. Das Nähere bestimmt ein Gesetz.\n"
+      },
+      "art-155": {
+       "label": "Art. 155",
+       "kind": "art",
+       "text": "# Art. 155\nZum Zweck einer möglichst gleichmäßigen Befriedigung der wirtschaftlichen Bedürfnisse aller Bewohner können unter Berücksichtigung der Lebensinteressen der selbständigen, produktiv tätigen Kräfte der Wirtschaft durch Gesetz besondere Bedarfsdeckungsgebiete gebildet und dafür Körperschaften des öffentlichen Rechts auf genossenschaftlicher Grundlage errichtet werden. Sie haben im Rahmen der Gesetze das Recht auf Selbstverwaltung.\n"
+      },
+      "art-156": {
+       "label": "Art. 156",
+       "kind": "art",
+       "text": "# Art. 156\nDer Zusammenschluß von Unternehmungen zum Zwecke der Zusammenballung wirtschaftlicher Macht und der Monopolbildung ist unzulässig. Insbesondere sind Kartelle, Konzerne und Preisabreden verboten, welche die Ausbeutung der breiten Massen der Bevölkerung oder die Vernichtung selbständiger mittelständischer Existenzen bezwecken.\n"
+      },
+      "art-157": {
+       "label": "Art. 157",
+       "kind": "art",
+       "text": "# Art. 157\n(1) Kapitalbildung ist nicht Selbstzweck, sondern Mittel zur Entfaltung der Volkswirtschaft.\n(2) Das Geld- und Kreditwesen dient der Werteschaffung und der Befriedigung der Bedürfnisse aller Bewohner.\n"
+      },
+      "art-158": {
+       "label": "Art. 158",
+       "kind": "art",
+       "text": "#### 2. Abschnitt Das Eigentum\n# Art. 158\nEigentum verpflichtet gegenüber der Gesamtheit. Offenbarer Mißbrauch des Eigentums- oder Besitzrechts genießt keinen Rechtsschutz.\n"
+      },
+      "art-159": {
+       "label": "Art. 159",
+       "kind": "art",
+       "text": "# Art. 159\nEine Enteignung darf nur in den gesetzlich vorgesehenen Fällen und gegen angemessene Entschädigung erfolgen, die auch in Form einer Rente gewährt werden kann. Wegen der Höhe der Entschädigung steht im Streitfall der Rechtsweg vor den ordentlichen Gerichten offen.\n"
+      },
+      "art-160": {
+       "label": "Art. 160",
+       "kind": "art",
+       "text": "# Art. 160\n(1) Eigentum an Bodenschätzen, die für die allgemeine Wirtschaft von größerer Bedeutung sind, an wichtigen Kraftquellen, Eisenbahnen und anderen der Allgemeinheit dienenden Verkehrswegen und Verkehrsmitteln, an Wasserleitungen und Unternehmungen der Energieversorgung steht in der Regel Körperschaften oder Genossenschaften des öffentlichen Rechtes zu.\n(2) Für die Allgemeinheit lebenswichtige Produktionsmittel, Großbanken und Versicherungsunternehmungen können in Gemeineigentum übergeführt werden, wenn die Rücksicht auf die Gesamtheit es erfordert. Die Überführung erfolgt auf gesetzlicher Grundlage und gegen angemessene Entschädigung.\n(3) In Gemeineigentum stehende Unternehmen können, wenn es dem wirtschaftlichen Zweck entspricht, in einer privatwirtschaftlichen Form geführt werden.\n"
+      },
+      "art-161": {
+       "label": "Art. 161",
+       "kind": "art",
+       "text": "# Art. 161\n(1) Die Verteilung und Nutzung des Bodens wird von Staats wegen überwacht. Mißbräuche sind abzustellen.\n(2) Steigerungen des Bodenwertes, die ohne besonderen Arbeits- oder Kapitalaufwand des Eigentümers entstehen, sind für die Allgemeinheit nutzbar zu machen.\n"
+      },
+      "art-162": {
+       "label": "Art. 162",
+       "kind": "art",
+       "text": "# Art. 162\nDas geistige Eigentum, das Recht der Urheber, der Erfinder und Künstler genießen den Schutz und die Obsorge des Staates.\n"
+      },
+      "art-163": {
+       "label": "Art. 163",
+       "kind": "art",
+       "text": "### 3. Abschnitt Die Landwirtschaft\n# Art. 163\n(1) Grund und Boden sind frei. Der Bauer ist nicht an die Scholle gebunden.\n(2) Der in der land- und forstwirtschaftlichen Kultur stehende Grund und Boden aller Besitzgrößen dient der Gesamtheit des Volkes.\n(3) Das bäuerliche Eigentum an Grund und Boden wird gewährleistet.\n(4) Bauernland soll seiner Zweckbestimmung nicht entfremdet werden. Der Erwerb von land- und forstwirtschaftlich genutztem Boden soll von einem Nachweis der Eignung für sachgemäße Bewirtschaftung abhängig gemacht werden; er darf nicht lediglich der Kapitalanlage dienen.\n(5) Enteignungen an land- und forstwirtschaftlichem Grund und Boden sind nur für dringende Zwecke des Gesamtwohls, insbesonders der Siedlung, gegen angemessene Entschädigung unter Schonung der Mustergüter und Beispielwirtschaften zulässig.\n"
+      },
+      "art-164": {
+       "label": "Art. 164",
+       "kind": "art",
+       "text": "# Art. 164\n(1) Der landwirtschaftlichen Bevölkerung wird durch Anwendung des technischen Fortschritts auf ihren Lebensbereich, Verbesserung der Berufsausbildung, Pflege des landwirtschaftlichen Genossenschaftswesens und Förderung der Erzeugung und des Absatzes ein menschenwürdiges Auskommen auf der ererbten Heimatscholle gewährleistet.\n(2) Ein angemessenes landwirtschaftliches Einkommen wird durch eine den allgemeinen Wirtschaftsverhältnissen entsprechende Preis- und Lohngestaltung sowie durch Marktordnungen sichergestellt. Diesen werden Vereinbarungen zwischen den Organisationen der Erzeuger, Verteiler und Verbraucher zugrundegelegt.\n"
+      },
+      "art-165": {
+       "label": "Art. 165",
+       "kind": "art",
+       "text": "# Art. 165\nDie Überschuldung landwirtschaftlicher Betriebe ist durch die Gesetzgebung möglichst zu verhindern.\n"
+      },
+      "art-166": {
+       "label": "Art. 166",
+       "kind": "art",
+       "text": "### 4. Abschnitt Die Arbeit\n# Art. 166\n(1) Arbeit ist die Quelle des Volkswohlstandes und steht unter dem besonderen Schutz des Staates.\n(2) Jedermann hat das Recht, sich durch Arbeit eine auskömmliche Existenz zu schaffen.\n(3) Er hat das Recht und die Pflicht, eine seinen Anlagen und seiner Ausbildung entsprechende Arbeit im Dienste der Allgemeinheit nach näherer Bestimmung der Gesetze zu wählen.\n"
+      },
+      "art-167": {
+       "label": "Art. 167",
+       "kind": "art",
+       "text": "# Art. 167\n(1) Die menschliche Arbeitskraft ist als wertvollstes wirtschaftliches Gut eines Volkes gegen Ausbeutung, Betriebsgefahren und sonstige gesundheitliche Schädigungen geschützt.\n(2) Ausbeutung, die gesundheitliche Schäden nach sich zieht, ist als Körperverletzung strafbar.\n(3) Die Verletzung von Bestimmungen zum Schutz gegen Gefahren und gesundheitliche Schädigungen in Betrieben wird bestraft.\n"
+      },
+      "art-168": {
+       "label": "Art. 168",
+       "kind": "art",
+       "text": "# Art. 168\n(1) Jede ehrliche Arbeit hat den gleichen sittlichen Wert und Anspruch auf angemessenes Entgelt. Männer und Frauen erhalten für gleiche Arbeit den gleichen Lohn.\n(2) Arbeitsloses Einkommen arbeitsfähiger Personen wird nach Maßgabe der Gesetze mit Sondersteuern belegt.\n(3) Jeder Bewohner Bayerns, der arbeitsunfähig ist oder dem keine Arbeit vermittelt werden kann, hat ein Recht auf Fürsorge.\n"
+      },
+      "art-169": {
+       "label": "Art. 169",
+       "kind": "art",
+       "text": "# Art. 169\n(1) Für jeden Berufszweig können Mindestlöhne festgesetzt werden, die dem Arbeitnehmer eine den jeweiligen kulturellen Verhältnissen entsprechende Mindestlebenshaltung für sich und seine Familie ermöglichen.\n(2) Die Gesamtvereinbarungen zwischen Arbeitgeber- und Arbeitnehmerverbänden über das Arbeitsverhältnis sind für die Verbandsangehörigen verpflichtend und können, wenn es das Gesamtinteresse erfordert, für allgemein verbindlich erklärt werden.\n"
+      },
+      "art-170": {
+       "label": "Art. 170",
+       "kind": "art",
+       "text": "# Art. 170\n(1) Die Vereinigungsfreiheit zur Wahrung und Förderung der Arbeits- und Wirtschaftsbedingungen ist für jedermann und für alle Berufe gewährleistet.\n(2) Alle Abreden und Maßnahmen, welche die Vereinigungsfreiheit einschränken oder zu behindern suchen, sind rechtswidrig und nichtig.\n"
+      },
+      "art-171": {
+       "label": "Art. 171",
+       "kind": "art",
+       "text": "# Art. 171\nJedermann hat Anspruch auf Sicherung gegen die Wechselfälle des Lebens durch eine ausreichende Sozialversicherung im Rahmen der Gesetze.\n"
+      },
+      "art-172": {
+       "label": "Art. 172",
+       "kind": "art",
+       "text": "# Art. 172\nDie Rechte und Pflichten der Arbeitnehmer und Arbeitgeber werden in einem besonderen Gesetz geregelt.\n"
+      },
+      "art-173": {
+       "label": "Art. 173",
+       "kind": "art",
+       "text": "# Art. 173\nÜber die tägliche und wöchentliche Höchstarbeitszeit werden durch Gesetz besondere Bestimmungen erlassen.\n"
+      },
+      "art-174": {
+       "label": "Art. 174",
+       "kind": "art",
+       "text": "# Art. 174\n(1) Jeder Arbeitnehmer hat ein Recht auf Erholung. Es wird grundsätzlich gewährleistet durch ein freies Wochenende und durch einen Jahresurlaub unter Fortbezug des Arbeitsentgelts. Die besonderen Verhältnisse in einzelnen Berufen werden durch Gesetz geregelt. Der Lohnausfall an gesetzlichen Feiertagen ist zu vergüten.\n(2) Der 1. Mai ist gesetzlicher Feiertag.\n"
+      },
+      "art-175": {
+       "label": "Art. 175",
+       "kind": "art",
+       "text": "# Art. 175\nDie Arbeitnehmer haben bei allen wirtschaftlichen Unternehmungen ein Mitbestimmungsrecht in den sie berührenden Angelegenheiten sowie in Unternehmungen von erheblicher Bedeutung einen unmittelbaren Einfluß auf die Leitung und die Verwaltung der Betriebe. Zu diesem Zweck bilden sie Betriebsräte nach Maßgabe eines besonderen Gesetzes. Dieses enthält auch Bestimmungen über die Mitwirkung der Betriebsräte bei Einstellung und Entlassung von Arbeitnehmern.\n"
+      },
+      "art-176": {
+       "label": "Art. 176",
+       "kind": "art",
+       "text": "# Art. 176\nDie Arbeitnehmer als gleichberechtigte Glieder der Wirtschaft nehmen zusammen mit den übrigen in der Wirtschaft Tätigen an den wirtschaftlichen Gestaltungsaufgaben teil.\n"
+      },
+      "art-177": {
+       "label": "Art. 177",
+       "kind": "art",
+       "text": "# Art. 177\n(1) Arbeitsstreitigkeiten werden durch Arbeitsgerichte entschieden, die aus einer gleichen Anzahl von Arbeitnehmern und Arbeitgebern und einem unabhängigen Vorsitzenden zusammengesetzt sind.\n(2) Schiedssprüche in Arbeitsstreitigkeiten können gemäß den bestehenden Gesetzen für allgemeinverbindlich erklärt werden.\n"
+      },
+      "art-178": {
+       "label": "Art. 178",
+       "kind": "art",
+       "text": "## Schluß- und Übergangsbestimmungen\n# Art. 178\nBayern wird einem künftigen deutschen demokratischen Bundesstaat beitreten. Er soll auf einem freiwilligen Zusammenschluß der deutschen Einzelstaaten beruhen, deren staatsrechtliches Eigenleben zu sichern ist.\n"
+      },
+      "art-179": {
+       "label": "Art. 179",
+       "kind": "art",
+       "text": "# Art. 179\nDie in dieser Verfassung bezeichneten sozialen, wirtschaftlichen und kulturellen Körperschaften, Selbstverwaltungsorgane der Wirtschaft und Organisationen der Erzeuger, Verteiler und Verbraucher (Art. 154, 155, 164) sind keine öffentlichen Behörden und dürfen keine staatlichen Machtbefugnisse ausüben. Zwangsmitgliedschaft bei ihnen ist ausgeschlossen.\n"
+      },
+      "art-180": {
+       "label": "Art. 180",
+       "kind": "art",
+       "text": "# Art. 180\nBis zur Errichtung eines deutschen demokratischen Bundesstaates ist die Bayerische Staatsregierung ermächtigt, soweit es unumgänglich notwendig ist, mit Zustimmung des Bayerischen Landtags Zuständigkeiten des Staates Bayern auf den Gebieten der auswärtigen Beziehungen, der Wirtschaft, Ernährung, des Geldwesens und des Verkehrs an den Rat der Ministerpräsidenten der Staaten der US-Zone oder andere deutsche Gemeinschaftseinrichtungen mehrerer Staaten oder Zonen abzutreten.\n"
+      },
+      "art-181": {
+       "label": "Art. 181",
+       "kind": "art",
+       "text": "# Art. 181\nDas Recht des Bayerischen Staates, im Rahmen seiner Zuständigkeit Staatsverträge abzuschließen, bleibt unberührt.\n"
+      },
+      "art-182": {
+       "label": "Art. 182",
+       "kind": "art",
+       "text": "# Art. 182\nDie früher geschlossenen Staatsverträge, insbesonders die Verträge mit den christlichen Kirchen vom 24. Januar 1925 bleiben in Kraft.\n"
+      },
+      "art-183": {
+       "label": "Art. 183",
+       "kind": "art",
+       "text": "# Art. 183\nAlle durch die nationalsozialistische Gewaltherrschaft wegen ihrer religiösen oder politischen Haltung oder wegen ihrer Rasse Geschädigten haben im Rahmen der Gesetzgebung Anspruch auf Wiedergutmachung.\n"
+      },
+      "art-184": {
+       "label": "Art. 184",
+       "kind": "art",
+       "text": "# Art. 184\nDie Gültigkeit von Gesetzen, die gegen Nationalsozialismus und Militarismus gerichtet sind oder ihre Folgen beseitigen wollen, wird durch diese Verfassung nicht berührt oder beschränkt.\n"
+      },
+      "art-185": {
+       "label": "Art. 185",
+       "kind": "art",
+       "text": "# Art. 185\nDie alten Kreise (Regierungsbezirke) mit ihren Regierungssitzen werden ehestens wiederhergestellt.\n"
+      },
+      "art-186": {
+       "label": "Art. 186",
+       "kind": "art",
+       "text": "# Art. 186\n(1) Die Bayerische Verfassung vom 14. August 1919 ist aufgehoben.\n(2) Die übrigen Gesetze und Verordnungen bleiben vorläufig in Kraft, soweit ihnen diese Verfassung nicht entgegensteht.\n(3) Anordnungen der Behörden, die auf Grund bisheriger Gesetze in rechtsüblicher Weise getroffen waren, behalten ihre Gültigkeit bis zur Aufhebung im Wege anderweitiger Anordnung oder Gesetzgebung.\n"
+      },
+      "art-187": {
+       "label": "Art. 187",
+       "kind": "art",
+       "text": "# Art. 187\nAlle Beamten und Angestellten im öffentlichen Dienst sind auf diese Verfassung zu vereidigen.\n"
+      },
+      "art-188": {
+       "label": "Art. 188",
+       "kind": "art",
+       "text": "# Art. 188\nJeder Schüler erhält vor Beendigung der Schulpflicht einen Abdruck dieser Verfassung.\n"
+      }
+     },
+     "credits": {},
+     "note": "Consolidated text as published by BAYERN.RECHT on 2026-10-30 (in force from 2020-01-01; BayRS 100-1-I)."
+    }
+   ]
+  }
+ ],
+ "laws": {},
+ "applies": [],
+ "sources": [
+  {
+   "name": "Bürgerservice BAYERN.RECHT (Bayerische Staatskanzlei), XML download of each act",
+   "url": "https://www.gesetze-bayern.de",
+   "retrieved": "2026-10-30",
+   "licence": "BAYERN.RECHT \"Rechtliche Hinweise und Nutzungsbedingungen\": the Vorschriften may be used and reused without restriction of place, time or content, and expressly reproduced, distributed, made public and processed commercially and non-commercially (simple right of use; database right under §§ 87a ff. UrhG unaffected). § 5 Abs. 1 UrhG: Gesetze, Verordnungen and amtliche Erlasse enjoy no copyright protection.",
+   "notes": "1 acts in this part, each the current consolidated version (XML \"byrecht-norm\", one file per act)."
+  }
+ ],
+ "decisions": [
+  "Current text only: BAYERN.RECHT publishes only the consolidated version in force, so each act is one version (\"oldest version available\"), credited to the publisher, not to an amending law.",
+  "Each version is dated by the in-force day the XML gives for the consolidated version (angaben.versabh/inkraft); if it is missing, by the Ausfertigung date. Days after the retrieval day go on the zukunft branch.",
+  "One file per Artikel or Paragraph (einzelnorm); headings of the Teile and Abschnitte stand above the first provision under them; \"000-titel\" holds the title lines, the citation line and the list of amending acts the portal prints.",
+  "Left out as editorial: footnotes (fn.call) and sentence numbers (satz.nr). Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the BAYERN.RECHT XML."
+ ],
+ "country": {
+  "code": "DE-BY",
+  "name": "Bavaria",
+  "slug": "germany-bavaria",
+  "lang": "de",
+  "tz": "Europe/Berlin",
+  "future_branch": "zukunft",
+  "publisher": {
+   "name": "Bayerische Staatskanzlei (Bürgerservice BAYERN.RECHT)",
+   "email": "bayern-recht@gesetze-bayern.de.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Verfassung des Freistaates Bayern Art. 76 Abs. 2: \"Jedes Gesetz muß den Tag bestimmen, an dem es in Kraft tritt.\" Each version here is dated by the in-force day BAYERN.RECHT gives for the consolidated text it publishes (the \"inkraft\" date of that version).",
+   "source": "https://www.gesetze-bayern.de/Content/Document/BayVerf-82"
+  },
+  "licence_note": "Texts: Bürgerservice BAYERN.RECHT (Bayerische Staatskanzlei; consolidation by Verlag C.H.Beck on behalf of the Free State of Bavaria), www.gesetze-bayern.de. Its terms allow the texts of the Vorschriften to be used, reproduced and distributed without restriction, commercially or not; Gesetze and Verordnungen are not protected by copyright (§ 5 Abs. 1 UrhG). Non-official text: only the Gesetz- und Verordnungsblatt is authoritative."
+ }
+}
