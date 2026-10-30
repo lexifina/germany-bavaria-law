@@ -3,6 +3,8 @@
     python -X utf8 fetch.py list          # the result list for NORMTYP ges, every page
     python -X utf8 fetch.py zip BayVerf BayBO ...
     python -X utf8 fetch.py zip --all     # every act on the cached list
+    python -X utf8 fetch.py list rv       # the Rechtsverordnungen list (.cache/list-rv/)
+    python -X utf8 fetch.py zip --all-rv  # every Rechtsverordnung on that list
 
 Private (never published). One process, one request at a time, at least 2.5 s apart (robots.txt: Allow /, no
 Crawl-delay), curl with a browser User-Agent, cached by name; stops on 403/429 or a challenge page.
@@ -46,15 +48,16 @@ def get(url: str, out: Path, jar: bool = False) -> int:
     return code
 
 
-def listing():
+def listing(normtyp: str = 'ges'):
+    d = CACHE / ('list' if normtyp == 'ges' else f'list-{normtyp}')
     JAR.unlink(missing_ok=True)
-    for f in (CACHE / 'list').glob('*.html'):
+    for f in d.glob('*.html'):
         f.unlink()
-    get(f'{BASE}/Search/Filter/NORMTYP/ges', CACHE / 'list' / 'p001.html', jar=True)
-    seen = set(re.findall(r'href="/Content/Document/([^"?/]+)\?hl=true"', (CACHE / 'list' / 'p001.html').read_text(encoding='utf-8')))
+    get(f'{BASE}/Search/Filter/NORMTYP/{normtyp}', d / 'p001.html', jar=True)
+    seen = set(re.findall(r'href="/Content/Document/([^"?/]+)\?hl=true"', (d / 'p001.html').read_text(encoding='utf-8')))
     n = 2
     while n < 200:
-        out = CACHE / 'list' / f'p{n:03d}.html'
+        out = d / f'p{n:03d}.html'
         get(f'{BASE}/Search/Page/{n}', out, jar=True)
         new = set(re.findall(r'href="/Content/Document/([^"?/]+)\?hl=true"', out.read_text(encoding='utf-8'))) - seen
         if not new:
@@ -63,13 +66,12 @@ def listing():
         seen |= new
         n += 1
     print(len(seen), 'documents on', n - 1, 'pages')
-    (CACHE / 'list' / 'DONE').write_text(f'{len(seen)} {n - 1}
-')
+    (d / 'DONE').write_text(f'{len(seen)} {n - 1}' + chr(10))
 
 
-def ids_from_list() -> list[str]:
+def ids_from_list(sub: str = 'list') -> list[str]:
     ids = []
-    for f in sorted((CACHE / 'list').glob('p*.html')):
+    for f in sorted((CACHE / sub).glob('p*.html')):
         for i in re.findall(r'href="/Content/Document/([^"?/]+)\?hl=true"', f.read_text(encoding='utf-8')):
             if i not in ids:
                 ids.append(i)
@@ -78,8 +80,9 @@ def ids_from_list() -> list[str]:
 
 if __name__ == '__main__':
     if sys.argv[1] == 'list':
-        listing()
+        listing(*sys.argv[2:3])
     elif sys.argv[1] == 'zip':
-        ids = ids_from_list() if sys.argv[2:] == ['--all'] else sys.argv[2:]
+        ids = ids_from_list() if sys.argv[2:] == ['--all'] else (
+            ids_from_list('list-rv') if sys.argv[2:] == ['--all-rv'] else sys.argv[2:])
         for i in ids:
             print(i, get(f'{BASE}/Content/Zip/{i}', CACHE / 'zip' / f'{i}.zip'), flush=True)
