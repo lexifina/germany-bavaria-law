@@ -33,8 +33,8 @@ COUNTRY = {
                   'email': 'bayern-recht@gesetze-bayern.de.invalid'},
     'default_in_force_rule': {
         'text': 'Verfassung des Freistaates Bayern Art. 76 Abs. 2: "Jedes Gesetz muß den Tag bestimmen, an dem es in '
-                'Kraft tritt." Each version here is dated by the in-force day BAYERN.RECHT gives for the consolidated '
-                'text it publishes (the "inkraft" date of that version).',
+                'Kraft tritt." Each version here is dated by the day BAYERN.RECHT says its consolidated text applies '
+                'from ("Text gilt ab", the "inkraft" date of the XML).',
         'source': 'https://www.gesetze-bayern.de/Content/Document/BayVerf-82'},
     'licence_note': 'Texts: Bürgerservice BAYERN.RECHT (Bayerische Staatskanzlei; consolidation by Verlag C.H.Beck on '
                     'behalf of the Free State of Bavaria), www.gesetze-bayern.de. Its terms allow the texts of the '
@@ -281,7 +281,7 @@ def amending_laws(amend: list[str]) -> dict:
         gy = gy or y
         key = f'gvbl-{gy}-{int(page):04d}'
         laws[key] = {'label': f'Gesetz vom {int(d)}.{int(mo)}.{y} (GVBl. {gy} S. {int(page)})',
-                     'title': None, 'kind': 'law', 'enacted': f'{y}-{int(mo):02d}-{int(d):02d}', 'published': None,
+                     'title': norm(t[:m.start()]) or None, 'kind': 'law', 'enacted': f'{y}-{int(mo):02d}-{int(d):02d}', 'published': None,
                      'url': None, 'temporary_until': None, 'restores': None,
                      'note': 'Listed by BAYERN.RECHT among the acts that amended this act; its text is not in this record.'}
     return laws
@@ -328,8 +328,10 @@ def part(name: str, ids: list[str], country: bool) -> None:
            'decisions': [
                'Current text only: BAYERN.RECHT publishes only the consolidated version in force, so each act is one '
                'version ("oldest version available"), credited to the publisher, not to an amending law.',
-               'Each version is dated by the in-force day the XML gives for the consolidated version (angaben.versabh/'
-               'inkraft); if it is missing, by the Ausfertigung date. Days after the retrieval day go on the zukunft branch.',
+               'Each version is dated by the day BAYERN.RECHT says the consolidated text applies from ("Text gilt ab"; '
+               'the XML's inkraft date); if it is missing, by the Ausfertigung date. For some acts that day is earlier '
+               'than the date of the last amending act the portal lists; the portal's own date is kept, not guessed '
+               'over. Days after the retrieval day go on the zukunft branch.',
                'One file per Artikel or Paragraph (einzelnorm); headings of the Teile and Abschnitte stand above the first '
                'provision under them; "000-titel" holds the title lines, the citation line and the list of amending acts '
                'the portal prints.',
