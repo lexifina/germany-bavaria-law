@@ -190,6 +190,21 @@ def parse_xml(raw: bytes, dokid: str) -> dict:
     pending: list[str] = []
     order = ['000-titel']
 
+    def annex(ch: ET.Element):
+        nr_el, ti_el = ch.find('.//annex.nummer'), ch.find('.//annex.titel')
+        nr = norm(' '.join(lines(nr_el)) or inline(nr_el)) if nr_el is not None else ''
+        ti = norm(' '.join(lines(ti_el)) or inline(ti_el)) if ti_el is not None else ''
+        key, kind = unit_key(nr or 'Anlage', seen, pad)
+        body: list[str] = []
+        for koerper in ch:
+            for x in koerper:
+                if x.tag not in ('annex.nummer', 'annex.titel'):
+                    body += lines(x) if x.tag in BLOCK or len(x) else [y for y in [norm(inline(x))] if y]
+        heading = '# ' + ' '.join(x for x in (nr, ti) if x)
+        units[key] = {'label': nr or 'Anlage', 'kind': 'annex', 'text': '\n'.join(pending + [heading] + body) + '\n'}
+        pending.clear()
+        order.append(key)
+
     def walk(el: ET.Element, depth: int):
         for ch in el:
             if ch.tag in ('normzitat', 'aenderungsverlauf', 'gliederung.titel'):
@@ -231,18 +246,7 @@ def parse_xml(raw: bytes, dokid: str) -> dict:
                 units[key] = {'label': label, 'kind': kind, 'text': text}
                 order.append(key)
             elif ch.tag == 'annex':
-                nr = norm(' '.join(lines(ch.find('annex.nummer')))) if ch.find('annex.nummer') is not None else ''
-                ti = norm(' '.join(lines(ch.find('annex.titel')))) if ch.find('annex.titel') is not None else ''
-                key, kind = unit_key(nr or ti or 'Anlage', seen, pad)
-                body = []
-                for x in ch:
-                    if x.tag not in ('annex.nummer', 'annex.titel'):
-                        body += lines(x)
-                heading = '# ' + ' '.join(x for x in (nr, ti) if x)
-                units[key] = {'label': nr or ti or 'Anlage', 'kind': 'annex',
-                              'text': '\n'.join(pending + [heading] + body) + '\n'}
-                pending.clear()
-                order.append(key)
+                annex(ch)
             elif ch.tag in ('jurAbsatz', 'p', 'ul', 'table'):  # loose text outside any Einzelnorm
                 key, kind = unit_key('text', seen, pad)
                 units[key] = {'label': 'Text', 'kind': 'other', 'text': '\n'.join(pending + lines(ch)) + '\n'}
@@ -251,6 +255,8 @@ def parse_xml(raw: bytes, dokid: str) -> dict:
             else:
                 walk(ch, depth)
     walk(rumpf, 1)
+    for ch in root.findall('annex'):
+        annex(ch)
     if pending and order:
         units[order[-1]]['text'] += '\n'.join(pending) + '\n'
     return {'dokid': dokid, 'inkraft': inkraft, 'ausfertigung': ausf, 'title': title_lines[0], 'title_lines': title_lines,
