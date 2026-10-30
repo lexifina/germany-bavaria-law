@@ -5,6 +5,7 @@
 Reads only the cache; the same cache gives the same bytes. Parts:
   10-verfassung.json   the Verfassung des Freistaates Bayern
   20-gesetze-NN.json   the other Gesetze, in the portal's list order, about 50 acts a part
+  40-verordnungen-NN.json   the Rechtsverordnungen (NORMTYP rv), in the portal's list order, about 50 acts a part
 A part is written only when every act it holds is in the cache, so a published part never changes when more arrive.
 """
 from __future__ import annotations
@@ -287,6 +288,32 @@ def amending_laws(amend: list[str]) -> dict:
     return laws
 
 
+def published_labels() -> dict:
+    """Law key -> label in the parts already written (the Verfassung and Gesetze): a key keeps its label."""
+    out = {}
+    for f in sorted((HERE / 'corpus.d').glob('*.json')):
+        if not f.name.startswith('40-'):
+            for k, lw in json.loads(f.read_text(encoding='utf-8')).get('laws', {}).items():
+                out.setdefault(k, lw['label'])
+    return out
+
+
+def vo_labels(laws: dict, known: dict) -> dict:
+    """In the Verordnungen parts, a new key is labelled by the kind of act its title names (an amending
+    Verordnung "V", "ÄndV", ... or an amending Gesetz "G", "ÄndG", ...); a key the earlier parts hold keeps their
+    label."""
+    for k, lw in laws.items():
+        if k in known:
+            lw['label'] = known[k]
+            continue
+        t = lw.get('title') or ''
+        mv = re.search(r'(?<![\w])(V|VO|VOen|\w*V|\w*[Vv]erordnung\w*)(?![\w])', t)
+        mg = re.search(r'(?<![\w])(G|\w*G|\w*[Gg]esetz\w*)(?![\w])', t)
+        if mv and (not mg or mv.start() < mg.start()):
+            lw['label'] = 'Verordnung' + lw['label'][len('Gesetz'):]
+    return laws
+
+
 def act_of(dokid: str) -> tuple[dict, dict]:
     path = CACHE / 'zip' / f'{dokid}.zip'
     raw, _ = read_zip(path)
@@ -314,7 +341,7 @@ def part(name: str, ids: list[str], country: bool) -> None:
             print('no date, left out:', i, file=sys.stderr)
             continue
         acts.append(a)
-        laws.update(amending_laws(p['amend']))
+        laws.update(vo_labels(amending_laws(p['amend']), KNOWN) if name.startswith('40-') else amending_laws(p['amend']))
     out = {'acts': acts, 'laws': dict(sorted(laws.items())), 'applies': [],
            'sources': [{'name': 'Bürgerservice BAYERN.RECHT (Bayerische Staatskanzlei), XML download of each act',
                         'url': BASE, 'retrieved': RETRIEVED,
@@ -349,9 +376,12 @@ def part(name: str, ids: list[str], country: bool) -> None:
     print(name, len(acts), 'acts', sum(len(a['versions'][0]['units']) for a in acts), 'units')
 
 
-def list_ids() -> list[str]:
+KNOWN: dict = {}
+
+
+def list_ids(sub: str = 'list') -> list[str]:
     ids = []
-    for f in sorted((CACHE / 'list').glob('p*.html')):
+    for f in sorted((CACHE / sub).glob('p*.html')):
         for i in re.findall(r'href="/Content/Document/([^"?/]+)\?hl=true"', f.read_text(encoding='utf-8')):
             if i not in ids:
                 ids.append(i)
@@ -368,3 +398,15 @@ if __name__ == '__main__':
             break
         if all((CACHE / 'zip' / f'{i}.zip').exists() for i in chunk):
             part(f'20-gesetze-{n // PART_SIZE + 1:02d}', chunk, country=False)
+    # the Rechtsverordnungen (ordinances wave, 2026-10-30): NORMTYP rv, list order, about 50 acts a part; the last,
+    # short part only once the whole list is fetched (.cache/rv-done)
+    KNOWN.update(published_labels())
+    ids = list_ids('list-rv')
+    for n in range(0, len(ids), PART_SIZE):
+        chunk = ids[n:n + PART_SIZE]
+        if len(chunk) < PART_SIZE and not (CACHE / 'rv-done').exists():
+            break
+        if all((CACHE / 'zip' / f'{i}.zip').exists() for i in chunk):
+            part(f'40-verordnungen-{n // PART_SIZE + 1:02d}', chunk, country=False)
+        else:
+            break
