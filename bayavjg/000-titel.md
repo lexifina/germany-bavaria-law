@@ -3,7 +3,7 @@
 Vom 1. März 1983
 (GVBl. S. 51)
 BayRS 792-2-W
-Verordnung zur Ausführung des Bayerischen Jagdgesetzes (AVBayJG) vom 1. März 1983 (GVBl. S. 51, BayRS 792-2-W), die zuletzt durch die §§ 4 und 5 des Gesetzes vom 26. März 2026 (GVBl. S. 113) geändert worden ist
+Verordnung zur Ausführung des Bayerischen Jagdgesetzes (AVBayJG) vom 1. März 1983 (GVBl. S. 51, BayRS 792-2-W), die zuletzt durch Verordnung vom 13. Oktober 2026 (GVBl. S. 621) geändert worden ist
 Änderungen
 1. § 1 ÄndV vom 10.2.1984 (GVBl. S. 60)
 2. § 1 ÄndV vom 25.4.1985 (GVBl. S. 118)
@@ -33,3 +33,4 @@ Verordnung zur Ausführung des Bayerischen Jagdgesetzes (AVBayJG) vom 1. März 1
 26. V zur Änderung der Verordnung zur Ausführung des Bayerischen Jagdgesetzes vom 29.7.2024 (GVBl. S. 397)
 27. Verordnung zur Änderung der Verordnung zur Ausführung des Bayerischen Jagdgesetzes vom 12.8.2025 (GVBl. S. 463)
 28. §§ 4, 5 Gesetz zur Änderung des Bayerischen Jagdgesetzes und weiterer Rechtsvorschriften vom 26.3.2026 (GVBl. S. 113)
+29. Verordnung zur Änderung der Verordnung zur Ausführung des Bayerischen Jagdgesetzes vom 13.10.2026 (GVBl. S. 621)
