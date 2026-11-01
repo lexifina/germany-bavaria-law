@@ -3,7 +3,7 @@
 Vom 2. Februar 2021
 (GVBl. S. 26)
 BayRS 2132-1-24-B
-Digitale Bauantragsverordnung (DBauV) vom 2. Februar 2021 (GVBl. S. 26, BayRS 2132-1-24-B), die zuletzt durch Verordnung vom 2. Oktober 2026 (GVBl. S. 614) geändert worden ist
+Digitale Bauantragsverordnung (DBauV) vom 2. Februar 2021 (GVBl. S. 26, BayRS 2132-1-24-B), die zuletzt durch Verordnung vom 26. Oktober 2026 (GVBl. S. 694) geändert worden ist
 Änderungen
 1. §§ 1, 2 Verordnung zur Änderung der Digitalen Bauantragsverordnung vom 7.7.2021 (GVBl. S. 474)
 2. §§ 1, 2 Verordnung zur Änderung der Digitalen Bauantragsverordnung vom 24.8.2021 (GVBl. S. 569)
@@ -42,3 +42,4 @@ Digitale Bauantragsverordnung (DBauV) vom 2. Februar 2021 (GVBl. S. 26, BayRS 21
 35. Verordnung zur Änderung der Digitalen Bauantragsverordnung vom 15.5.2026 (GVBl. S. 300)
 36. Verordnung zur Änderung der Digitalen Bauantragsverordnung vom 27.8.2026 (GVBl. S. 590)
 37. Verordnung zur Änderung der Digitalen Bauantragsverordnung vom 2.10.2026 (GVBl. S. 614)
+38. Verordnung zur Änderung der Digitalen Bauantragsverordnung vom 26.10.2026 (GVBl. S. 694)
