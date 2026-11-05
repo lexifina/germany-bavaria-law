@@ -1,13 +1,13 @@
 {
  "check": {
-  "acts": 241,
+  "acts": 727,
   "backwards": 0,
-  "corpus_sha256": "1e8fa000acd7cb42b0456933e09e27512db9839595ce1bd7cd8ca11bbbcd5688",
+  "corpus_sha256": "ce95fa5945fbb572fdc7a364bbbc82b5eb4327c8cad0278226b576a6537ab7c7",
   "future_dated": 0,
   "merges": 0,
   "mismatches": 0,
   "missing_in_force": 0,
   "trailer_errors": 0,
-  "versions": 241
+  "versions": 727
  }
 }
