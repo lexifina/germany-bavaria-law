@@ -3,7 +3,7 @@
 Vom 2. Dezember 2008
 (GVBl. S. 912, 982)
 BayRS 86-8-A/G
-Verordnung zur Ausführung der Sozialgesetze (AVSG) vom 2. Dezember 2008 (GVBl. S. 912, 982, BayRS 86-8-A/G), die zuletzt durch Verordnung vom 21. Juli 2026 (GVBl. S. 556) geändert worden ist
+Verordnung zur Ausführung der Sozialgesetze (AVSG) vom 2. Dezember 2008 (GVBl. S. 912, 982, BayRS 86-8-A/G), die zuletzt durch § 1 der Verordnung vom 28. Oktober 2026 (GVBl. S. 698) geändert worden ist
 Änderungen
 1. § 1 ÄndV vom 1.7.2009 (GVBl. S. 306)
 2. § 1 Zweite ÄndV vom 24.11.2009 (GVBl. S. 617, geänd. durch § 3 Abs. 2 Nr. 2 G v. 5.12.2017, GVBl. S. 538)
@@ -56,3 +56,5 @@ Verordnung zur Ausführung der Sozialgesetze (AVSG) vom 2. Dezember 2008 (GVBl. 
 49. § 1 Abs. 100 V zur Anpassung des Landesrechts an die geltende Geschäftsverteilung vom 4.6.2024 (GVBl. S. 98)
 50. § 4 Gesetz zur Änderung des Bayerischen Familiengeldgesetzes und weiterer Rechtsvorschriften vom 21.11.2025 (GVBl. S. 570)
 51. Verordnung zur Änderung der Verordnung zur Ausführung der Sozialgesetze vom 21.7.2026 (GVBl. S. 556)
+52. Verordnung zur Änderung der Verordnung zur Ausführung der Sozialgesetze vom 14.10.2026 (GVBl. S. 623)
+53. § 1 Verordnung zur Änderung der Verordnung zur Ausführung der Sozialgesetze und weiterer Rechtsvorschriften vom 28.10.2026 (GVBl. S. 698)
