@@ -1532,7 +1532,7 @@ Nutzerinnen und Nutzer der vom MDM betroffenen Geräte.
 3.
 Kategorien der verarbeiteten Daten
 3.1
-Angaben zu den Nutzerinnen und Nutzern bzw. zu deren Nutzerkonten (insbesondere Namensangaben, ID-Adresse, Kommunikationsdaten, Benutzergruppe).
+Angaben zu den Nutzerinnen und Nutzern bzw. zu deren Nutzerkonten (insbesondere Namensangaben, personalisierte Nutzerkennung, Kommunikationsdaten, Benutzergruppe).
 3.2
 Informationen zur Identifikation der verwalteten Geräte (z.B. Gerätename, Geräte-ID, IP-Adresse, MAC-Adresse, Gerätegruppe).
 3.3

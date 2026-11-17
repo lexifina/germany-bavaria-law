@@ -3,7 +3,7 @@
 Vom 1. Juli 2016
 (GVBl. S. 164, 241)
 BayRS 2230-1-1-1-K
-Bayerische Schulordnung (BaySchO) vom 1. Juli 2016 (GVBl. S. 164, 241, BayRS 2230-1-1-1-K), die zuletzt durch § 1 der Verordnung vom 1. Juli 2026 (GVBl. S. 425) geändert worden ist
+Bayerische Schulordnung (BaySchO) vom 1. Juli 2016 (GVBl. S. 164, 241, BayRS 2230-1-1-1-K), die zuletzt durch § 1 der Verordnung vom 27. Oktober 2026 (GVBl. S. 696) geändert worden ist
 Änderungen
 1. § 43b Abs. 1 Fachober- und Berufsoberschulordnung vom 28.8.2017 (GVBl. S. 451)
 2. § 1 V zur Änderung der Bayerischen Schulordnung und anderer Schulordnungen vom 12.1.2018 (GVBl. S. 23)
@@ -25,3 +25,4 @@ Bayerische Schulordnung (BaySchO) vom 1. Juli 2016 (GVBl. S. 164, 241, BayRS 223
 18. § 1 Verordnung zur Änderung der Bayerischen Schulordnung und weiterer Rechtsvorschriften vom 2.7.2025 (GVBl. S. 272)
 19. § 3 Verordnung zur Änderung der Verordnung Zulassungs- und Ausbildungsordnung berufliche Schulen und weiterer Rechtsvorschriften vom 4.7.2025 (GVBl. S. 298)
 20. § 1 Verordnung zur Änderung der Bayerischen Schulordnung und weiterer Rechtsvorschriften vom 1.7.2026 (GVBl. S. 425)
+21. § 1 Verordnung zur Änderung der Bayerischen Schulordnung und weiterer Rechtsvorschriften vom 27.10.2026 (GVBl. S. 696)
