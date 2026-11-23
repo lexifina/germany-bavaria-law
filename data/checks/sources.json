@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "bayern-recht",
+   "kind": "legislation",
+   "name": {
+    "en": "BAYERN.RECHT (Bavarian State Chancellery)",
+    "de": "BAYERN.RECHT (Bayerische Staatskanzlei)"
+   },
+   "url": "https://www.gesetze-bayern.de",
+   "reads": {
+    "en": "the Fundstellennachweis (every act of the BayRS with the notes of each change), and the XML download of each act it shows changed and of a thirtieth of the held acts a day",
+    "de": "den Fundstellennachweis (jede Vorschrift der BayRS mit den Hinweisen auf jede Änderung) und den XML-Download jeder Vorschrift, die er als geändert zeigt, und täglich eines Dreißigstels der Vorschriften hier"
+   },
+   "folders": [
+    "<act>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "germany/bavaria/acts"
+   ],
+   "interval": 2.5,
+   "allow": [
+    "bay"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "generated": "2026-11-23T20:55:52Z",
+ "latest": {
+  "bayern-recht|germany/bavaria/acts": {
+   "attempt": 1,
+   "audit": {
+    "match_neither": 5,
+    "match_new": 0,
+    "match_old": 0,
+    "method": "read again as the act's HTML page on BAYERN.RECHT (/Content/Document/<id>; the check reads the XML download): every provision file's letters and digits found in the page's",
+    "rows": [
+     {
+      "id": "bayavjg",
+      "published": true,
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayAVJG",
+      "verdict": "match_neither",
+      "why": "11 of 62 provision files found on the page"
+     },
+     {
+      "id": "bayavsg",
+      "published": true,
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayAVSG",
+      "verdict": "match_neither",
+      "why": "11 of 209 provision files found on the page"
+     },
+     {
+      "id": "baybeamtvg",
+      "published": true,
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayBeamtVG",
+      "verdict": "match_neither",
+      "why": "0 of 129 provision files found on the page"
+     },
+     {
+      "id": "baybesg",
+      "published": true,
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayBesG",
+      "verdict": "match_neither",
+      "why": "0 of 129 provision files found on the page"
+     },
+     {
+      "id": "baydbauv",
+      "published": true,
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayDBauV",
+      "verdict": "match_neither",
+      "why": "3 of 18 provision files found on the page"
+     }
+    ],
+    "sampled": 5,
+    "unread": 0
+   },
+   "census": {
+    "checked": 88,
+    "current": 751,
+    "gone": 0,
+    "held": 768,
+    "newest_at_source": null,
+    "newest_in_repo": "baydvpog",
+    "pending": 17,
+    "repo": 727,
+    "source_in_scope": 727
+   },
+   "check_id": "de-bayern-recht-20261123T205124Z",
+   "commits": {
+    "count": 17,
+    "from": "f2e55bb4ce8f1e3af19ccd307ca5b620838b506a",
+    "to": "703798ef7feed5343d1e1562ca73f58f4f430ac2"
+   },
+   "corpus": "germany/bavaria/acts",
+   "error": null,
+   "finished": "2026-11-23T20:55:51Z",
+   "flags": [
+    {
+     "detail": "5 of 5 read again by a second route disagree",
+     "flag": "audit-disagrees"
+    }
+   ],
+   "gap": 0,
+   "note": "BAYERN.RECHT's Fundstellennachweis (one page: every act of the BayRS with the notes of each change) compared with the last check's for every held act; the XML of each act it shows changed, of each held act it does not list, and of a thirtieth of the held acts a day was read and compared with the one held (88 read); 145 entries are not Gesetze or Verordnungen (Staatsverträge, Abkommen, Bekanntmachungen, …), outside the builder's lists (NORMTYP ges and rv), counted not listed; first check: the list was recorded as the baseline for the next check",
+   "outcome": "changed",
+   "published": {
+    "added": [],
+    "changed": [
+     "bayavjg",
+     "bayavsg",
+     "baybeamtvg",
+     "baybesg",
+     "baydbauv",
+     "bayhintg",
+     "baykraso",
+     "baylabv",
+     "baypoa",
+     "bayscho2016",
+     "baysigjurvd",
+     "baystrgvv",
+     "bayvfghg",
+     "bayvsubodaltv",
+     "bayzlv",
+     "bayzulv",
+     "bayzustv"
+    ],
+    "removed": []
+   },
+   "requests": 94,
+   "runner": "lawwatch germany (725dd60068)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": null,
+   "source": "bayern-recht",
+   "started": "2026-11-23T20:51:24Z",
+   "unexplained": 0,
+   "update": {
+    "commits": 17,
+    "corrections": 7,
+    "failed": 0,
+    "same": 0,
+    "versions": 10
+   },
+   "verify": {
+    "cycle_days": 30,
+    "examples": [],
+    "explained": 0,
+    "method": "the XML download of a thirtieth of the held acts a day (and of every act the Fundstellennachweis shows changed) parsed with the builder's parse.py and compared with the act's folder file for file; acts published by this check counted as compared",
+    "ok": true,
+    "versions_checked": 88,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
