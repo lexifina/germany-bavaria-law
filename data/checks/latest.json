@@ -1,107 +1,80 @@
 {
- "generated": "2026-11-23T20:55:52Z",
+ "generated": "2026-11-24T00:20:01Z",
  "latest": {
   "bayern-recht|germany/bavaria/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": {
-    "match_neither": 5,
-    "match_new": 0,
+    "match_neither": 0,
+    "match_new": 5,
     "match_old": 0,
-    "method": "read again as the act's HTML page on BAYERN.RECHT (/Content/Document/<id>; the check reads the XML download): every provision file's letters and digits found in the page's",
+    "method": "read again as the act's whole page on BAYERN.RECHT (/Content/Document/<id>/true; the check reads the XML download): the share of the words of its provision files (not 000-titel.md, whose list of amending acts the page does not print) found on the page, at least 0.98 (tables are joined differently)",
     "rows": [
      {
-      "id": "bayavjg",
-      "published": true,
-      "read": "https://www.gesetze-bayern.de/Content/Document/BayAVJG",
-      "verdict": "match_neither",
-      "why": "11 of 62 provision files found on the page"
+      "id": "baypbg",
+      "published": false,
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayPBG/true",
+      "share": 1.0,
+      "verdict": "match_new"
      },
      {
-      "id": "bayavsg",
-      "published": true,
-      "read": "https://www.gesetze-bayern.de/Content/Document/BayAVSG",
-      "verdict": "match_neither",
-      "why": "11 of 209 provision files found on the page"
+      "id": "bayaasgebo",
+      "published": false,
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayAASGebO/true",
+      "share": 1.0,
+      "verdict": "match_new"
      },
      {
-      "id": "baybeamtvg",
-      "published": true,
-      "read": "https://www.gesetze-bayern.de/Content/Document/BayBeamtVG",
-      "verdict": "match_neither",
-      "why": "0 of 129 provision files found on the page"
+      "id": "baygstvoarbg",
+      "published": false,
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayGStVOArbG/true",
+      "share": 1.0,
+      "verdict": "match_new"
      },
      {
-      "id": "baybesg",
-      "published": true,
-      "read": "https://www.gesetze-bayern.de/Content/Document/BayBesG",
-      "verdict": "match_neither",
-      "why": "0 of 129 provision files found on the page"
+      "id": "bayschiffo",
+      "published": false,
+      "read": "https://www.gesetze-bayern.de/Content/Document/BaySchiffO/true",
+      "share": 1.0,
+      "verdict": "match_new"
      },
      {
-      "id": "baydbauv",
-      "published": true,
-      "read": "https://www.gesetze-bayern.de/Content/Document/BayDBauV",
-      "verdict": "match_neither",
-      "why": "3 of 18 provision files found on the page"
+      "id": "baynparkv1982-604",
+      "published": false,
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayNParkV1982_604/true",
+      "share": 1.0,
+      "verdict": "match_new"
      }
     ],
     "sampled": 5,
     "unread": 0
    },
    "census": {
-    "checked": 88,
-    "current": 751,
+    "checked": 26,
+    "current": 768,
     "gone": 0,
     "held": 768,
     "newest_at_source": null,
-    "newest_in_repo": "baydvpog",
-    "pending": 17,
+    "newest_in_repo": "bayzustv",
+    "pending": 0,
     "repo": 727,
     "source_in_scope": 727
    },
-   "check_id": "de-bayern-recht-20261123T205124Z",
-   "commits": {
-    "count": 17,
-    "from": "f2e55bb4ce8f1e3af19ccd307ca5b620838b506a",
-    "to": "703798ef7feed5343d1e1562ca73f58f4f430ac2"
-   },
+   "check_id": "de-bayern-recht-20261123T234838Z",
+   "commits": null,
    "corpus": "germany/bavaria/acts",
    "error": null,
-   "finished": "2026-11-23T20:55:51Z",
-   "flags": [
-    {
-     "detail": "5 of 5 read again by a second route disagree",
-     "flag": "audit-disagrees"
-    }
-   ],
+   "finished": "2026-11-23T23:49:59Z",
+   "flags": [],
    "gap": 0,
-   "note": "BAYERN.RECHT's Fundstellennachweis (one page: every act of the BayRS with the notes of each change) compared with the last check's for every held act; the XML of each act it shows changed, of each held act it does not list, and of a thirtieth of the held acts a day was read and compared with the one held (88 read); 145 entries are not Gesetze or Verordnungen (Staatsverträge, Abkommen, Bekanntmachungen, …), outside the builder's lists (NORMTYP ges and rv), counted not listed; first check: the list was recorded as the baseline for the next check",
-   "outcome": "changed",
+   "note": "BAYERN.RECHT's Fundstellennachweis (one page: every act of the BayRS with the notes of each change) compared with the last check's for every held act; the XML of each act it shows changed, of each held act it does not list, and of a thirtieth of the held acts a day was read and compared with the one held (26 read); 145 entries are not Gesetze or Verordnungen (Staatsverträge, Abkommen, Bekanntmachungen, …), outside the builder's lists (NORMTYP ges and rv), counted not listed",
+   "outcome": "no-change",
    "published": {
     "added": [],
-    "changed": [
-     "bayavjg",
-     "bayavsg",
-     "baybeamtvg",
-     "baybesg",
-     "baydbauv",
-     "bayhintg",
-     "baykraso",
-     "baylabv",
-     "baypoa",
-     "bayscho2016",
-     "baysigjurvd",
-     "baystrgvv",
-     "bayvfghg",
-     "bayvsubodaltv",
-     "bayzlv",
-     "bayzulv",
-     "bayzustv"
-    ],
+    "changed": [],
     "removed": []
    },
-   "requests": 94,
-   "runner": "lawwatch germany (725dd60068)",
+   "requests": 32,
+   "runner": "lawwatch germany (22a9910bc1)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
@@ -110,22 +83,16 @@
    },
    "snapshot": null,
    "source": "bayern-recht",
-   "started": "2026-11-23T20:51:24Z",
+   "started": "2026-11-23T23:48:38Z",
    "unexplained": 0,
-   "update": {
-    "commits": 17,
-    "corrections": 7,
-    "failed": 0,
-    "same": 0,
-    "versions": 10
-   },
+   "update": {},
    "verify": {
     "cycle_days": 30,
     "examples": [],
     "explained": 0,
     "method": "the XML download of a thirtieth of the held acts a day (and of every act the Fundstellennachweis shows changed) parsed with the builder's parse.py and compared with the act's folder file for file; acts published by this check counted as compared",
     "ok": true,
-    "versions_checked": 88,
+    "versions_checked": 26,
     "versions_differ": 0
    }
   }

@@ -8,9 +8,9 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### BAYERN.RECHT (Bavarian State Chancellery) · `germany/bavaria/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-23 20:55 UTC**.
-- Acts held here: 768; current at the source: 751; changed at the source since the version held here: 17; no longer at the source: 0.
-- Compared with the source in this read: 88 of the 768 acts held here; the others were not compared in this read (see the check's note).
+- The official source last read and every act held here checked against it: **2026-11-23 23:49 UTC**.
+- Acts held here: 768; current at the source: 768; changed at the source since the version held here: 0; no longer at the source: 0.
+- Compared with the source in this read: 26 of the 768 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 0 (—); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).
