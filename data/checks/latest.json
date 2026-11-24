@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-24T00:20:01Z",
+ "generated": "2026-11-24T07:24:24Z",
  "latest": {
   "bayern-recht|germany/bavaria/acts": {
-   "attempt": 2,
+   "attempt": 1,
    "audit": {
     "match_neither": 0,
     "match_new": 5,
@@ -10,37 +10,37 @@
     "method": "read again as the act's whole page on BAYERN.RECHT (/Content/Document/<id>/true; the check reads the XML download): the share of the words of its provision files (not 000-titel.md, whose list of amending acts the page does not print) found on the page, at least 0.98 (tables are joined differently)",
     "rows": [
      {
-      "id": "baypbg",
+      "id": "bayforg",
       "published": false,
-      "read": "https://www.gesetze-bayern.de/Content/Document/BayPBG/true",
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayFoRG/true",
+      "share": 0.9996,
+      "verdict": "match_new"
+     },
+     {
+      "id": "bay-nnmluwunv",
+      "published": false,
+      "read": "https://www.gesetze-bayern.de/Content/Document/Bay_NNMLuWunV/true",
       "share": 1.0,
       "verdict": "match_new"
      },
      {
-      "id": "bayaasgebo",
+      "id": "baybeheinrv",
       "published": false,
-      "read": "https://www.gesetze-bayern.de/Content/Document/BayAASGebO/true",
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayBehEinrV/true",
       "share": 1.0,
       "verdict": "match_new"
      },
      {
-      "id": "baygstvoarbg",
+      "id": "baypo-z",
       "published": false,
-      "read": "https://www.gesetze-bayern.de/Content/Document/BayGStVOArbG/true",
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayPO_Z/true",
       "share": 1.0,
       "verdict": "match_new"
      },
      {
-      "id": "bayschiffo",
+      "id": "bayqualvfl",
       "published": false,
-      "read": "https://www.gesetze-bayern.de/Content/Document/BaySchiffO/true",
-      "share": 1.0,
-      "verdict": "match_new"
-     },
-     {
-      "id": "baynparkv1982-604",
-      "published": false,
-      "read": "https://www.gesetze-bayern.de/Content/Document/BayNParkV1982_604/true",
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayQualVFL/true",
       "share": 1.0,
       "verdict": "match_new"
      }
@@ -59,11 +59,11 @@
     "repo": 727,
     "source_in_scope": 727
    },
-   "check_id": "de-bayern-recht-20261123T234838Z",
+   "check_id": "de-bayern-recht-20261124T072300Z",
    "commits": null,
    "corpus": "germany/bavaria/acts",
    "error": null,
-   "finished": "2026-11-23T23:49:59Z",
+   "finished": "2026-11-24T07:24:22Z",
    "flags": [],
    "gap": 0,
    "note": "BAYERN.RECHT's Fundstellennachweis (one page: every act of the BayRS with the notes of each change) compared with the last check's for every held act; the XML of each act it shows changed, of each held act it does not list, and of a thirtieth of the held acts a day was read and compared with the one held (26 read); 145 entries are not Gesetze or Verordnungen (Staatsverträge, Abkommen, Bekanntmachungen, …), outside the builder's lists (NORMTYP ges and rv), counted not listed",
@@ -83,7 +83,7 @@
    },
    "snapshot": null,
    "source": "bayern-recht",
-   "started": "2026-11-23T23:48:38Z",
+   "started": "2026-11-24T07:23:00Z",
    "unexplained": 0,
    "update": {},
    "verify": {
