@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T07:24:24Z",
+ "generated": "2026-11-25T07:45:18Z",
  "latest": {
   "bayern-recht|germany/bavaria/acts": {
    "attempt": 1,
@@ -10,37 +10,37 @@
     "method": "read again as the act's whole page on BAYERN.RECHT (/Content/Document/<id>/true; the check reads the XML download): the share of the words of its provision files (not 000-titel.md, whose list of amending acts the page does not print) found on the page, at least 0.98 (tables are joined differently)",
     "rows": [
      {
-      "id": "bayforg",
+      "id": "bayorgbauv",
       "published": false,
-      "read": "https://www.gesetze-bayern.de/Content/Document/BayFoRG/true",
-      "share": 0.9996,
-      "verdict": "match_new"
-     },
-     {
-      "id": "bay-nnmluwunv",
-      "published": false,
-      "read": "https://www.gesetze-bayern.de/Content/Document/Bay_NNMLuWunV/true",
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayOrgBauV/true",
       "share": 1.0,
       "verdict": "match_new"
      },
      {
-      "id": "baybeheinrv",
+      "id": "baystusembsv",
       "published": false,
-      "read": "https://www.gesetze-bayern.de/Content/Document/BayBehEinrV/true",
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayStuSembSV/true",
       "share": 1.0,
       "verdict": "match_new"
      },
      {
-      "id": "baypo-z",
+      "id": "bayavwolfv2024",
       "published": false,
-      "read": "https://www.gesetze-bayern.de/Content/Document/BayPO_Z/true",
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayAVWolfV2024/true",
       "share": 1.0,
       "verdict": "match_new"
      },
      {
-      "id": "bayqualvfl",
+      "id": "bayvv-2246-wk-1022",
       "published": false,
-      "read": "https://www.gesetze-bayern.de/Content/Document/BayQualVFL/true",
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayVV_2246_WK_1022/true",
+      "share": 1.0,
+      "verdict": "match_new"
+     },
+     {
+      "id": "baywo-baypvg",
+      "published": false,
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayWO_BayPVG/true",
       "share": 1.0,
       "verdict": "match_new"
      }
@@ -59,11 +59,11 @@
     "repo": 727,
     "source_in_scope": 727
    },
-   "check_id": "de-bayern-recht-20261124T072300Z",
+   "check_id": "de-bayern-recht-20261125T071440Z",
    "commits": null,
    "corpus": "germany/bavaria/acts",
    "error": null,
-   "finished": "2026-11-24T07:24:22Z",
+   "finished": "2026-11-25T07:15:59Z",
    "flags": [],
    "gap": 0,
    "note": "BAYERN.RECHT's Fundstellennachweis (one page: every act of the BayRS with the notes of each change) compared with the last check's for every held act; the XML of each act it shows changed, of each held act it does not list, and of a thirtieth of the held acts a day was read and compared with the one held (26 read); 145 entries are not Gesetze or Verordnungen (Staatsverträge, Abkommen, Bekanntmachungen, …), outside the builder's lists (NORMTYP ges and rv), counted not listed",
@@ -74,7 +74,7 @@
     "removed": []
    },
    "requests": 32,
-   "runner": "lawwatch germany (22a9910bc1)",
+   "runner": "lawwatch germany (040e66c4a9)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
@@ -83,7 +83,7 @@
    },
    "snapshot": null,
    "source": "bayern-recht",
-   "started": "2026-11-24T07:23:00Z",
+   "started": "2026-11-25T07:14:40Z",
    "unexplained": 0,
    "update": {},
    "verify": {
