@@ -8,6 +8,6 @@ How global-law watches every country's sources: [global-law WATCHING.md](https:/
 
 | Source | What is read | Folders | How often | Last read | State |
 | --- | --- | --- | --- | --- | --- |
-| [BAYERN.RECHT (Bavarian State Chancellery)](https://www.gesetze-bayern.de) | the Fundstellennachweis (every act of the BayRS with the notes of each change), and the XML download of each act it shows changed and of a thirtieth of the held acts a day | `<act>/` | daily | 2026-11-25 07:14 UTC | watched |
+| [BAYERN.RECHT (Bavarian State Chancellery)](https://www.gesetze-bayern.de) | the Fundstellennachweis (every act of the BayRS with the notes of each change), and the XML download of each act it shows changed and of a thirtieth of the held acts a day | `<act>/` | daily | 2026-11-26 07:16 UTC | watched |
 
 Sources are read within their robots.txt and terms, with pauses between requests.

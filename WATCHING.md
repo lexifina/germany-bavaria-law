@@ -8,6 +8,6 @@ Wie global-law die Quellen jedes Landes beobachtet: [global-law WATCHING.md](htt
 
 | Quelle | Was gelesen wird | Ordner | Wie oft | Zuletzt gelesen | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [BAYERN.RECHT (Bayerische Staatskanzlei)](https://www.gesetze-bayern.de) | den Fundstellennachweis (jede Vorschrift der BayRS mit den Hinweisen auf jede Änderung) und den XML-Download jeder Vorschrift, die er als geändert zeigt, und täglich eines Dreißigstels der Vorschriften hier | `<act>/` | täglich | 2026-11-25 07:14 UTC | beobachtet |
+| [BAYERN.RECHT (Bayerische Staatskanzlei)](https://www.gesetze-bayern.de) | den Fundstellennachweis (jede Vorschrift der BayRS mit den Hinweisen auf jede Änderung) und den XML-Download jeder Vorschrift, die er als geändert zeigt, und täglich eines Dreißigstels der Vorschriften hier | `<act>/` | täglich | 2026-11-26 07:16 UTC | beobachtet |
 
 Die Quellen werden im Rahmen ihrer robots.txt und Nutzungsbedingungen gelesen, mit Pausen zwischen den Anfragen.
