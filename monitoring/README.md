@@ -6,18 +6,22 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Bayern: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-27 07:16 UTC, BAYERN.RECHT (Bayerische Staatskanzlei): 32 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 0 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-28 09:18 UTC, BAYERN.RECHT (Bayerische Staatskanzlei): 32 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 0 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [BAYERN.RECHT (Bayerische Staatskanzlei)](https://www.gesetze-bayern.de) | `<act>/` | täglich | 2026-11-27 07:16 UTC | keine Änderung | beobachtet |
+| [BAYERN.RECHT (Bayerische Staatskanzlei)](https://www.gesetze-bayern.de) | `<act>/` | täglich | 2026-11-28 09:18 UTC | keine Änderung | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 09:17](checks/2026-11.md#de-bayern-recht-20261128t091734z) | bayern-recht | 32 | 0 | 0 | 0 | 0 (0) | keine Änderung | — |
+| [2026-11-28 08:02](checks/2026-11.md#de-bayern-recht-20261128t080207z) | bayern-recht | 0 | 0 | 0 | 0 | 0 (0) | die Prüfung ist fehlgeschlagen | — |
+| [2026-11-28 07:02](checks/2026-11.md#de-bayern-recht-20261128t070207z) | bayern-recht | 0 | 0 | 0 | 0 | 0 (0) | die Prüfung ist fehlgeschlagen | — |
+| [2026-11-28 06:45](checks/2026-11.md#de-bayern-recht-20261128t064519z) | bayern-recht | 0 | 0 | 0 | 0 | 0 (0) | die Prüfung ist fehlgeschlagen | — |
 | [2026-11-27 07:15](checks/2026-11.md#de-bayern-recht-20261127t071528z) | bayern-recht | 32 | 0 | 0 | 0 | 0 (0) | keine Änderung | — |
 | [2026-11-26 07:16](checks/2026-11.md#de-bayern-recht-20261126t071607z) | bayern-recht | 32 | 0 | 0 | 0 | 0 (0) | keine Änderung | — |
 | [2026-11-25 07:14](checks/2026-11.md#de-bayern-recht-20261125t071440z) | bayern-recht | 32 | 0 | 0 | 0 | 0 (0) | keine Änderung | — |

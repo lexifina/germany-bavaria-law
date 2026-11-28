@@ -6,18 +6,22 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Bavaria only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-27 07:16 UTC, BAYERN.RECHT (Bavarian State Chancellery): 32 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
+**Last check:** 2026-11-28 09:18 UTC, BAYERN.RECHT (Bavarian State Chancellery): 32 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [BAYERN.RECHT (Bavarian State Chancellery)](https://www.gesetze-bayern.de) | `<act>/` | daily | 2026-11-27 07:16 UTC | no change | watched |
+| [BAYERN.RECHT (Bavarian State Chancellery)](https://www.gesetze-bayern.de) | `<act>/` | daily | 2026-11-28 09:18 UTC | no change | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 09:17](checks/2026-11.md#de-bayern-recht-20261128t091734z) | bayern-recht | 32 | 0 | 0 | 0 | 0 (0) | no change | — |
+| [2026-11-28 08:02](checks/2026-11.md#de-bayern-recht-20261128t080207z) | bayern-recht | 0 | 0 | 0 | 0 | 0 (0) | the check failed | — |
+| [2026-11-28 07:02](checks/2026-11.md#de-bayern-recht-20261128t070207z) | bayern-recht | 0 | 0 | 0 | 0 | 0 (0) | the check failed | — |
+| [2026-11-28 06:45](checks/2026-11.md#de-bayern-recht-20261128t064519z) | bayern-recht | 0 | 0 | 0 | 0 | 0 (0) | the check failed | — |
 | [2026-11-27 07:15](checks/2026-11.md#de-bayern-recht-20261127t071528z) | bayern-recht | 32 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-26 07:16](checks/2026-11.md#de-bayern-recht-20261126t071607z) | bayern-recht | 32 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-25 07:14](checks/2026-11.md#de-bayern-recht-20261125t071440z) | bayern-recht | 32 | 0 | 0 | 0 | 0 (0) | no change | — |

@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T07:46:55Z",
+ "generated": "2026-11-28T09:48:58Z",
  "latest": {
   "bayern-recht|germany/bavaria/acts": {
-   "attempt": 1,
+   "attempt": 4,
    "audit": {
     "match_neither": 0,
     "match_new": 5,
@@ -10,38 +10,38 @@
     "method": "read again as the act's whole page on BAYERN.RECHT (/Content/Document/<id>/true; the check reads the XML download): the share of the words of its provision files (not 000-titel.md, whose list of amending acts the page does not print) found on the page, at least 0.98 (tables are joined differently)",
     "rows": [
      {
-      "id": "bayhwkamtsbzv",
+      "id": "bayavschfg",
       "published": false,
-      "read": "https://www.gesetze-bayern.de/Content/Document/BayHwKAmtsBZV/true",
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayAVSchFG/true",
+      "share": 0.99,
+      "verdict": "match_new"
+     },
+     {
+      "id": "baylglv",
+      "published": false,
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayLGLV/true",
       "share": 1.0,
       "verdict": "match_new"
      },
      {
-      "id": "bayimiv",
+      "id": "bayvgtiers",
       "published": false,
-      "read": "https://www.gesetze-bayern.de/Content/Document/BayIMIV/true",
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayVGTierS/true",
       "share": 1.0,
       "verdict": "match_new"
      },
      {
-      "id": "bayzalr",
+      "id": "bayagvwgo",
       "published": false,
-      "read": "https://www.gesetze-bayern.de/Content/Document/BayZALR/true",
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayAGVwGO/true",
       "share": 1.0,
       "verdict": "match_new"
      },
      {
-      "id": "bayfachvebtd",
+      "id": "bayvv-2030-8-3-f-13527",
       "published": false,
-      "read": "https://www.gesetze-bayern.de/Content/Document/BayFachVebtD/true",
-      "share": 1.0,
-      "verdict": "match_new"
-     },
-     {
-      "id": "bayukg",
-      "published": false,
-      "read": "https://www.gesetze-bayern.de/Content/Document/BayUKG/true",
-      "share": 1.0,
+      "read": "https://www.gesetze-bayern.de/Content/Document/BayVV_2030_8_3_F_13527/true",
+      "share": 0.9856,
       "verdict": "match_new"
      }
     ],
@@ -59,11 +59,11 @@
     "repo": 727,
     "source_in_scope": 727
    },
-   "check_id": "de-bayern-recht-20261127T071528Z",
+   "check_id": "de-bayern-recht-20261128T091734Z",
    "commits": null,
    "corpus": "germany/bavaria/acts",
    "error": null,
-   "finished": "2026-11-27T07:16:48Z",
+   "finished": "2026-11-28T09:18:54Z",
    "flags": [],
    "gap": 0,
    "note": "BAYERN.RECHT's Fundstellennachweis (one page: every act of the BayRS with the notes of each change) compared with the last check's for every held act; the XML of each act it shows changed, of each held act it does not list, and of a thirtieth of the held acts a day was read and compared with the one held (26 read); 145 entries are not Gesetze or Verordnungen (Staatsverträge, Abkommen, Bekanntmachungen, …), outside the builder's lists (NORMTYP ges and rv), counted not listed",
@@ -83,7 +83,7 @@
    },
    "snapshot": null,
    "source": "bayern-recht",
-   "started": "2026-11-27T07:15:28Z",
+   "started": "2026-11-28T09:17:34Z",
    "unexplained": 0,
    "update": {},
    "verify": {
